@@ -1,0 +1,207 @@
+.button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  min-height: var(--control-min-height);
+  padding: 11px 17px;
+  border-radius: var(--radius-md);
+  font-size: var(--text-control);
+  font-weight: 600;
+  border: 1px solid transparent;
+  line-height: 1.4;
+}
+.button.primary {
+  background: var(--accent);
+  color: var(--color-surface);
+  box-shadow: 0 3px 7px #6558f51a;
+}
+.button.primary:hover:not(:disabled) {
+  background: #594be6;
+}
+.button.secondary {
+  background: var(--color-surface);
+  border-color: #e1e0ed;
+  color: #656176;
+}
+.button.secondary:hover {
+  background: #f8f7ff;
+}
+.search-field {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  padding: var(--space-2-5) var(--space-3);
+  color: #a39bad;
+}
+.search-field input {
+  background: none;
+  border: none;
+  font-size: var(--text-control);
+  width: 160px;
+  color: #51495e;
+}
+.search-field input::placeholder {
+  color: #aaa2b5;
+}
+.icon-button {
+  display: inline-grid;
+  place-items: center;
+  flex-shrink: 0;
+  border: 1px solid var(--color-border-control);
+  background: #f7f5fc;
+  border-radius: 9px;
+  width: 36px;
+  height: 36px;
+  color: #9984c6;
+}
+.icon-button:hover:not(:disabled) {
+  background: #eee8fc;
+}
+.text-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-1-5);
+  border: 0;
+  background: none;
+  font-size: var(--text-control);
+  color: #a094b1;
+  padding: 0;
+}
+.text-button:hover:not(:disabled) {
+  color: var(--accent);
+}
+.tabs {
+  display: flex;
+  gap: var(--space-1-5);
+  background: var(--color-surface-tabs);
+  padding: var(--space-1);
+  border-radius: 9px;
+}
+.tabs button {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: 9px var(--space-3);
+  border: none;
+  border-radius: var(--radius-sm);
+  color: #9a92aa;
+  font-size: var(--text-control);
+  background: transparent;
+}
+.tabs button.selected {
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  color: #6656a2;
+}
+.tabs button span {
+  font-size: var(--text-caption);
+  background: #f1eff8;
+  padding: 1px var(--space-1);
+  border-radius: 3px;
+}
+@media (max-width: 760px) {
+  .tabs button {
+    font-size: var(--text-xs);
+    padding: 9px;
+  }
+}
+@media (max-width: 520px) {
+  .tabs {
+    width: max-content;
+  }
+}
+@media (max-width: 520px) {
+  .tabs button {
+    font-size: var(--text-control);
+    padding-inline: var(--space-3-5);
+  }
+}
+.checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: #81738e;
+  cursor: pointer;
+}
+.checkbox {
+  accent-color: var(--accent);
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.tabs-navigation {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1-5);
+  padding: var(--space-1);
+  background: var(--color-surface-tabs);
+  border-radius: 9px;
+  width: max-content;
+  max-width: 100%;
+}
+.tabs-navigation a {
+  padding: var(--space-2-5) var(--space-4-5);
+  border-radius: var(--radius-sm);
+  color: #8e819d;
+  font-size: var(--text-sm);
+  font-weight: 550;
+}
+.tabs-navigation a:hover {
+  color: var(--accent);
+}
+.tabs-navigation a.active {
+  background: var(--color-surface);
+  color: var(--accent);
+  box-shadow: var(--shadow-sm);
+}
+@media (max-width: 520px) {
+  .tabs-navigation a {
+    padding: 9px var(--space-4);
+    font-size: var(--text-control);
+  }
+}
+.select {
+  padding: 11px;
+  border: 1px solid #e7daef;
+  border-radius: 7px;
+  font-size: var(--text-control);
+  color: #9c7eae;
+  background: var(--color-surface);
+  max-width: 100%;
+}
+.select--compact {
+  min-width: 0;
+  padding: var(--space-2-5) var(--space-3);
+  border-color: var(--color-border-control);
+  border-radius: 9px;
+  color: var(--color-text-secondary);
+  font-size: var(--text-sm);
+}
+.select--badge {
+  border-color: var(--color-border-accent);
+  border-radius: var(--radius-sm);
+  padding: var(--space-1-5) var(--space-2);
+  font-size: var(--text-sm);
+  cursor: pointer;
+}
+.select--accent {
+  color: #78629f;
+  background: var(--color-surface-accent);
+  border-color: var(--color-border-accent);
+}
+.select--success {
+  color: var(--color-success);
+  background: var(--color-surface-success);
+  border-color: var(--color-border-success);
+}
+.checkbox:focus-visible,
+.select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}

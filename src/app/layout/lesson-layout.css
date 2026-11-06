@@ -1,0 +1,90 @@
+.lesson-shell {
+  min-height: 100vh;
+  min-height: 100dvh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-page);
+}
+.lesson-main {
+  flex: 1;
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  width: 100%;
+  padding: var(--space-10) var(--space-6);
+}
+.lesson-main > .learning-layout {
+  width: 100%;
+  max-width: 690px;
+  margin: 0 auto;
+}
+.lesson-main > .completion,
+.lesson-main > .empty-state {
+  width: 100%;
+  max-width: 690px;
+  margin: 0 auto;
+}
+.lesson-session {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  width: 100%;
+  min-height: calc(100vh - 80px);
+  min-height: calc(100dvh - 80px);
+}
+.lesson-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lesson-brand {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font-size: var(--text-3xl);
+}
+.lesson-session-body {
+  display: grid;
+  align-content: center;
+  padding: var(--space-8) 0 104px;
+}
+.lesson-session-body > .learning-layout {
+  width: 100%;
+  max-width: var(--content-narrow-width);
+  margin: 0 auto;
+}
+.lesson-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 40px;
+}
+.lesson-end-button {
+  padding: var(--space-3) var(--space-4-5);
+  color: #8b7f99;
+}
+@media (max-width: 520px) {
+  .lesson-main {
+    padding: var(--space-6) var(--space-4);
+  }
+  .lesson-session {
+    min-height: calc(100vh - 48px);
+    min-height: calc(100dvh - 48px);
+  }
+  .lesson-session-body {
+    padding: var(--space-7) 0 52px;
+  }
+  .lesson-brand {
+    font-size: 25px;
+  }
+  .lesson-main .completion {
+    padding: 30px var(--space-5);
+  }
+}
+
+.completion .completion-finish {
+  width: min(100%, 260px);
+  font-weight: 700;
+}

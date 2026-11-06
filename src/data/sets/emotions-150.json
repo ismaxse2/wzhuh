@@ -1,0 +1,7903 @@
+{
+  "id": "emotions-150",
+  "title": "Эмоции и чувства",
+  "description": "Слова, чтобы говорить о настроении, чувствах и переживаниях",
+  "level": "A2–B1",
+  "words": [
+    {
+      "id": "emotions-150-happy-adjective-1",
+      "vocabularyId": "happy-adjective-1",
+      "word": "happy",
+      "translation": "счастливый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈhæpi/",
+      "example": "I feel happy today.",
+      "exampleTranslation": "Сегодня я чувствую себя счастливым.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствую себя"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "happy",
+          "translation": "счастливым"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "translation": "сегодня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["happy"],
+      "alternativeTranslations": ["счастлив"]
+    },
+    {
+      "id": "emotions-150-sad-adjective-1",
+      "vocabularyId": "sad-adjective-1",
+      "word": "sad",
+      "translation": "грустный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈsæd/",
+      "example": "She looks sad today.",
+      "exampleTranslation": "Сегодня она выглядит грустной.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "looks",
+          "translation": "выглядит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sad",
+          "translation": "грустный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "translation": "сегодня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["sad"],
+      "alternativeTranslations": ["печальный"]
+    },
+    {
+      "id": "emotions-150-angry-adjective-1",
+      "vocabularyId": "angry-adjective-1",
+      "word": "angry",
+      "translation": "злой",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈæŋɡɹi/",
+      "example": "Why are you angry?",
+      "exampleTranslation": "Почему ты злишься?",
+      "exampleTokens": [
+        {
+          "text": "Why",
+          "translation": "почему"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "angry",
+          "translation": "злой"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["angry"],
+      "alternativeTranslations": ["сердитый"]
+    },
+    {
+      "id": "emotions-150-calm-adjective-1",
+      "vocabularyId": "calm-adjective-1",
+      "word": "calm",
+      "translation": "спокойный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈkɑm/",
+      "example": "I feel calm now.",
+      "exampleTranslation": "Сейчас я чувствую себя спокойно.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "calm",
+          "translation": "спокойный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "now",
+          "translation": "сейчас"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["calm"],
+      "alternativeTranslations": ["невозмутимый"]
+    },
+    {
+      "id": "emotions-150-excited-adjective-1",
+      "vocabularyId": "excited-adjective-1",
+      "word": "excited",
+      "translation": "взволнованный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ɪkˈsaɪtəd/",
+      "example": "I'm excited about the trip.",
+      "exampleTranslation": "Я в предвкушении поездки.",
+      "exampleTokens": [
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "excited",
+          "translation": "взволнованный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "trip",
+          "translation": "поездка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["excited"],
+      "alternativeTranslations": ["в состоянии волнения"]
+    },
+    {
+      "id": "emotions-150-nervous-adjective-1",
+      "vocabularyId": "nervous-adjective-1",
+      "word": "nervous",
+      "translation": "нервничающий",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈnɝvəs/",
+      "example": "I get nervous before exams.",
+      "exampleTranslation": "Я нервничаю перед экзаменами.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "get",
+          "translation": "становиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nervous",
+          "translation": "нервничающий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "before",
+          "translation": "перед"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "exams",
+          "translation": "экзамены"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["nervous"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-afraid-adjective-1",
+      "vocabularyId": "afraid-adjective-1",
+      "word": "afraid",
+      "translation": "испуганный",
+      "partOfSpeech": "adjective",
+      "transcription": "/əˈfɹeɪd/",
+      "example": "She is afraid of spiders.",
+      "exampleTranslation": "Она боится пауков.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "afraid",
+          "translation": "испуганный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "spiders",
+          "translation": "пауки"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["afraid"],
+      "alternativeTranslations": ["напуганный"]
+    },
+    {
+      "id": "emotions-150-scared-adjective-1",
+      "vocabularyId": "scared-adjective-1",
+      "word": "scared",
+      "translation": "напуганный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈskɛɹd/",
+      "example": "The child looks scared.",
+      "exampleTranslation": "Ребёнок выглядит напуганным.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "child",
+          "translation": "ребёнок"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "looks",
+          "translation": "выглядит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "scared",
+          "translation": "напуганный"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["scared"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-worried-adjective-1",
+      "vocabularyId": "worried-adjective-1",
+      "word": "worried",
+      "translation": "обеспокоенный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈwɝid/",
+      "example": "I'm worried about you.",
+      "exampleTranslation": "Я за тебя переживаю.",
+      "exampleTokens": [
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "worried",
+          "translation": "обеспокоенный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["worried"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-anxious-adjective-1",
+      "vocabularyId": "anxious-adjective-1",
+      "word": "anxious",
+      "translation": "тревожный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈæŋkʃəs/",
+      "example": "He feels anxious at night.",
+      "exampleTranslation": "Ночью он испытывает тревогу.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feels",
+          "translation": "чувствует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "anxious",
+          "translation": "тревожный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "translation": "ночь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["anxious"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-relaxed-adjective-1",
+      "vocabularyId": "relaxed-adjective-1",
+      "word": "relaxed",
+      "translation": "расслабленный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ɹɪˈlækst/",
+      "example": "I feel relaxed after a walk.",
+      "exampleTranslation": "После прогулки я чувствую себя расслабленно.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "relaxed",
+          "translation": "расслабленный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "walk",
+          "translation": "гуляем"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["relaxed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-tired-adjective-1",
+      "vocabularyId": "tired-adjective-1",
+      "word": "tired",
+      "translation": "уставший",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈtaɪɚd/",
+      "example": "I'm tired after work.",
+      "exampleTranslation": "Я устал после работы.",
+      "exampleTokens": [
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tired",
+          "translation": "уставший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "работать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["tired"],
+      "alternativeTranslations": ["утомлённый"]
+    },
+    {
+      "id": "emotions-150-exhausted-adjective-1",
+      "vocabularyId": "exhausted-adjective-1",
+      "word": "exhausted",
+      "translation": "изнурённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ɪɡˈzɔstɪd/",
+      "example": "We were exhausted after the hike.",
+      "exampleTranslation": "После похода мы были совершенно без сил.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "were",
+          "translation": "были"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "exhausted",
+          "translation": "изнурённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hike",
+          "translation": "поход"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["exhausted"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-bored-adjective-1",
+      "vocabularyId": "bored-adjective-1",
+      "word": "bored",
+      "translation": "скучающий",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈbɔɹd/",
+      "example": "I get bored on long flights.",
+      "exampleTranslation": "Мне скучно во время долгих перелётов.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "get",
+          "translation": "становиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bored",
+          "translation": "скучающий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "long",
+          "translation": "долгий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "flights",
+          "translation": "рейсы"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["bored"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-lonely-adjective-1",
+      "vocabularyId": "lonely-adjective-1",
+      "word": "lonely",
+      "translation": "одинокий",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈloʊnli/",
+      "example": "He feels lonely in the new city.",
+      "exampleTranslation": "В новом городе ему одиноко.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feels",
+          "translation": "чувствует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lonely",
+          "translation": "одинокий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "new",
+          "translation": "новый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "city",
+          "translation": "город"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["lonely"],
+      "alternativeTranslations": ["чувствующий одиночество"]
+    },
+    {
+      "id": "emotions-150-confident-adjective-1",
+      "vocabularyId": "confident-adjective-1",
+      "word": "confident",
+      "translation": "уверенный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈkɑnfədənt/",
+      "example": "She feels confident on stage.",
+      "exampleTranslation": "На сцене она чувствует себя уверенно.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feels",
+          "translation": "чувствует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "confident",
+          "translation": "уверенный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stage",
+          "translation": "сцена"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["confident"],
+      "alternativeTranslations": ["уверенный в себе"]
+    },
+    {
+      "id": "emotions-150-shy-adjective-1",
+      "vocabularyId": "shy-adjective-1",
+      "word": "shy",
+      "translation": "застенчивый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈʃaɪ/",
+      "example": "I was shy as a child.",
+      "exampleTranslation": "В детстве я был застенчивым.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shy",
+          "translation": "застенчивый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "as",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "child",
+          "translation": "ребёнок"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["shy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-proud-adjective-1",
+      "vocabularyId": "proud-adjective-1",
+      "word": "proud",
+      "translation": "гордый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈpɹaʊd/",
+      "example": "I am proud of my team.",
+      "exampleTranslation": "Я горжусь своей командой.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "proud",
+          "translation": "гордый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "team",
+          "translation": "команда"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["proud"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-ashamed-adjective-1",
+      "vocabularyId": "ashamed-adjective-1",
+      "word": "ashamed",
+      "translation": "пристыженный",
+      "partOfSpeech": "adjective",
+      "transcription": "/əˈʃeɪmd/",
+      "example": "He felt ashamed of his mistake.",
+      "exampleTranslation": "Ему было стыдно за свою ошибку.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ashamed",
+          "translation": "пристыженный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mistake",
+          "translation": "ошибка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["ashamed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-guilty-adjective-1",
+      "vocabularyId": "guilty-adjective-1",
+      "word": "guilty",
+      "translation": "виноватый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɡɪlti/",
+      "example": "I feel guilty about lying.",
+      "exampleTranslation": "Мне стыдно, что я солгал.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "guilty",
+          "translation": "виноватый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lying",
+          "translation": "ложь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["guilty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-jealous-adjective-1",
+      "vocabularyId": "jealous-adjective-1",
+      "word": "jealous",
+      "translation": "ревнивый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈdʒɛləs/",
+      "example": "She felt jealous of his success.",
+      "exampleTranslation": "Она завидовала его успеху.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "jealous",
+          "translation": "ревнивый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "success",
+          "translation": "успех"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["jealous"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-envious-adjective-1",
+      "vocabularyId": "envious-adjective-1",
+      "word": "envious",
+      "translation": "завистливый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɛnviəs/",
+      "example": "He was envious of her freedom.",
+      "exampleTranslation": "Он завидовал её свободе.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "envious",
+          "translation": "завистливый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "freedom",
+          "translation": "свобода"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["envious"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-grateful-adjective-1",
+      "vocabularyId": "grateful-adjective-1",
+      "word": "grateful",
+      "translation": "благодарный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɡɹeɪtfəl/",
+      "example": "I am grateful for your help.",
+      "exampleTranslation": "Я благодарен за твою помощь.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grateful",
+          "translation": "благодарный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["grateful"],
+      "alternativeTranslations": ["признательный"]
+    },
+    {
+      "id": "emotions-150-thankful-adjective-1",
+      "vocabularyId": "thankful-adjective-1",
+      "word": "thankful",
+      "translation": "признательный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈθæŋkfəl/",
+      "example": "We are thankful for your support.",
+      "exampleTranslation": "Мы признательны за вашу поддержку.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thankful",
+          "translation": "признательный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "support",
+          "translation": "поддержка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["thankful"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-hopeful-adjective-1",
+      "vocabularyId": "hopeful-adjective-1",
+      "word": "hopeful",
+      "translation": "полный надежды",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈhoʊpfəl/",
+      "example": "I feel hopeful about the future.",
+      "exampleTranslation": "Я с надеждой смотрю в будущее.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hopeful",
+          "translation": "полный надежды"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "future",
+          "translation": "будущее"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["hopeful"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-hopeless-adjective-1",
+      "vocabularyId": "hopeless-adjective-1",
+      "word": "hopeless",
+      "translation": "безнадёжный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈhoʊpləs/",
+      "example": "The situation seemed hopeless.",
+      "exampleTranslation": "Ситуация казалась безнадёжной.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "situation",
+          "translation": "ситуация"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seemed",
+          "translation": "казался"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hopeless",
+          "translation": "безнадёжный"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["hopeless"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-optimistic-adjective-1",
+      "vocabularyId": "optimistic-adjective-1",
+      "word": "optimistic",
+      "translation": "оптимистичный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌɑptəˈmɪstɪk/",
+      "example": "She is optimistic about the result.",
+      "exampleTranslation": "Она оптимистично смотрит на результат.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "optimistic",
+          "translation": "оптимистичный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "result",
+          "translation": "результат"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["optimistic"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-pessimistic-adjective-1",
+      "vocabularyId": "pessimistic-adjective-1",
+      "word": "pessimistic",
+      "translation": "пессимистичный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌpɛsəˈmɪstɪk/",
+      "example": "He sounds pessimistic today.",
+      "exampleTranslation": "Сегодня он настроен пессимистично.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sounds",
+          "translation": "звучит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pessimistic",
+          "translation": "пессимистичный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "translation": "сегодня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["pessimistic"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-disappointed-adjective-1",
+      "vocabularyId": "disappointed-adjective-1",
+      "word": "disappointed",
+      "translation": "разочарованный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌdɪsəˈpɔɪntɪd/",
+      "example": "I was disappointed by the news.",
+      "exampleTranslation": "Новости меня разочаровали.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "disappointed",
+          "translation": "разочарованный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "news",
+          "translation": "новости"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["disappointed"],
+      "alternativeTranslations": ["испытывающий разочарование"]
+    },
+    {
+      "id": "emotions-150-frustrated-adjective-1",
+      "vocabularyId": "frustrated-adjective-1",
+      "word": "frustrated",
+      "translation": "раздосадованный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈfɹʌˌstɹeɪtəd/",
+      "example": "She felt frustrated by the delay.",
+      "exampleTranslation": "Задержка её очень раздражала.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "frustrated",
+          "translation": "раздосадованный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "delay",
+          "translation": "задержка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["frustrated"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-annoyed-adjective-1",
+      "vocabularyId": "annoyed-adjective-1",
+      "word": "annoyed",
+      "translation": "раздражённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/əˈnɔɪd/",
+      "example": "I am annoyed by the noise.",
+      "exampleTranslation": "Меня раздражает шум.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "annoyed",
+          "translation": "раздражённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "noise",
+          "translation": "шум"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["annoyed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-irritated-adjective-1",
+      "vocabularyId": "irritated-adjective-1",
+      "word": "irritated",
+      "translation": "раздражённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɪɹəˌteɪtəd/",
+      "example": "He sounded irritated on the phone.",
+      "exampleTranslation": "По телефону он говорил раздражённо.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sounded",
+          "translation": "звучал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "irritated",
+          "translation": "раздражённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "phone",
+          "translation": "телефон"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["irritated"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-upset-adjective-1",
+      "vocabularyId": "upset-adjective-1",
+      "word": "upset",
+      "translation": "расстроенный",
+      "partOfSpeech": "adjective",
+      "transcription": "/əpˈsɛt/",
+      "example": "Why are you so upset?",
+      "exampleTranslation": "Почему ты так расстроен?",
+      "exampleTokens": [
+        {
+          "text": "Why",
+          "translation": "почему"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "so",
+          "translation": "так"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "upset",
+          "translation": "расстроенный"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["upset"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-hurt-adjective-1",
+      "vocabularyId": "hurt-adjective-1",
+      "word": "hurt",
+      "translation": "задетый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈhɝt/",
+      "example": "I felt hurt by his words.",
+      "exampleTranslation": "Его слова меня задели.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hurt",
+          "translation": "задетый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "words",
+          "translation": "слова"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["hurt"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-offended-adjective-1",
+      "vocabularyId": "offended-adjective-1",
+      "word": "offended",
+      "translation": "обиженный",
+      "partOfSpeech": "adjective",
+      "transcription": "/əˈfɛndəd/",
+      "example": "She was offended by the joke.",
+      "exampleTranslation": "Её обидела эта шутка.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offended",
+          "translation": "обиженный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "joke",
+          "translation": "шутка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["offended"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-embarrassed-adjective-1",
+      "vocabularyId": "embarrassed-adjective-1",
+      "word": "embarrassed",
+      "translation": "смущённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ɪmˈbɛɹəst/",
+      "example": "I felt embarrassed in front of everyone.",
+      "exampleTranslation": "Мне было неловко перед всеми.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "embarrassed",
+          "translation": "смущённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "front",
+          "translation": "перед"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "everyone",
+          "translation": "все"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["embarrassed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-awkward-adjective-1",
+      "vocabularyId": "awkward-adjective-1",
+      "word": "awkward",
+      "translation": "неловкий",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɑkwɚd/",
+      "example": "It was an awkward moment.",
+      "exampleTranslation": "Это был неловкий момент.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "an",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "awkward",
+          "translation": "неловкий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "moment",
+          "translation": "момент"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["awkward"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-confused-adjective-1",
+      "vocabularyId": "confused-adjective-1",
+      "word": "confused",
+      "translation": "растерянный",
+      "partOfSpeech": "adjective",
+      "transcription": "/kənˈfjuzd/",
+      "example": "I am confused by these instructions.",
+      "exampleTranslation": "Эти инструкции меня запутали.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "confused",
+          "translation": "растерянный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "these",
+          "translation": "эти"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "instructions",
+          "translation": "инструкции"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["confused"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-uncertain-adjective-1",
+      "vocabularyId": "uncertain-adjective-1",
+      "word": "uncertain",
+      "translation": "неуверенный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ənˈsɝtən/",
+      "example": "She feels uncertain about the plan.",
+      "exampleTranslation": "Она не уверена в этом плане.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feels",
+          "translation": "чувствует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "uncertain",
+          "translation": "неуверенный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "plan",
+          "translation": "план"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["uncertain"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-surprised-adjective-1",
+      "vocabularyId": "surprised-adjective-1",
+      "word": "surprised",
+      "translation": "удивлённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/sɚˈpɹaɪzd/",
+      "example": "We were surprised by the answer.",
+      "exampleTranslation": "Ответ нас удивил.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "were",
+          "translation": "были"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "surprised",
+          "translation": "удивлённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "answer",
+          "translation": "ответ"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["surprised"],
+      "alternativeTranslations": ["изумлённый"]
+    },
+    {
+      "id": "emotions-150-shocked-adjective-1",
+      "vocabularyId": "shocked-adjective-1",
+      "word": "shocked",
+      "translation": "потрясённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈʃɑkt/",
+      "example": "He was shocked by the accident.",
+      "exampleTranslation": "Происшествие его потрясло.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shocked",
+          "translation": "потрясённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "accident",
+          "translation": "происшествие"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["shocked"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-amazed-adjective-1",
+      "vocabularyId": "amazed-adjective-1",
+      "word": "amazed",
+      "translation": "изумлённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/əˈmeɪzd/",
+      "example": "I was amazed by the view.",
+      "exampleTranslation": "Вид меня поразил.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amazed",
+          "translation": "изумлённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "view",
+          "translation": "вид"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["amazed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-delighted-adjective-1",
+      "vocabularyId": "delighted-adjective-1",
+      "word": "delighted",
+      "translation": "восхищённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/dɪˈlaɪtəd/",
+      "example": "She was delighted with the gift.",
+      "exampleTranslation": "Она была в восторге от подарка.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "delighted",
+          "translation": "восхищённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "gift",
+          "translation": "подарок"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["delighted"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-pleased-adjective-1",
+      "vocabularyId": "pleased-adjective-1",
+      "word": "pleased",
+      "translation": "довольный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈplizd/",
+      "example": "I am pleased with the progress.",
+      "exampleTranslation": "Я доволен прогрессом.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pleased",
+          "translation": "довольный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "progress",
+          "translation": "прогресс"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["pleased"],
+      "alternativeTranslations": ["удовлетворённый"]
+    },
+    {
+      "id": "emotions-150-satisfied-adjective-1",
+      "vocabularyId": "satisfied-adjective-1",
+      "word": "satisfied",
+      "translation": "удовлетворённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈsætəsˌfaɪd/",
+      "example": "He feels satisfied with his work.",
+      "exampleTranslation": "Он доволен своей работой.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feels",
+          "translation": "чувствует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "satisfied",
+          "translation": "удовлетворённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "работа"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["satisfied"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-cheerful-adjective-1",
+      "vocabularyId": "cheerful-adjective-1",
+      "word": "cheerful",
+      "translation": "жизнерадостный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈtʃɪɹfəl/",
+      "example": "He is cheerful in the morning.",
+      "exampleTranslation": "По утрам он жизнерадостен.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cheerful",
+          "translation": "жизнерадостный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "translation": "утро"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["cheerful"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-joyful-adjective-1",
+      "vocabularyId": "joyful-adjective-1",
+      "word": "joyful",
+      "translation": "радостный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈdʒɔɪfəl/",
+      "example": "It was a joyful reunion.",
+      "exampleTranslation": "Это была радостная встреча.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "joyful",
+          "translation": "радостный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "reunion",
+          "translation": "встреча после разлуки"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["joyful"],
+      "alternativeTranslations": ["радующийся"]
+    },
+    {
+      "id": "emotions-150-miserable-adjective-1",
+      "vocabularyId": "miserable-adjective-1",
+      "word": "miserable",
+      "translation": "несчастный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈmɪzɚəbəl/",
+      "example": "I felt miserable all weekend.",
+      "exampleTranslation": "Все выходные я чувствовал себя несчастным.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "miserable",
+          "translation": "несчастный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "all",
+          "translation": "весь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "weekend",
+          "translation": "выходные"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["miserable"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-depressed-adjective-1",
+      "vocabularyId": "depressed-adjective-1",
+      "word": "depressed",
+      "translation": "подавленный",
+      "partOfSpeech": "adjective",
+      "transcription": "/dɪˈpɹɛst/",
+      "example": "He felt depressed after the breakup.",
+      "exampleTranslation": "После расставания он чувствовал себя подавленным.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "depressed",
+          "translation": "подавленный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "breakup",
+          "translation": "расставание"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["depressed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-stressed-adjective-1",
+      "vocabularyId": "stressed-adjective-1",
+      "word": "stressed",
+      "translation": "напряжённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈstɹɛst/",
+      "example": "I feel stressed at work.",
+      "exampleTranslation": "На работе я испытываю стресс.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stressed",
+          "translation": "напряжённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "работа"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["stressed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-overwhelmed-adjective-1",
+      "vocabularyId": "overwhelmed-adjective-1",
+      "word": "overwhelmed",
+      "translation": "перегруженный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌoʊvɚˈwɛlmd/",
+      "example": "She felt overwhelmed by the tasks.",
+      "exampleTranslation": "Она чувствовала себя перегруженной делами.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "overwhelmed",
+          "translation": "перегруженный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tasks",
+          "translation": "задачи"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["overwhelmed"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-restless-adjective-1",
+      "vocabularyId": "restless-adjective-1",
+      "word": "restless",
+      "translation": "беспокойный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɹɛstləs/",
+      "example": "I felt restless all evening.",
+      "exampleTranslation": "Весь вечер я не находил себе места.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "restless",
+          "translation": "беспокойный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "all",
+          "translation": "весь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "translation": "вечер"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["restless"],
+      "alternativeTranslations": ["встревоженный"]
+    },
+    {
+      "id": "emotions-150-impatient-adjective-1",
+      "vocabularyId": "impatient-adjective-1",
+      "word": "impatient",
+      "translation": "нетерпеливый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌɪmˈpeɪʃənt/",
+      "example": "The children grew impatient.",
+      "exampleTranslation": "Дети начали терять терпение.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "children",
+          "translation": "дети"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grew",
+          "translation": "рос"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "impatient",
+          "translation": "нетерпеливый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["impatient"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-patient-adjective-1",
+      "vocabularyId": "patient-adjective-1",
+      "word": "patient",
+      "translation": "терпеливый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈpeɪʃənt/",
+      "example": "Please be patient with me.",
+      "exampleTranslation": "Пожалуйста, прояви ко мне терпение.",
+      "exampleTokens": [
+        {
+          "text": "Please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "be",
+          "translation": "быть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "patient",
+          "translation": "терпеливый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["patient"],
+      "alternativeTranslations": ["обладающий терпением"]
+    },
+    {
+      "id": "emotions-150-curious-adjective-1",
+      "vocabularyId": "curious-adjective-1",
+      "word": "curious",
+      "translation": "любопытный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈkjʊɹiəs/",
+      "example": "I am curious about your idea.",
+      "exampleTranslation": "Мне любопытна твоя идея.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "curious",
+          "translation": "любопытный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "idea",
+          "translation": "идея"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["curious"],
+      "alternativeTranslations": ["любознательный"]
+    },
+    {
+      "id": "emotions-150-interested-adjective-1",
+      "vocabularyId": "interested-adjective-1",
+      "word": "interested",
+      "translation": "заинтересованный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɪntɹəstɪd/",
+      "example": "She is interested in psychology.",
+      "exampleTranslation": "Она интересуется психологией.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "interested",
+          "translation": "заинтересованный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "psychology",
+          "translation": "психология"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["interested"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-indifferent-adjective-1",
+      "vocabularyId": "indifferent-adjective-1",
+      "word": "indifferent",
+      "translation": "равнодушный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌɪnˈdɪfɹənt/",
+      "example": "He seemed indifferent to the news.",
+      "exampleTranslation": "Казалось, новости его не тронули.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seemed",
+          "translation": "казался"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "indifferent",
+          "translation": "равнодушный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "news",
+          "translation": "новости"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["indifferent"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-passionate-adjective-1",
+      "vocabularyId": "passionate-adjective-1",
+      "word": "passionate",
+      "translation": "увлечённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈpæʃənət/",
+      "example": "She is passionate about music.",
+      "exampleTranslation": "Она очень увлечена музыкой.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "passionate",
+          "translation": "увлечённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "music",
+          "translation": "музыка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["passionate"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-motivated-adjective-1",
+      "vocabularyId": "motivated-adjective-1",
+      "word": "motivated",
+      "translation": "мотивированный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈmoʊtəˌveɪtəd/",
+      "example": "I feel motivated to improve.",
+      "exampleTranslation": "Я полон желания стать лучше.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "motivated",
+          "translation": "мотивированный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "improve",
+          "translation": "улучшать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["motivated"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-inspired-adjective-1",
+      "vocabularyId": "inspired-adjective-1",
+      "word": "inspired",
+      "translation": "вдохновлённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˌɪnˈspaɪɚd/",
+      "example": "The speech left me inspired.",
+      "exampleTranslation": "Эта речь меня вдохновила.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "speech",
+          "translation": "речь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "left",
+          "translation": "оставил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "inspired",
+          "translation": "вдохновлённый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["inspired"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-determined-adjective-1",
+      "vocabularyId": "determined-adjective-1",
+      "word": "determined",
+      "translation": "решительный",
+      "partOfSpeech": "adjective",
+      "transcription": "/dɪˈtɝmənd/",
+      "example": "He is determined to succeed.",
+      "exampleTranslation": "Он твёрдо намерен добиться успеха.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "determined",
+          "translation": "решительный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "succeed",
+          "translation": "добиться успеха"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["determined"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-brave-adjective-1",
+      "vocabularyId": "brave-adjective-1",
+      "word": "brave",
+      "translation": "храбрый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈbɹeɪv/",
+      "example": "It was brave of you to speak up.",
+      "exampleTranslation": "Ты смело поступил, высказавшись.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "brave",
+          "translation": "храбрый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "speak",
+          "translation": "говорить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "up",
+          "translation": "вверх"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["brave"],
+      "alternativeTranslations": ["смелый"]
+    },
+    {
+      "id": "emotions-150-insecure-adjective-1",
+      "vocabularyId": "insecure-adjective-1",
+      "word": "insecure",
+      "translation": "неуверенный в себе",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈɪnsəkjɚ/",
+      "example": "I sometimes feel insecure.",
+      "exampleTranslation": "Иногда я чувствую неуверенность в себе.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sometimes",
+          "translation": "иногда"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "insecure",
+          "translation": "неуверенный в себе"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["insecure"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-vulnerable-adjective-1",
+      "vocabularyId": "vulnerable-adjective-1",
+      "word": "vulnerable",
+      "translation": "уязвимый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈvʌlnɚəbəl/",
+      "example": "He felt vulnerable after the argument.",
+      "exampleTranslation": "После ссоры он чувствовал себя уязвимым.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "vulnerable",
+          "translation": "уязвимый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "argument",
+          "translation": "ссора"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["during", "beside", "without"],
+      "acceptedAnswers": ["vulnerable"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-sensitive-adjective-1",
+      "vocabularyId": "sensitive-adjective-1",
+      "word": "sensitive",
+      "translation": "чувствительный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈsɛnsətɪv/",
+      "example": "She is sensitive to criticism.",
+      "exampleTranslation": "Она болезненно воспринимает критику.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sensitive",
+          "translation": "чувствительный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "criticism",
+          "translation": "критика"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["sensitive"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-furious-adjective-1",
+      "vocabularyId": "furious-adjective-1",
+      "word": "furious",
+      "translation": "в ярости",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈfjʊɹiəs/",
+      "example": "My father was furious about the damage.",
+      "exampleTranslation": "Отец был в ярости из-за ущерба.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "father",
+          "translation": "отец"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "furious",
+          "translation": "в ярости"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "damage",
+          "translation": "повреждение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["furious"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-terrified-adjective-1",
+      "vocabularyId": "terrified-adjective-1",
+      "word": "terrified",
+      "translation": "ужасно напуганный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈtɛɹəˌfaɪd/",
+      "example": "I was terrified during the storm.",
+      "exampleTranslation": "Во время бури я был ужасно напуган.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "terrified",
+          "translation": "ужасно напуганный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "during",
+          "translation": "во время"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "storm",
+          "translation": "буря"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["terrified"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-relieved-adjective-1",
+      "vocabularyId": "relieved-adjective-1",
+      "word": "relieved",
+      "translation": "испытавший облегчение",
+      "partOfSpeech": "adjective",
+      "transcription": "/ɹɪˈlivd/",
+      "example": "I felt relieved after the test.",
+      "exampleTranslation": "После экзамена я испытал облегчение.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "relieved",
+          "translation": "испытавший облегчение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "test",
+          "translation": "тест"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["relieved"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-peaceful-adjective-1",
+      "vocabularyId": "peaceful-adjective-1",
+      "word": "peaceful",
+      "translation": "умиротворённый",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈpisfəl/",
+      "example": "I feel peaceful by the sea.",
+      "exampleTranslation": "У моря я чувствую умиротворение.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "peaceful",
+          "translation": "умиротворённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sea",
+          "translation": "море"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["peaceful"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-comfortable-adjective-at-ease",
+      "vocabularyId": "comfortable-adjective-at-ease",
+      "word": "comfortable",
+      "translation": "чувствующий себя комфортно",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈkʌmfɚtəbəl/",
+      "example": "I feel comfortable around my friends.",
+      "exampleTranslation": "Мне комфортно среди друзей.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "comfortable",
+          "translation": "чувствующий себя комфортно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "around",
+          "translation": "среди"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "translation": "друзья"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["comfortable"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-uncomfortable-adjective-1",
+      "vocabularyId": "uncomfortable-adjective-1",
+      "word": "uncomfortable",
+      "translation": "испытывающий дискомфорт",
+      "partOfSpeech": "adjective",
+      "transcription": "/ənˈkʌmfɚtəbəl/",
+      "example": "She felt uncomfortable at the party.",
+      "exampleTranslation": "На вечеринке ей было не по себе.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "uncomfortable",
+          "translation": "испытывающий дискомфорт"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "party",
+          "translation": "вечеринка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["uncomfortable"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-secure-adjective-emotion",
+      "vocabularyId": "secure-adjective-emotion",
+      "word": "secure",
+      "translation": "чувствующий себя в безопасности",
+      "partOfSpeech": "adjective",
+      "transcription": "/sɪˈkjʊɹ/",
+      "example": "The child feels secure at home.",
+      "exampleTranslation": "Дома ребёнок чувствует себя в безопасности.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "child",
+          "translation": "ребёнок"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feels",
+          "translation": "чувствует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "secure",
+          "translation": "чувствующий себя в безопасности"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "home",
+          "translation": "дом"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["secure"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-safe-adjective-unharmed",
+      "vocabularyId": "safe-adjective-unharmed",
+      "word": "safe",
+      "translation": "в безопасности",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈseɪf/",
+      "example": "I feel safe with you.",
+      "exampleTranslation": "С тобой я чувствую себя в безопасности.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "safe",
+          "translation": "в безопасности"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["safe"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-nostalgic-adjective-1",
+      "vocabularyId": "nostalgic-adjective-1",
+      "word": "nostalgic",
+      "translation": "ностальгирующий",
+      "partOfSpeech": "adjective",
+      "transcription": "/nɔˈstældʒɪk/",
+      "example": "That song makes me nostalgic.",
+      "exampleTranslation": "Эта песня вызывает у меня ностальгию.",
+      "exampleTokens": [
+        {
+          "text": "That",
+          "translation": "то"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "song",
+          "translation": "песня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "makes",
+          "translation": "делает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nostalgic",
+          "translation": "ностальгирующий"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["nostalgic"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-homesick-adjective-1",
+      "vocabularyId": "homesick-adjective-1",
+      "word": "homesick",
+      "translation": "скучающий по дому",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈhoʊmˌsɪk/",
+      "example": "I felt homesick during my first week abroad.",
+      "exampleTranslation": "В первую неделю за границей я скучал по дому.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "homesick",
+          "translation": "скучающий по дому"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "during",
+          "translation": "во время"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "first",
+          "translation": "первый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "неделя"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "abroad",
+          "translation": "за границей"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["neither", "whereas", "whether"],
+      "acceptedAnswers": ["homesick"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-joy-noun-1",
+      "vocabularyId": "joy-noun-1",
+      "word": "joy",
+      "translation": "радость",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdʒɔɪ/",
+      "example": "Her face was full of joy.",
+      "exampleTranslation": "Её лицо сияло от радости.",
+      "exampleTokens": [
+        {
+          "text": "Her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "face",
+          "translation": "лицо"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "full",
+          "translation": "полный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "joy",
+          "translation": "радость"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["joy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-happiness-noun-1",
+      "vocabularyId": "happiness-noun-1",
+      "word": "happiness",
+      "translation": "счастье",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈhæpinəs/",
+      "example": "Happiness means different things to different people.",
+      "exampleTranslation": "Для разных людей счастье означает разное.",
+      "exampleTokens": [
+        {
+          "text": "Happiness",
+          "translation": "счастье"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "means",
+          "translation": "означает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "different",
+          "translation": "разный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "things",
+          "translation": "вещи"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "different",
+          "translation": "разный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "people",
+          "translation": "люди"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["happiness"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-sadness-noun-1",
+      "vocabularyId": "sadness-noun-1",
+      "word": "sadness",
+      "translation": "грусть",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsædnəs/",
+      "example": "I could hear sadness in her voice.",
+      "exampleTranslation": "Я слышал грусть в её голосе.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "could",
+          "translation": "мог"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hear",
+          "translation": "слышать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sadness",
+          "translation": "грусть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "voice",
+          "translation": "голос"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["sadness"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-anger-noun-1",
+      "vocabularyId": "anger-noun-1",
+      "word": "anger",
+      "translation": "гнев",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈæŋɡɚ/",
+      "example": "He struggled to control his anger.",
+      "exampleTranslation": "Ему было трудно сдерживать гнев.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "struggled",
+          "translation": "испытывал трудности"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "control",
+          "translation": "контроль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "anger",
+          "translation": "гнев"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["anger"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-fear-noun-1",
+      "vocabularyId": "fear-noun-1",
+      "word": "fear",
+      "translation": "страх",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈfɪɹ/",
+      "example": "Fear stopped me from trying.",
+      "exampleTranslation": "Страх помешал мне попробовать.",
+      "exampleTokens": [
+        {
+          "text": "Fear",
+          "translation": "страх"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stopped",
+          "translation": "остановился"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "from",
+          "translation": "от"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "trying",
+          "translation": "попытка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["fear"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-anxiety-noun-1",
+      "vocabularyId": "anxiety-noun-1",
+      "word": "anxiety",
+      "translation": "тревога",
+      "partOfSpeech": "noun",
+      "transcription": "/æŋˈzaɪəti/",
+      "example": "Her anxiety grew before the interview.",
+      "exampleTranslation": "Перед собеседованием её тревога усилилась.",
+      "exampleTokens": [
+        {
+          "text": "Her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "anxiety",
+          "translation": "тревога"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grew",
+          "translation": "рос"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "before",
+          "translation": "перед"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "interview",
+          "translation": "собеседование"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["anxiety"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-worry-noun-1",
+      "vocabularyId": "worry-noun-1",
+      "word": "worry",
+      "translation": "беспокойство",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwɝi/",
+      "example": "There is no need for worry.",
+      "exampleTranslation": "Нет причин для беспокойства.",
+      "exampleTokens": [
+        {
+          "text": "There",
+          "translation": "там"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "no",
+          "translation": "нет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нуждаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "worry",
+          "translation": "беспокойство"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["worry"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-stress-noun-1",
+      "vocabularyId": "stress-noun-1",
+      "word": "stress",
+      "translation": "стресс",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈstɹɛs/",
+      "example": "Too much stress affects sleep.",
+      "exampleTranslation": "Сильный стресс влияет на сон.",
+      "exampleTokens": [
+        {
+          "text": "Too",
+          "translation": "слишком"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "much",
+          "translation": "много"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stress",
+          "translation": "стресс"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "affects",
+          "translation": "влияет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sleep",
+          "translation": "сон"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["stress"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-relief-noun-1",
+      "vocabularyId": "relief-noun-1",
+      "word": "relief",
+      "translation": "облегчение",
+      "partOfSpeech": "noun",
+      "transcription": "/ɹɪˈlif/",
+      "example": "I felt relief when she called.",
+      "exampleTranslation": "Я испытал облегчение, когда она позвонила.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "relief",
+          "translation": "облегчение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "when",
+          "translation": "когда"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "she",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "called",
+          "translation": "позвонил"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["relief"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-excitement-noun-1",
+      "vocabularyId": "excitement-noun-1",
+      "word": "excitement",
+      "translation": "воодушевление",
+      "partOfSpeech": "noun",
+      "transcription": "/ɪkˈsaɪtmənt/",
+      "example": "The room was full of excitement.",
+      "exampleTranslation": "В комнате царило оживление.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "room",
+          "translation": "комната"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "full",
+          "translation": "полный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "excitement",
+          "translation": "воодушевление"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["excitement"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-hope-noun-1",
+      "vocabularyId": "hope-noun-1",
+      "word": "hope",
+      "translation": "надежда",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈhoʊp/",
+      "example": "Don't lose hope.",
+      "exampleTranslation": "Не теряй надежду.",
+      "exampleTokens": [
+        {
+          "text": "Don't",
+          "translation": "не; вспомогательный глагол do с отрицанием"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lose",
+          "translation": "терять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hope",
+          "translation": "надежда"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["hope"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-despair-noun-1",
+      "vocabularyId": "despair-noun-1",
+      "word": "despair",
+      "translation": "отчаяние",
+      "partOfSpeech": "noun",
+      "transcription": "/dɪˈspɛɹ/",
+      "example": "He was close to despair.",
+      "exampleTranslation": "Он был близок к отчаянию.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "close",
+          "translation": "близкий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "despair",
+          "translation": "отчаяние"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["despair"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-love-noun-1",
+      "vocabularyId": "love-noun-1",
+      "word": "love",
+      "translation": "любовь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈlʌv/",
+      "example": "Love takes time.",
+      "exampleTranslation": "Любовь требует времени.",
+      "exampleTokens": [
+        {
+          "text": "Love",
+          "translation": "любовь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "takes",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "translation": "время"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["love"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-affection-noun-1",
+      "vocabularyId": "affection-noun-1",
+      "word": "affection",
+      "translation": "нежность",
+      "partOfSpeech": "noun",
+      "transcription": "/əˈfɛkʃən/",
+      "example": "She showed affection for her dog.",
+      "exampleTranslation": "Она проявляла нежность к своей собаке.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "showed",
+          "translation": "показал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "affection",
+          "translation": "нежность"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "dog",
+          "translation": "собака"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["affection"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-trust-noun-1",
+      "vocabularyId": "trust-noun-1",
+      "word": "trust",
+      "translation": "доверие",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈtɹʌst/",
+      "example": "Trust is important in friendship.",
+      "exampleTranslation": "Доверие важно в дружбе.",
+      "exampleTokens": [
+        {
+          "text": "Trust",
+          "translation": "доверие"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "important",
+          "translation": "важный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friendship",
+          "translation": "дружба"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["trust"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-respect-noun-1",
+      "vocabularyId": "respect-noun-1",
+      "word": "respect",
+      "translation": "уважение",
+      "partOfSpeech": "noun",
+      "transcription": "/ɹɪˈspɛkt/",
+      "example": "Everyone deserves respect.",
+      "exampleTranslation": "Каждый заслуживает уважения.",
+      "exampleTokens": [
+        {
+          "text": "Everyone",
+          "translation": "все"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "deserves",
+          "translation": "заслуживает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "respect",
+          "translation": "уважение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["respect"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-pride-noun-1",
+      "vocabularyId": "pride-noun-1",
+      "word": "pride",
+      "translation": "гордость",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈpɹaɪd/",
+      "example": "She felt pride in her work.",
+      "exampleTranslation": "Она гордилась своей работой.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "felt",
+          "translation": "чувствовал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pride",
+          "translation": "гордость"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "работа"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["pride"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-shame-noun-1",
+      "vocabularyId": "shame-noun-1",
+      "word": "shame",
+      "translation": "стыд",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈʃeɪm/",
+      "example": "He lowered his eyes in shame.",
+      "exampleTranslation": "Он опустил глаза от стыда.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lowered",
+          "translation": "снизил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eyes",
+          "translation": "глаза"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shame",
+          "translation": "стыд"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["shame"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-guilt-noun-1",
+      "vocabularyId": "guilt-noun-1",
+      "word": "guilt",
+      "translation": "чувство вины",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɡɪlt/",
+      "example": "She carried a lot of guilt.",
+      "exampleTranslation": "Она испытывала сильное чувство вины.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "carried",
+          "translation": "нёс; держал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lot",
+          "translation": "много"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "guilt",
+          "translation": "чувство вины"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["guilt"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-envy-noun-1",
+      "vocabularyId": "envy-noun-1",
+      "word": "envy",
+      "translation": "зависть",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɛnvi/",
+      "example": "Envy can damage friendships.",
+      "exampleTranslation": "Зависть может разрушать дружбу.",
+      "exampleTokens": [
+        {
+          "text": "Envy",
+          "translation": "зависть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "мочь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "damage",
+          "translation": "повреждение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friendships",
+          "translation": "дружеские отношения"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["envy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-jealousy-noun-1",
+      "vocabularyId": "jealousy-noun-1",
+      "word": "jealousy",
+      "translation": "ревность",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdʒɛləsi/",
+      "example": "Jealousy caused an argument.",
+      "exampleTranslation": "Ревность стала причиной ссоры.",
+      "exampleTokens": [
+        {
+          "text": "Jealousy",
+          "translation": "ревность"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "caused",
+          "translation": "вызвал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "an",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "argument",
+          "translation": "ссора"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["jealousy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-gratitude-noun-1",
+      "vocabularyId": "gratitude-noun-1",
+      "word": "gratitude",
+      "translation": "благодарность",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɡɹætəˌtud/",
+      "example": "I want to express my gratitude.",
+      "exampleTranslation": "Я хочу выразить благодарность.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "want",
+          "translation": "хотеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "express",
+          "translation": "выражать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "gratitude",
+          "translation": "благодарность"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["gratitude"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-compassion-noun-1",
+      "vocabularyId": "compassion-noun-1",
+      "word": "compassion",
+      "translation": "сострадание",
+      "partOfSpeech": "noun",
+      "transcription": "/kəmˈpæʃən/",
+      "example": "She treated him with compassion.",
+      "exampleTranslation": "Она отнеслась к нему с состраданием.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "treated",
+          "translation": "относились"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "him",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "compassion",
+          "translation": "сострадание"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["compassion"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-empathy-noun-1",
+      "vocabularyId": "empathy-noun-1",
+      "word": "empathy",
+      "translation": "эмпатия",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɛmpəθi/",
+      "example": "Empathy helps us understand others.",
+      "exampleTranslation": "Эмпатия помогает понимать других.",
+      "exampleTokens": [
+        {
+          "text": "Empathy",
+          "translation": "эмпатия"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "helps",
+          "translation": "помогает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "us",
+          "translation": "нас"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "understand",
+          "translation": "понимать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "others",
+          "translation": "другие"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["empathy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-sympathy-noun-1",
+      "vocabularyId": "sympathy-noun-1",
+      "word": "sympathy",
+      "translation": "сочувствие",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsɪmpəθi/",
+      "example": "He offered his sympathy to the family.",
+      "exampleTranslation": "Он выразил семье сочувствие.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "offered",
+          "translation": "предложил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "his",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sympathy",
+          "translation": "сочувствие"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "family",
+          "translation": "семья"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["sympathy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-kindness-noun-1",
+      "vocabularyId": "kindness-noun-1",
+      "word": "kindness",
+      "translation": "доброта",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkaɪndnəs/",
+      "example": "A little kindness goes a long way.",
+      "exampleTranslation": "Даже небольшая доброта много значит.",
+      "exampleTokens": [
+        {
+          "text": "A",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "little",
+          "translation": "немного"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kindness",
+          "translation": "доброта"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "goes",
+          "translation": "идёт"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "long",
+          "translation": "долгий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "way",
+          "translation": "способ"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["kindness"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-confidence-noun-1",
+      "vocabularyId": "confidence-noun-1",
+      "word": "confidence",
+      "translation": "уверенность",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkɑnfədəns/",
+      "example": "Practice builds confidence.",
+      "exampleTranslation": "Практика укрепляет уверенность.",
+      "exampleTokens": [
+        {
+          "text": "Practice",
+          "translation": "практиковаться; практика"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "builds",
+          "translation": "укрепляет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "confidence",
+          "translation": "уверенность"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["confidence"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-doubt-noun-1",
+      "vocabularyId": "doubt-noun-1",
+      "word": "doubt",
+      "translation": "сомнение",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdaʊt/",
+      "example": "I have some doubt about this plan.",
+      "exampleTranslation": "У меня есть сомнения насчёт этого плана.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "some",
+          "translation": "немного"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "doubt",
+          "translation": "сомнение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "plan",
+          "translation": "план"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["doubt"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-confusion-noun-1",
+      "vocabularyId": "confusion-noun-1",
+      "word": "confusion",
+      "translation": "растерянность",
+      "partOfSpeech": "noun",
+      "transcription": "/kənˈfjuʒən/",
+      "example": "Her face showed confusion.",
+      "exampleTranslation": "На её лице читалось недоумение.",
+      "exampleTokens": [
+        {
+          "text": "Her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "face",
+          "translation": "лицо"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "showed",
+          "translation": "показал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "confusion",
+          "translation": "растерянность"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["confusion"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-surprise-noun-1",
+      "vocabularyId": "surprise-noun-1",
+      "word": "surprise",
+      "translation": "удивление",
+      "partOfSpeech": "noun",
+      "transcription": "/sɚˈpɹaɪz/",
+      "example": "To my surprise, he agreed.",
+      "exampleTranslation": "К моему удивлению, он согласился.",
+      "exampleTokens": [
+        {
+          "text": "To",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "surprise",
+          "translation": "удивление"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "he",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "agreed",
+          "translation": "согласился"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["surprise"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-disappointment-noun-1",
+      "vocabularyId": "disappointment-noun-1",
+      "word": "disappointment",
+      "translation": "разочарование",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌdɪsəˈpɔɪntmənt/",
+      "example": "I tried to hide my disappointment.",
+      "exampleTranslation": "Я пытался скрыть разочарование.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tried",
+          "translation": "пытался"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hide",
+          "translation": "скрывать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "disappointment",
+          "translation": "разочарование"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["disappointment"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-frustration-noun-1",
+      "vocabularyId": "frustration-noun-1",
+      "word": "frustration",
+      "translation": "досада",
+      "partOfSpeech": "noun",
+      "transcription": "/fɹəˈstɹeɪʃən/",
+      "example": "He sighed in frustration.",
+      "exampleTranslation": "Он вздохнул от досады.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sighed",
+          "translation": "вздохнул"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "frustration",
+          "translation": "досада"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["frustration"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-embarrassment-noun-1",
+      "vocabularyId": "embarrassment-noun-1",
+      "word": "embarrassment",
+      "translation": "смущение",
+      "partOfSpeech": "noun",
+      "transcription": "/ɪmˈbɛɹəsmənt/",
+      "example": "She laughed to hide her embarrassment.",
+      "exampleTranslation": "Она засмеялась, чтобы скрыть смущение.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "laughed",
+          "translation": "засмеялся"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hide",
+          "translation": "скрывать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "embarrassment",
+          "translation": "смущение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["embarrassment"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-loneliness-noun-1",
+      "vocabularyId": "loneliness-noun-1",
+      "word": "loneliness",
+      "translation": "одиночество",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈloʊnlinəs/",
+      "example": "Loneliness can be difficult.",
+      "exampleTranslation": "Одиночество бывает тяжёлым.",
+      "exampleTokens": [
+        {
+          "text": "Loneliness",
+          "translation": "одиночество"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "мочь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "be",
+          "translation": "быть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "difficult",
+          "translation": "сложный"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["loneliness"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-comfort-noun-1",
+      "vocabularyId": "comfort-noun-1",
+      "word": "comfort",
+      "translation": "утешение",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkʌmfɚt/",
+      "example": "Her words brought me comfort.",
+      "exampleTranslation": "Её слова меня утешили.",
+      "exampleTokens": [
+        {
+          "text": "Her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "words",
+          "translation": "слова"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "brought",
+          "translation": "принёс"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "comfort",
+          "translation": "утешение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["comfort"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-peace-noun-1",
+      "vocabularyId": "peace-noun-1",
+      "word": "peace",
+      "translation": "покой",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈpis/",
+      "example": "I need some peace and quiet.",
+      "exampleTranslation": "Мне нужны покой и тишина.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нуждаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "some",
+          "translation": "немного"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "peace",
+          "translation": "покой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "and",
+          "translation": "и"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "quiet",
+          "translation": "тихая"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["peace"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-pleasure-noun-1",
+      "vocabularyId": "pleasure-noun-1",
+      "word": "pleasure",
+      "translation": "удовольствие",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈplɛʒɚ/",
+      "example": "It was a pleasure to meet you.",
+      "exampleTranslation": "Было приятно с вами познакомиться.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pleasure",
+          "translation": "удовольствие"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "встретиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["pleasure"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-satisfaction-noun-1",
+      "vocabularyId": "satisfaction-noun-1",
+      "word": "satisfaction",
+      "translation": "удовлетворение",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌsætəsˈfækʃən/",
+      "example": "He smiled with satisfaction.",
+      "exampleTranslation": "Он улыбнулся с удовлетворением.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "smiled",
+          "translation": "улыбнулся"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "satisfaction",
+          "translation": "удовлетворение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["satisfaction"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-interest-noun-1",
+      "vocabularyId": "interest-noun-1",
+      "word": "interest",
+      "translation": "интерес",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɪntɹəst/",
+      "example": "She showed interest in the topic.",
+      "exampleTranslation": "Она проявила интерес к теме.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "showed",
+          "translation": "показал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "interest",
+          "translation": "интерес"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "topic",
+          "translation": "тема"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["interest"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-curiosity-noun-1",
+      "vocabularyId": "curiosity-noun-1",
+      "word": "curiosity",
+      "translation": "любопытство",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌkjʊɹiˈɑsəti/",
+      "example": "Curiosity led him to ask questions.",
+      "exampleTranslation": "Любопытство побудило его задавать вопросы.",
+      "exampleTokens": [
+        {
+          "text": "Curiosity",
+          "translation": "любопытство"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "led",
+          "translation": "привело"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "him",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ask",
+          "translation": "спросить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "questions",
+          "translation": "вопросы"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["curiosity"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-passion-noun-1",
+      "vocabularyId": "passion-noun-1",
+      "word": "passion",
+      "translation": "страсть",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈpæʃən/",
+      "example": "Music is her greatest passion.",
+      "exampleTranslation": "Музыка — её главная страсть.",
+      "exampleTokens": [
+        {
+          "text": "Music",
+          "translation": "музыка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "greatest",
+          "translation": "самая большая"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "passion",
+          "translation": "страсть"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["passion"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-motivation-noun-1",
+      "vocabularyId": "motivation-noun-1",
+      "word": "motivation",
+      "translation": "мотивация",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌmoʊtəˈveɪʃən/",
+      "example": "I need motivation to keep going.",
+      "exampleTranslation": "Мне нужна мотивация, чтобы продолжать.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нуждаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "motivation",
+          "translation": "мотивация"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "keep",
+          "translation": "продолжать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "going",
+          "translation": "продолжать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["motivation"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-courage-noun-1",
+      "vocabularyId": "courage-noun-1",
+      "word": "courage",
+      "translation": "смелость",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkɝədʒ/",
+      "example": "It takes courage to ask for help.",
+      "exampleTranslation": "Нужна смелость, чтобы попросить о помощи.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "takes",
+          "translation": "требует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "courage",
+          "translation": "смелость"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ask",
+          "translation": "спросить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["courage"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-patience-noun-1",
+      "vocabularyId": "patience-noun-1",
+      "word": "patience",
+      "translation": "терпение",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈpeɪʃəns/",
+      "example": "Learning a language takes patience.",
+      "exampleTranslation": "Изучение языка требует терпения.",
+      "exampleTokens": [
+        {
+          "text": "Learning",
+          "translation": "изучение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "language",
+          "translation": "язык"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "takes",
+          "translation": "требует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "patience",
+          "translation": "терпение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["patience"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-regret-noun-1",
+      "vocabularyId": "regret-noun-1",
+      "word": "regret",
+      "translation": "сожаление",
+      "partOfSpeech": "noun",
+      "transcription": "/ɹəˈɡɹɛt/",
+      "example": "He spoke with regret about the past.",
+      "exampleTranslation": "Он с сожалением говорил о прошлом.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "spoke",
+          "translation": "говорил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "regret",
+          "translation": "сожаление"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "past",
+          "translation": "прошлое"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["regret"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-mood-noun-1",
+      "vocabularyId": "mood-noun-1",
+      "word": "mood",
+      "translation": "настроение",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmud/",
+      "example": "Music can change my mood.",
+      "exampleTranslation": "Музыка может изменить моё настроение.",
+      "exampleTokens": [
+        {
+          "text": "Music",
+          "translation": "музыка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "мочь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "change",
+          "translation": "изменение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mood",
+          "translation": "настроение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["mood"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-feeling-noun-1",
+      "vocabularyId": "feeling-noun-1",
+      "word": "feeling",
+      "translation": "чувство",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈfilɪŋ/",
+      "example": "I have a strange feeling about this.",
+      "exampleTranslation": "У меня странное чувство по этому поводу.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "strange",
+          "translation": "странный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feeling",
+          "translation": "чувство"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "это"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["feeling"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-emotion-noun-1",
+      "vocabularyId": "emotion-noun-1",
+      "word": "emotion",
+      "translation": "эмоция",
+      "partOfSpeech": "noun",
+      "transcription": "/ɪˈmoʊʃən/",
+      "example": "It's okay to show emotion.",
+      "exampleTranslation": "Проявлять эмоции нормально.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "okay",
+          "translation": "нормально"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "show",
+          "translation": "показывать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "emotion",
+          "translation": "эмоция"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["emotion"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-feel-verb-1",
+      "vocabularyId": "feel-verb-1",
+      "word": "feel",
+      "translation": "чувствовать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈfil/",
+      "example": "I feel much better today.",
+      "exampleTranslation": "Сегодня я чувствую себя гораздо лучше.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "much",
+          "translation": "много"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "better",
+          "translation": "лучше"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "translation": "сегодня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["feel"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-love-verb-1",
+      "vocabularyId": "love-verb-1",
+      "word": "love",
+      "translation": "любить",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈlʌv/",
+      "example": "I love spending time with my family.",
+      "exampleTranslation": "Я люблю проводить время с семьёй.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "love",
+          "translation": "любить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "spending",
+          "translation": "проводить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "translation": "время"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "family",
+          "translation": "семья"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["love"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-hate-verb-1",
+      "vocabularyId": "hate-verb-1",
+      "word": "hate",
+      "translation": "ненавидеть",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈheɪt/",
+      "example": "I hate being late.",
+      "exampleTranslation": "Я ненавижу опаздывать.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hate",
+          "translation": "ненавидеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "being",
+          "translation": "состояние; форма глагола быть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "late",
+          "translation": "поздно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["hate"],
+      "alternativeTranslations": ["испытывать ненависть"]
+    },
+    {
+      "id": "emotions-150-like-verb-1",
+      "vocabularyId": "like-verb-1",
+      "word": "like",
+      "translation": "нравиться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈlaɪk/",
+      "example": "I like your sense of humor.",
+      "exampleTranslation": "Мне нравится твоё чувство юмора.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "like",
+          "translation": "нравиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sense",
+          "translation": "чувство"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "humor",
+          "translation": "юмор"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["like"],
+      "alternativeTranslations": ["быть по вкусу"]
+    },
+    {
+      "id": "emotions-150-enjoy-verb-1",
+      "vocabularyId": "enjoy-verb-1",
+      "word": "enjoy",
+      "translation": "наслаждаться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˌɛnˈdʒɔɪ/",
+      "example": "We enjoy walking by the sea.",
+      "exampleTranslation": "Нам нравится гулять у моря.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "enjoy",
+          "translation": "наслаждаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "walking",
+          "translation": "прогулки; ходьба"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sea",
+          "translation": "морем"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["enjoy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-miss-verb-1",
+      "vocabularyId": "miss-verb-1",
+      "word": "miss",
+      "translation": "скучать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈmɪs/",
+      "example": "I miss my old friends.",
+      "exampleTranslation": "Я скучаю по старым друзьям.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "miss",
+          "translation": "скучать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "old",
+          "translation": "старый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "translation": "друзья"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["miss"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-worry-verb-1",
+      "vocabularyId": "worry-verb-1",
+      "word": "worry",
+      "translation": "беспокоиться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈwɝi/",
+      "example": "Don't worry about me.",
+      "exampleTranslation": "Не беспокойся обо мне.",
+      "exampleTokens": [
+        {
+          "text": "Don't",
+          "translation": "не; вспомогательный глагол do с отрицанием"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "worry",
+          "translation": "беспокоиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["worry"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-fear-verb-1",
+      "vocabularyId": "fear-verb-1",
+      "word": "fear",
+      "translation": "бояться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈfɪɹ/",
+      "example": "I fear losing my job.",
+      "exampleTranslation": "Я боюсь потерять работу.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fear",
+          "translation": "бояться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "losing",
+          "translation": "терять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "job",
+          "translation": "работа"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["fear"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-trust-verb-1",
+      "vocabularyId": "trust-verb-1",
+      "word": "trust",
+      "translation": "доверять",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈtɹʌst/",
+      "example": "I trust you completely.",
+      "exampleTranslation": "Я полностью тебе доверяю.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "trust",
+          "translation": "доверять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "completely",
+          "translation": "полностью"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["trust"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-admire-verb-1",
+      "vocabularyId": "admire-verb-1",
+      "word": "admire",
+      "translation": "восхищаться",
+      "partOfSpeech": "verb",
+      "transcription": "/ædˈmaɪɹ/",
+      "example": "I admire her honesty.",
+      "exampleTranslation": "Я восхищаюсь её честностью.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "admire",
+          "translation": "восхищаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "honesty",
+          "translation": "честность"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["admire"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-respect-verb-1",
+      "vocabularyId": "respect-verb-1",
+      "word": "respect",
+      "translation": "уважать",
+      "partOfSpeech": "verb",
+      "transcription": "/ɹɪˈspɛkt/",
+      "example": "We respect each other's opinions.",
+      "exampleTranslation": "Мы уважаем мнения друг друга.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "respect",
+          "translation": "уважать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "each",
+          "translation": "друг друга"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "other's",
+          "translation": "друг друга; притяжательная форма"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "opinions",
+          "translation": "мнения"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["respect"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-appreciate-verb-1",
+      "vocabularyId": "appreciate-verb-1",
+      "word": "appreciate",
+      "translation": "ценить",
+      "partOfSpeech": "verb",
+      "transcription": "/əˈpɹiʃiˌeɪt/",
+      "example": "I appreciate your honesty.",
+      "exampleTranslation": "Я ценю твою честность.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "appreciate",
+          "translation": "ценить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "honesty",
+          "translation": "честность"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["appreciate"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-care-verb-1",
+      "vocabularyId": "care-verb-1",
+      "word": "care",
+      "translation": "заботиться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈkɛɹ/",
+      "example": "I care about your happiness.",
+      "exampleTranslation": "Мне важно твоё счастье.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "care",
+          "translation": "заботиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "happiness",
+          "translation": "счастье"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["care"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-comfort-verb-1",
+      "vocabularyId": "comfort-verb-1",
+      "word": "comfort",
+      "translation": "утешать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈkʌmfɚt/",
+      "example": "She tried to comfort her friend.",
+      "exampleTranslation": "Она пыталась утешить подругу.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tried",
+          "translation": "пытался"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "comfort",
+          "translation": "утешать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "her",
+          "translation": "её"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "translation": "друг"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["comfort"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-encourage-verb-1",
+      "vocabularyId": "encourage-verb-1",
+      "word": "encourage",
+      "translation": "подбадривать",
+      "partOfSpeech": "verb",
+      "transcription": "/ɛnˈkɝɪdʒ/",
+      "example": "My friends encourage me to try.",
+      "exampleTranslation": "Друзья подбадривают меня попробовать.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "translation": "друзья"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "encourage",
+          "translation": "подбадривать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "try",
+          "translation": "пытаться"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["encourage"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-support-verb-1",
+      "vocabularyId": "support-verb-1",
+      "word": "support",
+      "translation": "поддерживать",
+      "partOfSpeech": "verb",
+      "transcription": "/səˈpɔɹt/",
+      "example": "We support each other.",
+      "exampleTranslation": "Мы поддерживаем друг друга.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "support",
+          "translation": "поддерживать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "each",
+          "translation": "друг друга"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "other",
+          "translation": "другой"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["support"],
+      "alternativeTranslations": ["оказывать поддержку"]
+    },
+    {
+      "id": "emotions-150-forgive-verb-1",
+      "vocabularyId": "forgive-verb-1",
+      "word": "forgive",
+      "translation": "прощать",
+      "partOfSpeech": "verb",
+      "transcription": "/fɚˈɡɪv/",
+      "example": "Please forgive my mistake.",
+      "exampleTranslation": "Пожалуйста, прости мою ошибку.",
+      "exampleTokens": [
+        {
+          "text": "Please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "forgive",
+          "translation": "прощать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mistake",
+          "translation": "ошибка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["forgive"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-regret-verb-1",
+      "vocabularyId": "regret-verb-1",
+      "word": "regret",
+      "translation": "сожалеть",
+      "partOfSpeech": "verb",
+      "transcription": "/ɹəˈɡɹɛt/",
+      "example": "I regret saying that.",
+      "exampleTranslation": "Я сожалею, что сказал это.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "regret",
+          "translation": "сожалеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "saying",
+          "translation": "говорить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "that",
+          "translation": "то"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["regret"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-blame-verb-1",
+      "vocabularyId": "blame-verb-1",
+      "word": "blame",
+      "translation": "винить",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈbleɪm/",
+      "example": "Don't blame yourself.",
+      "exampleTranslation": "Не вини себя.",
+      "exampleTokens": [
+        {
+          "text": "Don't",
+          "translation": "не; вспомогательный глагол do с отрицанием"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "blame",
+          "translation": "винить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "yourself",
+          "translation": "себя"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["blame"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-cry-verb-1",
+      "vocabularyId": "cry-verb-1",
+      "word": "cry",
+      "translation": "плакать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈkɹaɪ/",
+      "example": "It's okay to cry sometimes.",
+      "exampleTranslation": "Иногда плакать нормально.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "okay",
+          "translation": "нормально"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cry",
+          "translation": "плакать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sometimes",
+          "translation": "иногда"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["cry"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-smile-verb-1",
+      "vocabularyId": "smile-verb-1",
+      "word": "smile",
+      "translation": "улыбаться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈsmaɪl/",
+      "example": "She smiled at the baby.",
+      "exampleTranslation": "Она улыбнулась малышу.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "smiled",
+          "translation": "улыбаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "baby",
+          "translation": "малыш"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextAnswer": "smiled",
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["smile"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-laugh-verb-1",
+      "vocabularyId": "laugh-verb-1",
+      "word": "laugh",
+      "translation": "смеяться",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈlæf/",
+      "example": "We laugh at the same jokes.",
+      "exampleTranslation": "Мы смеёмся над одними и теми же шутками.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "laugh",
+          "translation": "смеяться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "same",
+          "translation": "одинаковый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "jokes",
+          "translation": "шутки"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["laugh"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-sigh-verb-1",
+      "vocabularyId": "sigh-verb-1",
+      "word": "sigh",
+      "translation": "вздыхать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈsaɪ/",
+      "example": "He sighed with relief.",
+      "exampleTranslation": "Он вздохнул с облегчением.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sighed",
+          "translation": "вздыхать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "relief",
+          "translation": "облегчение"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextAnswer": "sighed",
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["sigh"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-relax-verb-1",
+      "vocabularyId": "relax-verb-1",
+      "word": "relax",
+      "translation": "расслабляться",
+      "partOfSpeech": "verb",
+      "transcription": "/ɹɪˈlæks/",
+      "example": "I relax by listening to music.",
+      "exampleTranslation": "Я расслабляюсь, слушая музыку.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "relax",
+          "translation": "расслабляться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "listening",
+          "translation": "слушая"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "music",
+          "translation": "музыка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["relax"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-panic-verb-1",
+      "vocabularyId": "panic-verb-1",
+      "word": "panic",
+      "translation": "паниковать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈpænɪk/",
+      "example": "Try not to panic.",
+      "exampleTranslation": "Постарайся не паниковать.",
+      "exampleTokens": [
+        {
+          "text": "Try",
+          "translation": "пытаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "not",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "panic",
+          "translation": "паниковать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["panic"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-upset-verb-1",
+      "vocabularyId": "upset-verb-1",
+      "word": "upset",
+      "translation": "расстраивать",
+      "partOfSpeech": "verb",
+      "transcription": "/əpˈsɛt/",
+      "example": "I didn't mean to upset you.",
+      "exampleTranslation": "Я не хотел тебя расстраивать.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "didn't",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mean",
+          "translation": "означать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "upset",
+          "translation": "расстраивать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["upset"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "emotions-150-surprise-verb-1",
+      "vocabularyId": "surprise-verb-1",
+      "word": "surprise",
+      "translation": "удивлять",
+      "partOfSpeech": "verb",
+      "transcription": "/sɚˈpɹaɪz/",
+      "example": "His answer surprised me.",
+      "exampleTranslation": "Его ответ меня удивил.",
+      "exampleTokens": [
+        {
+          "text": "His",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "answer",
+          "translation": "ответ"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "surprised",
+          "translation": "удивлять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextAnswer": "surprised",
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["surprise"],
+      "alternativeTranslations": []
+    }
+  ]
+}

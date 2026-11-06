@@ -1,0 +1,4973 @@
+{
+  "id": "numbers-time-100",
+  "title": "Числа и время",
+  "description": "Числа, порядковые числительные, время на часах и полезные выражения",
+  "level": "A1",
+  "words": [
+    {
+      "id": "numbers-time-100-zero-numeral-1",
+      "vocabularyId": "zero-numeral-1",
+      "word": "zero",
+      "translation": "ноль",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈzɪɹoʊ/",
+      "example": "The answer is zero.",
+      "exampleTranslation": "Ответ — ноль.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "answer",
+          "translation": "ответ"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "zero",
+          "translation": "ноль"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["zero"],
+      "alternativeTranslations": ["нуль"]
+    },
+    {
+      "id": "numbers-time-100-one-numeral-1",
+      "vocabularyId": "one-numeral-1",
+      "word": "one",
+      "translation": "один",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈwʌn/",
+      "example": "I have one ticket.",
+      "exampleTranslation": "У меня один билет.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ticket",
+          "translation": "билет"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["one"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-two-numeral-1",
+      "vocabularyId": "two-numeral-1",
+      "word": "two",
+      "translation": "два",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtu/",
+      "example": "We need two chairs.",
+      "exampleTranslation": "Нам нужны два стула.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нуждаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "translation": "два"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chairs",
+          "translation": "стулья"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["second", "twice", "twenty-second"],
+      "acceptedAnswers": ["two"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-three-numeral-1",
+      "vocabularyId": "three-numeral-1",
+      "word": "three",
+      "translation": "три",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɹi/",
+      "example": "She has three cats.",
+      "exampleTranslation": "У неё три кошки.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "has",
+          "translation": "имеет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "three",
+          "translation": "три"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cats",
+          "translation": "кошки"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["third", "thrice", "thirteenth"],
+      "acceptedAnswers": ["three"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-four-numeral-1",
+      "vocabularyId": "four-numeral-1",
+      "word": "four",
+      "translation": "четыре",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɔɹ/",
+      "example": "There are four windows.",
+      "exampleTranslation": "Здесь четыре окна.",
+      "exampleTokens": [
+        {
+          "text": "There",
+          "translation": "там; здесь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "translation": "четыре"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "windows",
+          "translation": "окна"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["four"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-five-numeral-1",
+      "vocabularyId": "five-numeral-1",
+      "word": "five",
+      "translation": "пять",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfaɪv/",
+      "example": "I work five days a week.",
+      "exampleTranslation": "Я работаю пять дней в неделю.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "работать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "translation": "пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "days",
+          "translation": "дней"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "неделю"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["five"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-six-numeral-1",
+      "vocabularyId": "six-numeral-1",
+      "word": "six",
+      "translation": "шесть",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɪks/",
+      "example": "The train leaves at six.",
+      "exampleTranslation": "Поезд отправляется в шесть.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "translation": "поезд"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "leaves",
+          "translation": "листья; уходит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "six",
+          "translation": "шесть"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["six"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-seven-numeral-1",
+      "vocabularyId": "seven-numeral-1",
+      "word": "seven",
+      "translation": "семь",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɛvən/",
+      "example": "We have seven apples.",
+      "exampleTranslation": "У нас семь яблок.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seven",
+          "translation": "семь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "apples",
+          "translation": "яблоки"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["seven"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-eight-numeral-1",
+      "vocabularyId": "eight-numeral-1",
+      "word": "eight",
+      "translation": "восемь",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈeɪt/",
+      "example": "I wake up at eight.",
+      "exampleTranslation": "Я просыпаюсь в восемь.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wake",
+          "translation": "просыпаюсь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "up",
+          "translation": "встаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eight",
+          "translation": "восемь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["eight"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-nine-numeral-1",
+      "vocabularyId": "nine-numeral-1",
+      "word": "nine",
+      "translation": "девять",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈnaɪn/",
+      "example": "The shop opens at nine.",
+      "exampleTranslation": "Магазин открывается в девять.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shop",
+          "translation": "магазин"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "opens",
+          "translation": "открывается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nine",
+          "translation": "девять"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["nine"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-ten-numeral-1",
+      "vocabularyId": "ten-numeral-1",
+      "word": "ten",
+      "translation": "десять",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtɛn/",
+      "example": "Give me ten minutes.",
+      "exampleTranslation": "Дай мне десять минут.",
+      "exampleTokens": [
+        {
+          "text": "Give",
+          "translation": "давать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "мне"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["ten"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-eleven-numeral-1",
+      "vocabularyId": "eleven-numeral-1",
+      "word": "eleven",
+      "translation": "одиннадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ɪˈlɛvən/",
+      "example": "The meeting starts at eleven.",
+      "exampleTranslation": "Встреча начинается в одиннадцать.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "translation": "встреча"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "starts",
+          "translation": "начинается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eleven",
+          "translation": "одиннадцать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["eleven"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twelve-numeral-1",
+      "vocabularyId": "twelve-numeral-1",
+      "word": "twelve",
+      "translation": "двенадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛlv/",
+      "example": "There are twelve months in a year.",
+      "exampleTranslation": "В году двенадцать месяцев.",
+      "exampleTokens": [
+        {
+          "text": "There",
+          "translation": "там; здесь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twelve",
+          "translation": "двенадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "months",
+          "translation": "месяцев"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "year",
+          "translation": "год"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["twelve"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-thirteen-numeral-1",
+      "vocabularyId": "thirteen-numeral-1",
+      "word": "thirteen",
+      "translation": "тринадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɝˈtin/",
+      "example": "My sister is thirteen.",
+      "exampleTranslation": "Моей сестре тринадцать лет.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sister",
+          "translation": "сестра"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thirteen",
+          "translation": "тринадцать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["thirteen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-fourteen-numeral-1",
+      "vocabularyId": "fourteen-numeral-1",
+      "word": "fourteen",
+      "translation": "четырнадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɔɹˈtin/",
+      "example": "We bought fourteen books.",
+      "exampleTranslation": "Мы купили четырнадцать книг.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bought",
+          "translation": "купил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fourteen",
+          "translation": "четырнадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "books",
+          "translation": "по контексту"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["fourteen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-fifteen-numeral-1",
+      "vocabularyId": "fifteen-numeral-1",
+      "word": "fifteen",
+      "translation": "пятнадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/fɪfˈtin/",
+      "example": "The break lasts fifteen minutes.",
+      "exampleTranslation": "Перерыв длится пятнадцать минут.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "break",
+          "translation": "ломать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lasts",
+          "translation": "длится"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fifteen",
+          "translation": "пятнадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["fifteen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-sixteen-numeral-1",
+      "vocabularyId": "sixteen-numeral-1",
+      "word": "sixteen",
+      "translation": "шестнадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/sɪkˈstin/",
+      "example": "He is sixteen years old.",
+      "exampleTranslation": "Ему шестнадцать лет.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sixteen",
+          "translation": "шестнадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "years",
+          "translation": "лет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "old",
+          "translation": "возрастом"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["sixteen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-seventeen-numeral-1",
+      "vocabularyId": "seventeen-numeral-1",
+      "word": "seventeen",
+      "translation": "семнадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɛvənˈtin/",
+      "example": "There are seventeen students here.",
+      "exampleTranslation": "Здесь семнадцать учеников.",
+      "exampleTokens": [
+        {
+          "text": "There",
+          "translation": "там; здесь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seventeen",
+          "translation": "семнадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "students",
+          "translation": "ученики"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "здесь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["seventeen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-eighteen-numeral-1",
+      "vocabularyId": "eighteen-numeral-1",
+      "word": "eighteen",
+      "translation": "восемнадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/eɪˈtin/",
+      "example": "You must be eighteen to enter.",
+      "exampleTranslation": "Чтобы войти, тебе должно быть восемнадцать.",
+      "exampleTokens": [
+        {
+          "text": "You",
+          "translation": "ты; вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "must",
+          "translation": "должен"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "be",
+          "translation": "быть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eighteen",
+          "translation": "восемнадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к; до"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "enter",
+          "translation": "войти"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["eighteen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-nineteen-numeral-1",
+      "vocabularyId": "nineteen-numeral-1",
+      "word": "nineteen",
+      "translation": "девятнадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈnaɪnˈtin/",
+      "example": "She turns nineteen tomorrow.",
+      "exampleTranslation": "Завтра ей исполнится девятнадцать.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "turns",
+          "translation": "исполняется"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nineteen",
+          "translation": "девятнадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "translation": "завтра"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["nineteen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twenty-numeral-1",
+      "vocabularyId": "twenty-numeral-1",
+      "word": "twenty",
+      "translation": "двадцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛnti/",
+      "example": "The ticket costs twenty pounds.",
+      "exampleTranslation": "Билет стоит двадцать фунтов.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ticket",
+          "translation": "билет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "costs",
+          "translation": "затраты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twenty",
+          "translation": "двадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pounds",
+          "translation": "фунтов"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["twenty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twenty-one-numeral-1",
+      "vocabularyId": "twenty-one-numeral-1",
+      "word": "twenty-one",
+      "translation": "двадцать один",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛntiˌwɔn/",
+      "example": "I am twenty-one years old.",
+      "exampleTranslation": "Мне двадцать один год.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twenty-one",
+          "translation": "двадцать один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "years",
+          "translation": "лет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "old",
+          "translation": "возрастом"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["twenty-one"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twenty-two-numeral-1",
+      "vocabularyId": "twenty-two-numeral-1",
+      "word": "twenty-two",
+      "translation": "двадцать два",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛntiˌtu/",
+      "example": "There are twenty-two people.",
+      "exampleTranslation": "Здесь двадцать два человека.",
+      "exampleTokens": [
+        {
+          "text": "There",
+          "translation": "там; здесь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twenty-two",
+          "translation": "двадцать два"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "people",
+          "translation": "людей"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["twenty-two"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twenty-five-numeral-1",
+      "vocabularyId": "twenty-five-numeral-1",
+      "word": "twenty-five",
+      "translation": "двадцать пять",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛntiˌfaɪv/",
+      "example": "The bus arrives in twenty-five minutes.",
+      "exampleTranslation": "Автобус приедет через двадцать пять минут.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bus",
+          "translation": "автобус"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "arrives",
+          "translation": "прибывает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twenty-five",
+          "translation": "двадцать пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["twenty-five"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-thirty-numeral-1",
+      "vocabularyId": "thirty-numeral-1",
+      "word": "thirty",
+      "translation": "тридцать",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɝˌdi/",
+      "example": "The film starts in thirty minutes.",
+      "exampleTranslation": "Фильм начнётся через тридцать минут.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "film",
+          "translation": "фильм"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "starts",
+          "translation": "начинается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thirty",
+          "translation": "тридцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["thirty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-thirty-five-numeral-1",
+      "vocabularyId": "thirty-five-numeral-1",
+      "word": "thirty-five",
+      "translation": "тридцать пять",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɝdiˌfaɪv/",
+      "example": "He is thirty-five years old.",
+      "exampleTranslation": "Ему тридцать пять лет.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thirty-five",
+          "translation": "тридцать пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "years",
+          "translation": "лет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "old",
+          "translation": "возрастом"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["thirty-five"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-forty-numeral-1",
+      "vocabularyId": "forty-numeral-1",
+      "word": "forty",
+      "translation": "сорок",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɔɹti/",
+      "example": "The bag costs forty euros.",
+      "exampleTranslation": "Сумка стоит сорок евро.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "costs",
+          "translation": "затраты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "forty",
+          "translation": "сорок"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "euros",
+          "translation": "евро"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["forty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-forty-five-numeral-1",
+      "vocabularyId": "forty-five-numeral-1",
+      "word": "forty-five",
+      "translation": "сорок пять",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɔɹtiˌfaɪv/",
+      "example": "The lesson lasts forty-five minutes.",
+      "exampleTranslation": "Урок длится сорок пять минут.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lesson",
+          "translation": "урок"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lasts",
+          "translation": "длится"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "forty-five",
+          "translation": "сорок пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["forty-five"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-fifty-numeral-1",
+      "vocabularyId": "fifty-numeral-1",
+      "word": "fifty",
+      "translation": "пятьдесят",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɪfti/",
+      "example": "I have fifty photos.",
+      "exampleTranslation": "У меня пятьдесят фотографий.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fifty",
+          "translation": "пятьдесят"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "photos",
+          "translation": "фотографии"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["fifty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-sixty-numeral-1",
+      "vocabularyId": "sixty-numeral-1",
+      "word": "sixty",
+      "translation": "шестьдесят",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɪksti/",
+      "example": "An hour has sixty minutes.",
+      "exampleTranslation": "В часе шестьдесят минут.",
+      "exampleTokens": [
+        {
+          "text": "An",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hour",
+          "translation": "час"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "has",
+          "translation": "имеет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sixty",
+          "translation": "шестьдесят"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["sixty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-seventy-numeral-1",
+      "vocabularyId": "seventy-numeral-1",
+      "word": "seventy",
+      "translation": "семьдесят",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɛvənti/",
+      "example": "My grandfather is seventy.",
+      "exampleTranslation": "Моему дедушке семьдесят лет.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grandfather",
+          "translation": "дедушка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seventy",
+          "translation": "семьдесят"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["seventy"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-eighty-numeral-1",
+      "vocabularyId": "eighty-numeral-1",
+      "word": "eighty",
+      "translation": "восемьдесят",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈeɪti/",
+      "example": "The journey takes eighty minutes.",
+      "exampleTranslation": "Поездка занимает восемьдесят минут.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "journey",
+          "translation": "поездка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "takes",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eighty",
+          "translation": "восемьдесят"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["eighty"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-ninety-numeral-1",
+      "vocabularyId": "ninety-numeral-1",
+      "word": "ninety",
+      "translation": "девяносто",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈnaɪnti/",
+      "example": "The price is ninety dollars.",
+      "exampleTranslation": "Цена — девяносто долларов.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "price",
+          "translation": "цена"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ninety",
+          "translation": "девяносто"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "dollars",
+          "translation": "долларов"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["ninety"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-one-hundred-numeral-1",
+      "vocabularyId": "one-hundred-numeral-1",
+      "word": "one hundred",
+      "translation": "сто",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈwʌn ˈhʌndɹəd/",
+      "example": "There are one hundred pages.",
+      "exampleTranslation": "Здесь сто страниц.",
+      "exampleTokens": [
+        {
+          "text": "There",
+          "translation": "там; здесь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hundred",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pages",
+          "translation": "страницы"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["one hundred"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-one-hundred-and-one-numeral-1",
+      "vocabularyId": "one-hundred-and-one-numeral-1",
+      "word": "one hundred and one",
+      "translation": "сто один",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈwʌn ˈhʌndɹəd ənd ˈwʌn/",
+      "example": "The book has one hundred and one pages.",
+      "exampleTranslation": "В книге сто одна страница.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "translation": "книга"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "has",
+          "translation": "имеет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hundred",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "and",
+          "translation": "и"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pages",
+          "translation": "страницы"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["one hundred and one"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-two-hundred-numeral-1",
+      "vocabularyId": "two-hundred-numeral-1",
+      "word": "two hundred",
+      "translation": "двести",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtu ˈhʌndɹəd/",
+      "example": "We walked two hundred metres.",
+      "exampleTranslation": "Мы прошли двести метров.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "walked",
+          "translation": "прошли"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "translation": "два"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hundred",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "metres",
+          "translation": "метров"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["two hundred"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-five-hundred-numeral-1",
+      "vocabularyId": "five-hundred-numeral-1",
+      "word": "five hundred",
+      "translation": "пятьсот",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfaɪv ˈhʌndɹəd/",
+      "example": "The hotel costs five hundred euros.",
+      "exampleTranslation": "Отель стоит пятьсот евро.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hotel",
+          "translation": "отель"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "costs",
+          "translation": "затраты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "translation": "пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hundred",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "euros",
+          "translation": "евро"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["five hundred"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-one-thousand-numeral-1",
+      "vocabularyId": "one-thousand-numeral-1",
+      "word": "one thousand",
+      "translation": "тысяча",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈwʌn ˈθaʊzənd/",
+      "example": "The town has one thousand residents.",
+      "exampleTranslation": "В городе тысяча жителей.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "town",
+          "translation": "городок"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "has",
+          "translation": "имеет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thousand",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "residents",
+          "translation": "жители"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["one thousand"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-ten-thousand-numeral-1",
+      "vocabularyId": "ten-thousand-numeral-1",
+      "word": "ten thousand",
+      "translation": "десять тысяч",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtɛn ˈθaʊzənd/",
+      "example": "Ten thousand people came.",
+      "exampleTranslation": "Пришло десять тысяч человек.",
+      "exampleTokens": [
+        {
+          "text": "Ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thousand",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "people",
+          "translation": "людей"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "came",
+          "translation": "пришла"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["ten thousand"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-one-million-numeral-1",
+      "vocabularyId": "one-million-numeral-1",
+      "word": "one million",
+      "translation": "миллион",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈwʌn ˈmɪljən/",
+      "example": "The video has one million views.",
+      "exampleTranslation": "У видео миллион просмотров.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "video",
+          "translation": "видео"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "has",
+          "translation": "имеет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "million",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "views",
+          "translation": "просмотры"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["one million"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-first-numeral-1",
+      "vocabularyId": "first-numeral-1",
+      "word": "first",
+      "translation": "первый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɝst/",
+      "example": "This is my first visit to London.",
+      "exampleTranslation": "Это мой первый визит в Лондон.",
+      "exampleTokens": [
+        {
+          "text": "This",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "first",
+          "translation": "первый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "visit",
+          "translation": "посещать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица инфинитива"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "London",
+          "translation": "Лондона"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["first"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-second-numeral-1",
+      "vocabularyId": "second-numeral-1",
+      "word": "second",
+      "translation": "второй",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɛkənd/",
+      "example": "Take the second street.",
+      "exampleTranslation": "Поверни на вторую улицу.",
+      "exampleTokens": [
+        {
+          "text": "Take",
+          "translation": "брать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "second",
+          "translation": "второй"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "street",
+          "translation": "улица"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["second"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-third-numeral-1",
+      "vocabularyId": "third-numeral-1",
+      "word": "third",
+      "translation": "третий",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɝd/",
+      "example": "She came third in the race.",
+      "exampleTranslation": "Она заняла третье место в забеге.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "came",
+          "translation": "пришла"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "third",
+          "translation": "третий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "race",
+          "translation": "забег"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["third"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-fourth-numeral-1",
+      "vocabularyId": "fourth-numeral-1",
+      "word": "fourth",
+      "translation": "четвёртый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɔɹθ/",
+      "example": "We live on the fourth floor.",
+      "exampleTranslation": "Мы живём на четвёртом этаже.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "live",
+          "translation": "жить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fourth",
+          "translation": "четвёртый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "floor",
+          "translation": "пол"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["fourth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-fifth-numeral-1",
+      "vocabularyId": "fifth-numeral-1",
+      "word": "fifth",
+      "translation": "пятый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈfɪfθ/",
+      "example": "Today is my fifth day here.",
+      "exampleTranslation": "Сегодня мой пятый день здесь.",
+      "exampleTokens": [
+        {
+          "text": "Today",
+          "translation": "сегодня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fifth",
+          "translation": "пятый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "день"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "здесь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["fifth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-sixth-numeral-1",
+      "vocabularyId": "sixth-numeral-1",
+      "word": "sixth",
+      "translation": "шестой",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɪksθ/",
+      "example": "He finished in sixth place.",
+      "exampleTranslation": "Он занял шестое место.",
+      "exampleTokens": [
+        {
+          "text": "He",
+          "translation": "он"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "finished",
+          "translation": "закончил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sixth",
+          "translation": "шестой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "place",
+          "translation": "место"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["sixth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-seventh-numeral-1",
+      "vocabularyId": "seventh-numeral-1",
+      "word": "seventh",
+      "translation": "седьмой",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈsɛvənθ/",
+      "example": "This is the seventh chapter.",
+      "exampleTranslation": "Это седьмая глава.",
+      "exampleTokens": [
+        {
+          "text": "This",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seventh",
+          "translation": "седьмой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chapter",
+          "translation": "глава"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["seventh"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-eighth-numeral-1",
+      "vocabularyId": "eighth-numeral-1",
+      "word": "eighth",
+      "translation": "восьмой",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈeɪtθ/",
+      "example": "Her birthday is on the eighth.",
+      "exampleTranslation": "Её день рождения восьмого числа.",
+      "exampleTokens": [
+        {
+          "text": "Her",
+          "translation": "её, ей"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "birthday",
+          "translation": "день рождения"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eighth",
+          "translation": "восьмой"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["eighth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-ninth-numeral-1",
+      "vocabularyId": "ninth-numeral-1",
+      "word": "ninth",
+      "translation": "девятый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈnaɪnθ/",
+      "example": "We are on the ninth floor.",
+      "exampleTranslation": "Мы на девятом этаже.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ninth",
+          "translation": "девятый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "floor",
+          "translation": "пол"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["ninth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-tenth-numeral-1",
+      "vocabularyId": "tenth-numeral-1",
+      "word": "tenth",
+      "translation": "десятый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtɛnθ/",
+      "example": "This is the tenth question.",
+      "exampleTranslation": "Это десятый вопрос.",
+      "exampleTokens": [
+        {
+          "text": "This",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tenth",
+          "translation": "десятый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "question",
+          "translation": "вопрос"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["tenth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-eleventh-numeral-1",
+      "vocabularyId": "eleventh-numeral-1",
+      "word": "eleventh",
+      "translation": "одиннадцатый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ɪˈlɛvənθ/",
+      "example": "The exam is on the eleventh.",
+      "exampleTranslation": "Экзамен одиннадцатого числа.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "exam",
+          "translation": "экзамен"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eleventh",
+          "translation": "одиннадцатый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["eleventh"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twelfth-numeral-1",
+      "vocabularyId": "twelfth-numeral-1",
+      "word": "twelfth",
+      "translation": "двенадцатый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛlfθ/",
+      "example": "She lives on the twelfth floor.",
+      "exampleTranslation": "Она живёт на двенадцатом этаже.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lives",
+          "translation": "живёт"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twelfth",
+          "translation": "двенадцатый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "floor",
+          "translation": "пол"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["twelfth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-thirteenth-numeral-1",
+      "vocabularyId": "thirteenth-numeral-1",
+      "word": "thirteenth",
+      "translation": "тринадцатый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɝˈtinθ/",
+      "example": "Friday the thirteenth is a famous phrase.",
+      "exampleTranslation": "Пятница тринадцатое — известное выражение.",
+      "exampleTokens": [
+        {
+          "text": "Friday",
+          "translation": "пятница"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thirteenth",
+          "translation": "тринадцатый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "famous",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "phrase",
+          "translation": "по контексту"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["thirteenth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-twentieth-numeral-1",
+      "vocabularyId": "twentieth-numeral-1",
+      "word": "twentieth",
+      "translation": "двадцатый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈtwɛntiəθ/",
+      "example": "The deadline is the twentieth.",
+      "exampleTranslation": "Крайний срок — двадцатое число.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "deadline",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twentieth",
+          "translation": "двадцатый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["quietly", "carefully", "slowly"],
+      "acceptedAnswers": ["twentieth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-thirtieth-numeral-1",
+      "vocabularyId": "thirtieth-numeral-1",
+      "word": "thirtieth",
+      "translation": "тридцатый",
+      "partOfSpeech": "numeral",
+      "transcription": "/ˈθɝtiəθ/",
+      "example": "The event is on the thirtieth.",
+      "exampleTranslation": "Мероприятие тридцатого числа.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "event",
+          "translation": "мероприятие"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thirtieth",
+          "translation": "тридцатый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["thirtieth"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-half-noun-1",
+      "vocabularyId": "half-noun-1",
+      "word": "half",
+      "translation": "половина",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈhæf/",
+      "example": "I ate half the cake.",
+      "exampleTranslation": "Я съел половину торта.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ate",
+          "translation": "съел"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "half",
+          "translation": "половина"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cake",
+          "translation": "торт"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["half"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-quarter-noun-1",
+      "vocabularyId": "quarter-noun-1",
+      "word": "quarter",
+      "translation": "четверть",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkwɔɹtɚ/",
+      "example": "A quarter of an hour is fifteen minutes.",
+      "exampleTranslation": "Четверть часа — пятнадцать минут.",
+      "exampleTokens": [
+        {
+          "text": "A",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "quarter",
+          "translation": "четверть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из; родительный падеж"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "an",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hour",
+          "translation": "час"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fifteen",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minutes",
+          "translation": "минут"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["quarter"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-double-adjective-1",
+      "vocabularyId": "double-adjective-1",
+      "word": "double",
+      "translation": "двойной; вдвое",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈdʌbəl/",
+      "example": "We need a double room.",
+      "exampleTranslation": "Нам нужен двухместный номер.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нуждаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "double",
+          "translation": "двойной; вдвое"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "room",
+          "translation": "комната"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["double"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-single-adjective-1",
+      "vocabularyId": "single-adjective-1",
+      "word": "single",
+      "translation": "одинарный; один",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈsɪŋɡəl/",
+      "example": "I booked a single room.",
+      "exampleTranslation": "Я забронировал одноместный номер.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "booked",
+          "translation": "забронировал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "single",
+          "translation": "одинарный; один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "room",
+          "translation": "комната"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["single"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-pair-noun-1",
+      "vocabularyId": "pair-noun-1",
+      "word": "pair",
+      "translation": "пара",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈpɛɹ/",
+      "example": "I bought a pair of shoes.",
+      "exampleTranslation": "Я купил пару туфель.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bought",
+          "translation": "купил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pair",
+          "translation": "пара"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из; родительный падеж"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shoes",
+          "translation": "обувь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["pair"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-dozen-noun-1",
+      "vocabularyId": "dozen-noun-1",
+      "word": "dozen",
+      "translation": "дюжина",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdʌzən/",
+      "example": "We bought a dozen eggs.",
+      "exampleTranslation": "Мы купили дюжину яиц.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bought",
+          "translation": "купил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "dozen",
+          "translation": "дюжина"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eggs",
+          "translation": "яйца"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["dozen"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-number-noun-1",
+      "vocabularyId": "number-noun-1",
+      "word": "number",
+      "translation": "число; номер",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈnʌmbɚ/",
+      "example": "What is your phone number?",
+      "exampleTranslation": "Какой у тебя номер телефона?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "какой; что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой; ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "phone",
+          "translation": "телефон"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "number",
+          "translation": "число; номер"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["number"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-amount-noun-1",
+      "vocabularyId": "amount-noun-1",
+      "word": "amount",
+      "translation": "количество; сумма",
+      "partOfSpeech": "noun",
+      "transcription": "/əˈmaʊnt/",
+      "example": "Check the total amount.",
+      "exampleTranslation": "Проверь общую сумму.",
+      "exampleTokens": [
+        {
+          "text": "Check",
+          "translation": "проверять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "total",
+          "translation": "общая сумма"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "amount",
+          "translation": "количество; сумма"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["amount"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-total-noun-1",
+      "vocabularyId": "total-noun-1",
+      "word": "total",
+      "translation": "итог; общая сумма",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈtoʊtəl/",
+      "example": "The total is thirty euros.",
+      "exampleTranslation": "Итого тридцать евро.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "total",
+          "translation": "итог; общая сумма"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thirty",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "euros",
+          "translation": "евро"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["total"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-count-verb-1",
+      "vocabularyId": "count-verb-1",
+      "word": "count",
+      "translation": "считать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈkaʊnt/",
+      "example": "Can you count to ten?",
+      "exampleTranslation": "Ты умеешь считать до десяти?",
+      "exampleTokens": [
+        {
+          "text": "Can",
+          "translation": "можешь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты; вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "count",
+          "translation": "считать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к; до"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["count"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-add-verb-1",
+      "vocabularyId": "add-verb-1",
+      "word": "add",
+      "translation": "прибавлять",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈæd/",
+      "example": "Add two and three.",
+      "exampleTranslation": "Сложи два и три.",
+      "exampleTokens": [
+        {
+          "text": "Add",
+          "translation": "прибавлять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "translation": "два"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "and",
+          "translation": "и"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "three",
+          "translation": "три"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["add"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-subtract-verb-1",
+      "vocabularyId": "subtract-verb-1",
+      "word": "subtract",
+      "translation": "вычитать",
+      "partOfSpeech": "verb",
+      "transcription": "/səbˈtɹækt/",
+      "example": "Subtract five from ten.",
+      "exampleTranslation": "Вычти пять из десяти.",
+      "exampleTokens": [
+        {
+          "text": "Subtract",
+          "translation": "вычитать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "translation": "пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "from",
+          "translation": "из; от"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["subtract"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-multiply-verb-1",
+      "vocabularyId": "multiply-verb-1",
+      "word": "multiply",
+      "translation": "умножать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈmʌltəˌplaɪ/",
+      "example": "Multiply three by four.",
+      "exampleTranslation": "Умножь три на четыре.",
+      "exampleTokens": [
+        {
+          "text": "Multiply",
+          "translation": "умножать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "three",
+          "translation": "три"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "рядом, посредством"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "translation": "четыре"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["multiply"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-divide-verb-1",
+      "vocabularyId": "divide-verb-1",
+      "word": "divide",
+      "translation": "делить",
+      "partOfSpeech": "verb",
+      "transcription": "/dɪˈvaɪd/",
+      "example": "Divide ten by two.",
+      "exampleTranslation": "Раздели десять на два.",
+      "exampleTokens": [
+        {
+          "text": "Divide",
+          "translation": "делить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "рядом, посредством"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "translation": "два"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["divide"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-plus-preposition-1",
+      "vocabularyId": "plus-preposition-1",
+      "word": "plus",
+      "translation": "плюс",
+      "partOfSpeech": "preposition",
+      "transcription": "/ˈplʌs/",
+      "example": "Two plus two is four.",
+      "exampleTranslation": "Два плюс два равно четыре.",
+      "exampleTokens": [
+        {
+          "text": "Two",
+          "translation": "два"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "plus",
+          "translation": "плюс"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "translation": "два"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "translation": "четыре"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["wooden", "hungry", "purple"],
+      "acceptedAnswers": ["plus"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-minus-preposition-1",
+      "vocabularyId": "minus-preposition-1",
+      "word": "minus",
+      "translation": "минус",
+      "partOfSpeech": "preposition",
+      "transcription": "/ˈmaɪnəs/",
+      "example": "Ten minus three is seven.",
+      "exampleTranslation": "Десять минус три равно семь.",
+      "exampleTokens": [
+        {
+          "text": "Ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minus",
+          "translation": "минус"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "three",
+          "translation": "три"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seven",
+          "translation": "семь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["wooden", "hungry", "purple"],
+      "acceptedAnswers": ["minus"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-equals-verb-1",
+      "vocabularyId": "equals-verb-1",
+      "word": "equals",
+      "translation": "равняется",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈikwəlz/",
+      "example": "Five plus five equals ten.",
+      "exampleTranslation": "Пять плюс пять равно десять.",
+      "exampleTokens": [
+        {
+          "text": "Five",
+          "translation": "пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "plus",
+          "translation": "плюс"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "translation": "пять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "equals",
+          "translation": "равняется"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["beside", "during", "without"],
+      "acceptedAnswers": ["equals"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-percent-noun-1",
+      "vocabularyId": "percent-noun-1",
+      "word": "percent",
+      "translation": "процент",
+      "partOfSpeech": "noun",
+      "transcription": "/pɚˈsɛnt/",
+      "example": "The discount is ten percent.",
+      "exampleTranslation": "Скидка составляет десять процентов.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "discount",
+          "translation": "скидка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "percent",
+          "translation": "процент"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["percent"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-price-noun-1",
+      "vocabularyId": "price-noun-1",
+      "word": "price",
+      "translation": "цена",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈpɹaɪs/",
+      "example": "I need a price.",
+      "exampleTranslation": "Мне нужна цена.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нужен"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "price",
+          "translation": "цена"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["price"],
+      "alternativeTranslations": ["стоимость"]
+    },
+    {
+      "id": "numbers-time-100-age-noun-1",
+      "vocabularyId": "age-noun-1",
+      "word": "age",
+      "translation": "возраст",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈeɪdʒ/",
+      "example": "What is your age?",
+      "exampleTranslation": "Сколько тебе лет?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "какой; что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой; ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "age",
+          "translation": "возраст"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["age"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-year-noun-1",
+      "vocabularyId": "year-noun-1",
+      "word": "year",
+      "translation": "год",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈjɪɹ/",
+      "example": "This year went fast.",
+      "exampleTranslation": "Этот год быстро прошёл.",
+      "exampleTokens": [
+        {
+          "text": "This",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "year",
+          "translation": "год"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "went",
+          "translation": "пошли"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fast",
+          "translation": "быстрый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["year"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-month-noun-1",
+      "vocabularyId": "month-noun-1",
+      "word": "month",
+      "translation": "месяц",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmʌnθ/",
+      "example": "See you next month.",
+      "exampleTranslation": "Увидимся в следующем месяце.",
+      "exampleTokens": [
+        {
+          "text": "See",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next",
+          "translation": "следующий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["month"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-week-noun-1",
+      "vocabularyId": "week-noun-1",
+      "word": "week",
+      "translation": "неделя",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwik/",
+      "example": "It's been a busy week.",
+      "exampleTranslation": "Неделя была напряжённой.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "been",
+          "translation": "форма причастия глагола быть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "busy",
+          "translation": "занятый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "неделя"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-day-noun-1",
+      "vocabularyId": "day-noun-1",
+      "word": "day",
+      "translation": "день",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdeɪ/",
+      "example": "Have a good day!",
+      "exampleTranslation": "Хорошего дня!",
+      "exampleTokens": [
+        {
+          "text": "Have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "день"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["day"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-hour-noun-1",
+      "vocabularyId": "hour-noun-1",
+      "word": "hour",
+      "translation": "час",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈaʊɚ/",
+      "example": "The trip takes one hour.",
+      "exampleTranslation": "Поездка занимает один час.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "trip",
+          "translation": "поездка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "takes",
+          "translation": "по контексту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hour",
+          "translation": "час"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["hour"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-minute-noun-1",
+      "vocabularyId": "minute-noun-1",
+      "word": "minute",
+      "translation": "минута",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmɪnɪt/",
+      "example": "Wait a minute, please.",
+      "exampleTranslation": "Подожди минуту, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "Wait",
+          "translation": "подождать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minute",
+          "translation": "минута"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["minute"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-second-time-noun-1",
+      "vocabularyId": "second-time-noun-1",
+      "word": "second",
+      "translation": "секунда",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsɛkənd/",
+      "example": "Just a second, please.",
+      "exampleTranslation": "Одну секунду, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "Just",
+          "translation": "просто"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "second",
+          "translation": "секунда"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["second"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-time-noun-1",
+      "vocabularyId": "time-noun-1",
+      "word": "time",
+      "translation": "время",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈtaɪm/",
+      "example": "What time is it?",
+      "exampleTranslation": "Который час?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "какой; что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "translation": "время"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["time"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-clock-noun-1",
+      "vocabularyId": "clock-noun-1",
+      "word": "clock",
+      "translation": "часы (настенные)",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈklɑk/",
+      "example": "The clock is on the wall.",
+      "exampleTranslation": "Часы висят на стене.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "clock",
+          "translation": "часы (настенные)"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wall",
+          "translation": "стена"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["clock"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-watch-noun-1",
+      "vocabularyId": "watch-noun-1",
+      "word": "watch",
+      "translation": "наручные часы",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwɑtʃ/",
+      "example": "Where can I find the watch?",
+      "exampleTranslation": "Где я могу найти наручных часы?",
+      "exampleTokens": [
+        {
+          "text": "Where",
+          "translation": "где"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "могу"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "find",
+          "translation": "найти"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "watch",
+          "translation": "наручные часы"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["watch"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-o-clock-adverb-1",
+      "vocabularyId": "o-clock-adverb-1",
+      "word": "o'clock",
+      "translation": "ровно (о времени)",
+      "partOfSpeech": "adverb",
+      "transcription": "/əˈklɑk/",
+      "example": "The meeting is at three o'clock.",
+      "exampleTranslation": "Встреча в три часа ровно.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "translation": "встреча"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "three",
+          "translation": "три"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "o'clock",
+          "translation": "ровно (о времени)"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["o'clock"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-noon-noun-1",
+      "vocabularyId": "noon-noun-1",
+      "word": "noon",
+      "translation": "полдень",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈnun/",
+      "example": "We meet at noon.",
+      "exampleTranslation": "Мы встречаемся в полдень.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "встречать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "noon",
+          "translation": "полдень"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["noon"],
+      "alternativeTranslations": ["двенадцать часов дня"]
+    },
+    {
+      "id": "numbers-time-100-midnight-noun-1",
+      "vocabularyId": "midnight-noun-1",
+      "word": "midnight",
+      "translation": "полночь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmɪdˌnaɪt/",
+      "example": "The train arrives at midnight.",
+      "exampleTranslation": "Поезд прибывает в полночь.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "translation": "поезд"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "arrives",
+          "translation": "прибывает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "midnight",
+          "translation": "полночь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["midnight"],
+      "alternativeTranslations": ["двенадцать часов ночи"]
+    },
+    {
+      "id": "numbers-time-100-a-m-adverb-1",
+      "vocabularyId": "a-m-adverb-1",
+      "word": "a.m.",
+      "translation": "до полудня",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˌeɪˈɛm/",
+      "example": "The flight leaves at 7 a.m.",
+      "exampleTranslation": "Самолёт вылетает в семь утра.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "flight",
+          "translation": "рейс"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "leaves",
+          "translation": "листья; уходит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " 7 "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": "."
+        },
+        {
+          "text": "m",
+          "translation": "по контексту"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["a.m.", "am"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-p-m-adverb-1",
+      "vocabularyId": "p-m-adverb-1",
+      "word": "p.m.",
+      "translation": "после полудня",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈpiˈɛm/",
+      "example": "The shop closes at 6 p.m.",
+      "exampleTranslation": "Магазин закрывается в шесть вечера.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shop",
+          "translation": "магазин"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "closes",
+          "translation": "закрывается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " 6 "
+        },
+        {
+          "text": "p",
+          "translation": "по контексту"
+        },
+        {
+          "text": "."
+        },
+        {
+          "text": "m",
+          "translation": "по контексту"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["p.m.", "pm"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-half-past-phrase-1",
+      "vocabularyId": "half-past-phrase-1",
+      "word": "half past",
+      "translation": "половина следующего часа",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhæf ˈpæst/",
+      "example": "It's half past seven.",
+      "exampleTranslation": "Сейчас половина восьмого.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "half",
+          "translation": "половина"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "past",
+          "translation": "прошлое"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seven",
+          "translation": "семь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["half past"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-quarter-past-phrase-1",
+      "vocabularyId": "quarter-past-phrase-1",
+      "word": "quarter past",
+      "translation": "пятнадцать минут после",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈkwɔɹtɚ ˈpæst/",
+      "example": "It's quarter past two.",
+      "exampleTranslation": "Сейчас четверть третьего.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "quarter",
+          "translation": "четверть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "past",
+          "translation": "прошлое"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "translation": "два"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["quarter past"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-quarter-to-phrase-1",
+      "vocabularyId": "quarter-to-phrase-1",
+      "word": "quarter to",
+      "translation": "без пятнадцати",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈkwɔɹtɚ ˈtu/",
+      "example": "It's quarter to nine.",
+      "exampleTranslation": "Сейчас без четверти девять.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "quarter",
+          "translation": "четверть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к; до"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nine",
+          "translation": "девять"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["quarter to"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-past-preposition-1",
+      "vocabularyId": "past-preposition-1",
+      "word": "past",
+      "translation": "после (о времени)",
+      "partOfSpeech": "preposition",
+      "transcription": "/ˈpæst/",
+      "example": "It's ten past five.",
+      "exampleTranslation": "Сейчас десять минут шестого.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "past",
+          "translation": "после (о времени)"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "translation": "пять"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["past"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-to-time-preposition-1",
+      "vocabularyId": "to-time-preposition-1",
+      "word": "to",
+      "translation": "до (о времени)",
+      "partOfSpeech": "preposition",
+      "transcription": "/ˈtu/",
+      "example": "It's ten to six.",
+      "exampleTranslation": "Сейчас без десяти шесть.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "translation": "десять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "до (о времени)"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "six",
+          "translation": "шесть"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["to"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-early-adverb-1",
+      "vocabularyId": "early-adverb-1",
+      "word": "early",
+      "translation": "рано",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈɝli/",
+      "example": "I woke up early.",
+      "exampleTranslation": "Я проснулся рано.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "woke",
+          "translation": "проснулся"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "up",
+          "translation": "вверх"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "early",
+          "translation": "рано"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["early"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-late-adverb-1",
+      "vocabularyId": "late-adverb-1",
+      "word": "late",
+      "translation": "поздно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈleɪt/",
+      "example": "We arrived late.",
+      "exampleTranslation": "Мы приехали поздно.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "arrived",
+          "translation": "приехал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "late",
+          "translation": "поздно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["neither", "whereas", "whether"],
+      "acceptedAnswers": ["late"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-on-time-phrase-1",
+      "vocabularyId": "on-time-phrase-1",
+      "word": "on time",
+      "translation": "вовремя",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɑn ˈtaɪm/",
+      "example": "The train arrived on time.",
+      "exampleTranslation": "Поезд прибыл вовремя.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "translation": "поезд"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "arrived",
+          "translation": "приехал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на; в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "translation": "время"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["on time"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-date-noun-1",
+      "vocabularyId": "date-noun-1",
+      "word": "date",
+      "translation": "дата",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdeɪt/",
+      "example": "What is today's date?",
+      "exampleTranslation": "Какое сегодня число?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "какой; что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today's",
+          "translation": "сегодняшний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "date",
+          "translation": "дата"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["date"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "numbers-time-100-birthday-noun-1",
+      "vocabularyId": "birthday-noun-1",
+      "word": "birthday",
+      "translation": "день рождения",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈbɝθˌdeɪ/",
+      "example": "My birthday is in May.",
+      "exampleTranslation": "Мой день рождения в мае.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "birthday",
+          "translation": "день рождения"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "May",
+          "translation": "можно, возможно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["birthday"],
+      "alternativeTranslations": []
+    }
+  ]
+}

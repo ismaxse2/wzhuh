@@ -1,0 +1,537 @@
+[
+  {
+    "id": "travel-abroad",
+    "vocabularyId": "abroad-adverb-1",
+    "word": "abroad",
+    "translation": "за границей",
+    "partOfSpeech": "adverb",
+    "transcription": "/əˈbrɔːd/",
+    "example": "She wants to study abroad.",
+    "exampleTranslation": "Она хочет учиться за границей.",
+    "exampleTokens": [
+      {
+        "text": "She",
+        "translation": "она"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "wants",
+        "translation": "хочет"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "to",
+        "translation": "частица перед инфинитивом"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "study",
+        "translation": "учиться"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "abroad",
+        "translation": "за границей"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["unless", "although", "because"],
+    "acceptedAnswers": ["abroad"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-function",
+    "vocabularyId": "function-noun-1",
+    "word": "function",
+    "translation": "функция",
+    "partOfSpeech": "noun",
+    "transcription": "/ˈfʌŋkʃn/",
+    "example": "This function returns a number.",
+    "exampleTranslation": "Эта функция возвращает число.",
+    "exampleTokens": [
+      {
+        "text": "This",
+        "translation": "эта"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "function",
+        "translation": "функция"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "returns",
+        "translation": "возвращает"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "a",
+        "translation": "неопределённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "number",
+        "translation": "число"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["although", "unless", "because"],
+    "acceptedAnswers": ["function"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-variable",
+    "vocabularyId": "variable-noun-1",
+    "word": "variable",
+    "translation": "переменная",
+    "partOfSpeech": "noun",
+    "transcription": "/ˈveəriəbl/",
+    "example": "Give the variable a clear name.",
+    "exampleTranslation": "Дай переменной понятное имя.",
+    "exampleTokens": [
+      {
+        "text": "Give",
+        "translation": "дай"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the",
+        "translation": "определённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "variable",
+        "translation": "переменной"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "a",
+        "translation": "неопределённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "clear",
+        "translation": "понятное"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "name",
+        "translation": "имя"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["although", "unless", "because"],
+    "acceptedAnswers": ["variable"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-array",
+    "vocabularyId": "array-noun-1",
+    "word": "array",
+    "translation": "массив",
+    "partOfSpeech": "noun",
+    "transcription": "/əˈreɪ/",
+    "example": "Store the values in an array.",
+    "exampleTranslation": "Сохрани значения в массиве.",
+    "exampleTokens": [
+      {
+        "text": "Store",
+        "translation": "сохрани"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the",
+        "translation": "определённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "values",
+        "translation": "значения"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "in",
+        "translation": "в"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "an",
+        "translation": "неопределённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "array",
+        "translation": "массиве"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["although", "unless", "because"],
+    "acceptedAnswers": ["array"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-object",
+    "vocabularyId": "object-noun-1",
+    "word": "object",
+    "translation": "объект",
+    "partOfSpeech": "noun",
+    "transcription": "/ˈɒbdʒɪkt/",
+    "example": "This object has two properties.",
+    "exampleTranslation": "У этого объекта два свойства.",
+    "exampleTokens": [
+      {
+        "text": "This",
+        "translation": "этот"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "object",
+        "translation": "объект"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "has",
+        "translation": "имеет"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "two",
+        "translation": "два"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "properties",
+        "translation": "свойства"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["arrived", "slept", "swam"],
+    "acceptedAnswers": ["object"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-return",
+    "vocabularyId": "return-verb-1",
+    "word": "return",
+    "translation": "возвращать",
+    "partOfSpeech": "verb",
+    "transcription": "/rɪˈtɜːn/",
+    "example": "The function can return a string.",
+    "exampleTranslation": "Функция может вернуть строку.",
+    "exampleTokens": [
+      {
+        "text": "The",
+        "translation": "определённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "function",
+        "translation": "функция"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "can",
+        "translation": "может"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "return",
+        "translation": "вернуть"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "a",
+        "translation": "неопределённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "string",
+        "translation": "строку"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["ceiling", "envelope", "cucumber"],
+    "acceptedAnswers": ["return"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-debug",
+    "vocabularyId": "debug-verb-1",
+    "word": "debug",
+    "translation": "отлаживать",
+    "partOfSpeech": "verb",
+    "transcription": "/ˌdiːˈbʌɡ/",
+    "example": "We need to debug this code.",
+    "exampleTranslation": "Нам нужно отладить этот код.",
+    "exampleTokens": [
+      {
+        "text": "We",
+        "translation": "нам"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "need",
+        "translation": "нужно"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "to",
+        "translation": "частица перед инфинитивом"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "debug",
+        "translation": "отладить"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "this",
+        "translation": "этот"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "code",
+        "translation": "код"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["beside", "during", "without"],
+    "acceptedAnswers": ["debug"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-deploy",
+    "vocabularyId": "deploy-verb-1",
+    "word": "deploy",
+    "translation": "развёртывать",
+    "partOfSpeech": "verb",
+    "transcription": "/dɪˈplɔɪ/",
+    "example": "We deploy the app on Friday.",
+    "exampleTranslation": "Мы развёртываем приложение в пятницу.",
+    "exampleTokens": [
+      {
+        "text": "We",
+        "translation": "мы"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "deploy",
+        "translation": "развёртываем"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the",
+        "translation": "определённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "app",
+        "translation": "приложение"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "on",
+        "translation": "в: с днями недели"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Friday",
+        "translation": "пятницу"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["ceiling", "envelope", "cucumber"],
+    "acceptedAnswers": ["deploy"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-update",
+    "vocabularyId": "update-verb-1",
+    "word": "update",
+    "translation": "обновлять",
+    "partOfSpeech": "verb",
+    "transcription": "/ʌpˈdeɪt/",
+    "example": "Please update the documentation.",
+    "exampleTranslation": "Пожалуйста, обнови документацию.",
+    "exampleTokens": [
+      {
+        "text": "Please",
+        "translation": "пожалуйста"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "update",
+        "translation": "обнови"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the",
+        "translation": "определённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "documentation",
+        "translation": "документацию"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["ceiling", "envelope", "cucumber"],
+    "acceptedAnswers": ["update"],
+    "alternativeTranslations": []
+  },
+  {
+    "id": "programming-boolean",
+    "vocabularyId": "boolean-noun-1",
+    "word": "boolean",
+    "translation": "логический тип",
+    "partOfSpeech": "noun",
+    "transcription": "/ˈbuːliən/",
+    "example": "Use a boolean for this flag.",
+    "exampleTranslation": "Используй логический тип для этого флага.",
+    "exampleTokens": [
+      {
+        "text": "Use",
+        "translation": "используй"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "a",
+        "translation": "неопределённый артикль"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "boolean",
+        "translation": "логический тип"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "for",
+        "translation": "для"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "this",
+        "translation": "этого"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "flag",
+        "translation": "флага"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contextDistractors": ["although", "unless", "because"],
+    "acceptedAnswers": ["boolean"],
+    "alternativeTranslations": []
+  }
+]

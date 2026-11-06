@@ -1,0 +1,22 @@
+.speech-wrap {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+}
+.speech-error {
+  font-size: var(--text-xs);
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: var(--color-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2);
+  width: 200px;
+  z-index: 30;
+  color: #aa5565;
+  box-shadow: 0 5px 10px #0001;
+}
+.answer-feedback .speech-wrap {
+  margin-left: auto;
+}

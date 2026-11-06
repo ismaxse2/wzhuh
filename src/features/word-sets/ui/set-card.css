@@ -1,0 +1,72 @@
+.set-card {
+  display: block;
+  min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xl);
+  background: var(--color-surface);
+  padding: var(--space-4-5);
+  transition:
+    transform 0.2s,
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+.set-card:hover {
+  transform: translateY(-3px);
+  border-color: #cbc5fa;
+  box-shadow: 0 8px 20px #443b9b08;
+}
+.set-card h3 {
+  font-size: var(--text-reading);
+  font-weight: 650;
+  letter-spacing: -0.2px;
+}
+.set-card > p {
+  color: #93809f;
+  font-size: var(--text-xs);
+  line-height: 1.8;
+  margin-top: var(--space-2);
+  min-height: 0;
+  max-width: none;
+}
+@media (max-width: 1200px) {
+  .set-card {
+    padding: var(--space-4-5);
+  }
+}
+@media (max-width: 1200px) {
+  .set-card h3 {
+    font-size: var(--text-sm);
+  }
+}
+@media (max-width: 760px) {
+  .set-card {
+    padding: var(--space-4-5);
+  }
+}
+@media (max-width: 520px) {
+  .set-card {
+    padding: var(--space-4-5);
+  }
+}
+@media (max-width: 520px) {
+  .set-card h3 {
+    font-size: var(--text-base);
+  }
+}
+@media (max-width: 520px) {
+  .set-card > p {
+    font-size: var(--text-control);
+    max-width: none;
+    min-height: 0;
+  }
+}
+.set-card h3 {
+  overflow-wrap: anywhere;
+}
+
+.set-card h3 {
+  font-style: normal;
+}
+.set-card > p {
+  font-size: var(--text-reading);
+}

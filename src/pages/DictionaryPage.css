@@ -1,0 +1,294 @@
+.word-table {
+  overflow: hidden;
+}
+.word-table-head,
+.word-row {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr 1fr;
+  align-items: center;
+  gap: 15px;
+  padding: 17px 22px;
+}
+.word-table-head {
+  background: #fbfaff;
+  color: var(--color-text-subtle);
+  font-size: var(--text-caption);
+  letter-spacing: 0.8px;
+  border-bottom: 1px solid var(--border);
+}
+.word-row {
+  border-bottom: 1px solid #f0edf5;
+  font-size: var(--text-sm);
+  min-height: 80px;
+}
+.word-row:last-child {
+  border-bottom: 0;
+}
+.word-cell {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2-5);
+}
+.word-cell strong {
+  display: block;
+  font-size: var(--text-base);
+  font-weight: 550;
+}
+.word-cell small {
+  display: block;
+  color: var(--color-text-subtle);
+  font-size: var(--text-xs);
+  margin-top: 5px;
+}
+.word-row > span {
+  color: var(--color-text-secondary);
+}
+@media (max-width: 1000px) {
+  .word-row,
+  .word-table-head {
+    padding-inline: 17px;
+    grid-template-columns: 1.2fr 1fr 1.2fr;
+  }
+}
+@media (max-width: 1000px) {
+  .word-cell {
+    gap: 7px;
+  }
+}
+@media (max-width: 1000px) {
+  .word-cell .icon-button {
+    width: 29px;
+    height: 29px;
+  }
+}
+@media (max-width: 1000px) {
+  .word-cell .icon-button svg {
+    width: 16px;
+  }
+}
+@media (max-width: 760px) {
+  .word-table-head,
+  .word-row {
+    grid-template-columns: 1.3fr 1fr 1.1fr;
+    gap: var(--space-3);
+  }
+}
+@media (max-width: 760px) {
+  .word-cell {
+    gap: 9px;
+  }
+}
+@media (max-width: 760px) {
+  .word-cell strong {
+    font-size: var(--text-sm);
+  }
+}
+@media (max-width: 760px) {
+  .word-row {
+    font-size: var(--text-control);
+  }
+}
+@media (max-width: 760px) {
+  .word-cell small {
+    font-size: var(--text-caption);
+  }
+}
+@media (max-width: 520px) {
+  .word-table-head {
+    display: none;
+  }
+}
+@media (max-width: 520px) {
+  .word-row {
+    padding: var(--space-4) 15px;
+    grid-template-columns: 1.1fr 1fr;
+    row-gap: var(--space-2-5);
+  }
+}
+@media (max-width: 520px) {
+  .word-row > div:last-child {
+    grid-column: 2;
+    grid-row: 2;
+    margin-top: -8px;
+  }
+}
+@media (max-width: 520px) {
+  .word-cell {
+    grid-row: 1/3;
+  }
+}
+@media (max-width: 520px) {
+  .word-row > span {
+    font-size: var(--text-control);
+  }
+}
+@media (max-width: 520px) {
+  .word-cell strong {
+    font-size: var(--text-reading);
+  }
+}
+@media (max-width: 520px) {
+  .word-cell small {
+    font-size: var(--text-caption);
+  }
+}
+@media (max-width: 520px) {
+  .word-cell .icon-button {
+    width: 28px;
+    height: 28px;
+  }
+}
+.word-cell {
+  min-width: 0;
+}
+.word-cell > div {
+  min-width: 0;
+}
+.word-cell strong {
+  overflow-wrap: anywhere;
+}
+@media (max-width: 520px) {
+  .word-cell {
+    gap: var(--space-1-5);
+  }
+}
+@media (max-width: 520px) {
+  .word-cell input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+  }
+}
+@media (max-width: 520px) {
+  .word-cell .icon-button {
+    width: 25px;
+    height: 28px;
+  }
+}
+@media (max-width: 520px) {
+  .word-row {
+    grid-template-columns: 1.2fr 1fr;
+    gap: var(--space-2-5);
+  }
+}
+
+.dictionary-toolbar {
+  flex-wrap: wrap;
+}
+.dictionary-toolbar .tabs {
+  margin-right: auto;
+}
+@media (max-width: 600px) {
+  .dictionary-set-filter,
+  .dictionary-toolbar .search-field {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+.word-select-all {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2-5);
+  cursor: pointer;
+}
+.dictionary-page.has-selection {
+  padding-bottom: calc(150px + env(safe-area-inset-bottom));
+}
+.dictionary-selection-bar {
+  position: fixed;
+  bottom: 0;
+  inset-inline: 0;
+  z-index: 20;
+  background: var(--color-surface);
+  border-top: 1px solid var(--border);
+  padding: var(--space-4) var(--space-6)
+    calc(var(--space-4) + env(safe-area-inset-bottom));
+}
+.dictionary-selection-inner {
+  max-width: var(--content-max-width);
+  margin-inline: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  font-size: var(--text-sm);
+}
+.dictionary-selection-inner > span {
+  margin-right: auto;
+}
+@media (max-width: 600px) {
+  .dictionary-page .word-table-head {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-inline: 15px;
+  }
+}
+@media (max-width: 600px) {
+  .dictionary-page .word-table-head > span {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .dictionary-selection-bar {
+    padding-inline: var(--space-4);
+  }
+}
+@media (max-width: 600px) {
+  .dictionary-selection-inner {
+    gap: var(--space-3);
+  }
+}
+@media (max-width: 600px) {
+  .dictionary-selection-inner .button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+.dictionary-mobile-translation {
+  display: none;
+}
+@media (max-width: 520px) {
+  .dictionary-page .word-row {
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: var(--space-3);
+  }
+}
+@media (max-width: 520px) {
+  .dictionary-page .word-row > span {
+    display: none;
+  }
+}
+@media (max-width: 520px) {
+  .dictionary-page .word-row > div:last-child {
+    grid-column: 2;
+    grid-row: 1;
+    margin-top: 0;
+  }
+}
+@media (max-width: 520px) {
+  .dictionary-page .word-cell {
+    grid-row: 1;
+    min-width: 0;
+  }
+}
+@media (max-width: 520px) {
+  .dictionary-word-label {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-2);
+    overflow-wrap: anywhere;
+  }
+}
+@media (max-width: 520px) {
+  .dictionary-mobile-translation {
+    display: inline;
+    font-size: var(--text-control);
+    color: var(--color-text-secondary);
+  }
+}
+.word-cell > div {
+  min-width: 0;
+}

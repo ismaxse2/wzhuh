@@ -1,0 +1,4581 @@
+{
+  "id": "questions-communication-100",
+  "title": "Вопросы и общение",
+  "description": "Вопросительные слова, ответы, вежливые просьбы и фразы для повседневного диалога",
+  "level": "A1–A2",
+  "words": [
+    {
+      "id": "questions-communication-100-who-pronoun-1",
+      "vocabularyId": "who-pronoun-1",
+      "word": "who",
+      "translation": "кто",
+      "partOfSpeech": "pronoun",
+      "transcription": "/ˈhu/",
+      "example": "Who is at the door?",
+      "exampleTranslation": "Кто у двери?",
+      "exampleTokens": [
+        {
+          "text": "Who",
+          "translation": "кто"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в; у"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "door",
+          "translation": "дверь"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["who"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-pronoun-1",
+      "vocabularyId": "what-pronoun-1",
+      "word": "what",
+      "translation": "что",
+      "partOfSpeech": "pronoun",
+      "transcription": "/ˈwʌt/",
+      "example": "What do you need?",
+      "exampleTranslation": "Что тебе нужно?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нужно"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-where-adverb-1",
+      "vocabularyId": "where-adverb-1",
+      "word": "where",
+      "translation": "где",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈwɛɹ/",
+      "example": "Where is my phone?",
+      "exampleTranslation": "Где мой телефон?",
+      "exampleTokens": [
+        {
+          "text": "Where",
+          "translation": "где"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "phone",
+          "translation": "телефон"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["where"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-when-adverb-1",
+      "vocabularyId": "when-adverb-1",
+      "word": "when",
+      "translation": "когда",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈwɛn/",
+      "example": "When does the film start?",
+      "exampleTranslation": "Когда начинается фильм?",
+      "exampleTokens": [
+        {
+          "text": "When",
+          "translation": "когда"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "does",
+          "translation": "делает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "film",
+          "translation": "фильм"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "start",
+          "translation": "начать"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["when"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-why-adverb-1",
+      "vocabularyId": "why-adverb-1",
+      "word": "why",
+      "translation": "почему",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈwaɪ/",
+      "example": "Why are you smiling?",
+      "exampleTranslation": "Почему ты улыбаешься?",
+      "exampleTokens": [
+        {
+          "text": "Why",
+          "translation": "почему"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "smiling",
+          "translation": "улыбается"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["why"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-adverb-1",
+      "vocabularyId": "how-adverb-1",
+      "word": "how",
+      "translation": "как",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈhaʊ/",
+      "example": "How do you feel?",
+      "exampleTranslation": "Как ты себя чувствуешь?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["how"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-which-pronoun-1",
+      "vocabularyId": "which-pronoun-1",
+      "word": "which",
+      "translation": "который; какой из",
+      "partOfSpeech": "pronoun",
+      "transcription": "/ˈwɪtʃ/",
+      "example": "Which one do you want?",
+      "exampleTranslation": "Какой из них ты хочешь?",
+      "exampleTokens": [
+        {
+          "text": "Which",
+          "translation": "который; какой из"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "want",
+          "translation": "хотеть"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["which"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-whose-pronoun-1",
+      "vocabularyId": "whose-pronoun-1",
+      "word": "whose",
+      "translation": "чей",
+      "partOfSpeech": "pronoun",
+      "transcription": "/ˈhuz/",
+      "example": "Whose bag is this?",
+      "exampleTranslation": "Чья это сумка?",
+      "exampleTokens": [
+        {
+          "text": "Whose",
+          "translation": "чей"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["whose"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-whom-pronoun-1",
+      "vocabularyId": "whom-pronoun-1",
+      "word": "whom",
+      "translation": "кого; кому",
+      "partOfSpeech": "pronoun",
+      "transcription": "/ˈhum/",
+      "example": "Whom did you call?",
+      "exampleTranslation": "Кому ты звонил?",
+      "exampleTokens": [
+        {
+          "text": "Whom",
+          "translation": "кого; кому"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "did",
+          "translation": "сделал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "call",
+          "translation": "звонить"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["whom"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-much-phrase-1",
+      "vocabularyId": "how-much-phrase-1",
+      "word": "how much",
+      "translation": "сколько; какова цена",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈmʌtʃ/",
+      "example": "How much is this?",
+      "exampleTranslation": "Сколько это стоит?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "much",
+          "translation": "много"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how much"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-many-phrase-1",
+      "vocabularyId": "how-many-phrase-1",
+      "word": "how many",
+      "translation": "сколько (исчисляемое)",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈmɛni/",
+      "example": "How many people are here?",
+      "exampleTranslation": "Сколько здесь людей?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "many",
+          "translation": "много"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "people",
+          "translation": "люди"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "здесь"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how many"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-long-phrase-1",
+      "vocabularyId": "how-long-phrase-1",
+      "word": "how long",
+      "translation": "как долго",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈlɔŋ/",
+      "example": "How long will it take?",
+      "exampleTranslation": "Сколько времени это займёт?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "long",
+          "translation": "долгий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "translation": "будет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "take",
+          "translation": "брать"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how long"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-often-phrase-1",
+      "vocabularyId": "how-often-phrase-1",
+      "word": "how often",
+      "translation": "как часто",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈɔfən/",
+      "example": "How often do you exercise?",
+      "exampleTranslation": "Как часто ты тренируешься?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "often",
+          "translation": "часто"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "exercise",
+          "translation": "упражнение"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how often"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-far-phrase-1",
+      "vocabularyId": "how-far-phrase-1",
+      "word": "how far",
+      "translation": "как далеко",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈfɑɹ/",
+      "example": "How far is the station?",
+      "exampleTranslation": "Как далеко станция?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "far",
+          "translation": "далёкий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "station",
+          "translation": "станция"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how far"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-old-phrase-1",
+      "vocabularyId": "how-old-phrase-1",
+      "word": "how old",
+      "translation": "сколько лет",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈoʊld/",
+      "example": "How old are you?",
+      "exampleTranslation": "Сколько тебе лет?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "old",
+          "translation": "старый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how old"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-time-phrase-1",
+      "vocabularyId": "what-time-phrase-1",
+      "word": "what time",
+      "translation": "в котором часу",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌt ˈtaɪm/",
+      "example": "What time is the meeting?",
+      "exampleTranslation": "Во сколько встреча?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "translation": "время"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "translation": "встреча"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what time"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-kind-of-phrase-1",
+      "vocabularyId": "what-kind-of-phrase-1",
+      "word": "what kind of",
+      "translation": "какого рода",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌt ˈkaɪnd ˈʌv/",
+      "example": "What kind of music do you like?",
+      "exampleTranslation": "Какая музыка тебе нравится?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kind",
+          "translation": "вид"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "из; от"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "music",
+          "translation": "музыка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "like",
+          "translation": "лайк"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what kind of"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-for-phrase-1",
+      "vocabularyId": "what-for-phrase-1",
+      "word": "what for",
+      "translation": "зачем",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌt ˈfɔɹ/",
+      "example": "What for?",
+      "exampleTranslation": "Для чего?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what for"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-where-from-phrase-1",
+      "vocabularyId": "where-from-phrase-1",
+      "word": "where from",
+      "translation": "откуда",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwɛɹ ˈfɹʌm/",
+      "example": "Where from?",
+      "exampleTranslation": "Откуда?",
+      "exampleTokens": [
+        {
+          "text": "Where",
+          "translation": "где"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "from",
+          "translation": "от"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["where from"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-where-to-phrase-1",
+      "vocabularyId": "where-to-phrase-1",
+      "word": "where to",
+      "translation": "куда",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwɛɹ ˈtu/",
+      "example": "Where to?",
+      "exampleTranslation": "Куда?",
+      "exampleTokens": [
+        {
+          "text": "Where",
+          "translation": "где"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица инфинитива"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["where to"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-who-else-phrase-1",
+      "vocabularyId": "who-else-phrase-1",
+      "word": "who else",
+      "translation": "кто ещё",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhu ˈɛls/",
+      "example": "Who else is coming?",
+      "exampleTranslation": "Кто ещё придёт?",
+      "exampleTokens": [
+        {
+          "text": "Who",
+          "translation": "кто"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "else",
+          "translation": "ещё; другой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "coming",
+          "translation": "приходит; собирается прийти"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["who else"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-else-phrase-1",
+      "vocabularyId": "what-else-phrase-1",
+      "word": "what else",
+      "translation": "что ещё",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌt ˈɛls/",
+      "example": "What else do we need?",
+      "exampleTranslation": "Что ещё нам нужно?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "else",
+          "translation": "ещё; другой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "we",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нужно"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what else"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-why-not-phrase-1",
+      "vocabularyId": "why-not-phrase-1",
+      "word": "why not",
+      "translation": "почему бы и нет",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwaɪ ˈnɑt/",
+      "example": "Why not try again?",
+      "exampleTranslation": "Почему бы не попробовать снова?",
+      "exampleTokens": [
+        {
+          "text": "Why",
+          "translation": "почему"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "not",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "try",
+          "translation": "пытаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "again",
+          "translation": "снова"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["why not"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-if-phrase-1",
+      "vocabularyId": "what-if-phrase-1",
+      "word": "what if",
+      "translation": "что если",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌt ˈɪf/",
+      "example": "What if it rains?",
+      "exampleTranslation": "Что, если пойдёт дождь?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "if",
+          "translation": "если"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rains",
+          "translation": "короткий"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what if"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-really-adverb-1",
+      "vocabularyId": "really-adverb-1",
+      "word": "really",
+      "translation": "действительно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈɹɪli/",
+      "example": "I really enjoyed the film.",
+      "exampleTranslation": "Мне действительно понравился фильм.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "really",
+          "translation": "действительно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "enjoyed",
+          "translation": "понравился"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "film",
+          "translation": "фильм"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["really"],
+      "alternativeTranslations": ["в самом деле"]
+    },
+    {
+      "id": "questions-communication-100-maybe-adverb-1",
+      "vocabularyId": "maybe-adverb-1",
+      "word": "maybe",
+      "translation": "возможно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈmeɪbi/",
+      "example": "Maybe we can meet later.",
+      "exampleTranslation": "Возможно, мы сможем встретиться позже.",
+      "exampleTokens": [
+        {
+          "text": "Maybe",
+          "translation": "возможно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "we",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "мочь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "встретиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "later",
+          "translation": "позже"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["maybe"],
+      "alternativeTranslations": ["может быть"]
+    },
+    {
+      "id": "questions-communication-100-probably-adverb-1",
+      "vocabularyId": "probably-adverb-1",
+      "word": "probably",
+      "translation": "вероятно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈpɹɑbəˌbli/",
+      "example": "She will probably come.",
+      "exampleTranslation": "Она, вероятно, придёт.",
+      "exampleTokens": [
+        {
+          "text": "She",
+          "translation": "она"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "translation": "будет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "probably",
+          "translation": "вероятно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "come",
+          "translation": "приходить"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["probably"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-of-course-phrase-1",
+      "vocabularyId": "of-course-phrase-1",
+      "word": "of course",
+      "translation": "конечно",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈʌv ˈkɔɹs/",
+      "example": "Of course I can help.",
+      "exampleTranslation": "Конечно, я могу помочь.",
+      "exampleTokens": [
+        {
+          "text": "Of",
+          "translation": "из; от"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "course",
+          "translation": "смотрели"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "могу / может"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["of course", "certainly"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-sure-phrase-1",
+      "vocabularyId": "sure-phrase-1",
+      "word": "sure",
+      "translation": "конечно; уверен",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈʃʊɹ/",
+      "example": "Sure, no problem.",
+      "exampleTranslation": "Конечно, без проблем.",
+      "exampleTokens": [
+        {
+          "text": "Sure",
+          "translation": "конечно; уверен"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "no",
+          "translation": "нет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "problem",
+          "translation": "проблема"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["sure"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-exactly-adverb-1",
+      "vocabularyId": "exactly-adverb-1",
+      "word": "exactly",
+      "translation": "именно; точно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ɪɡˈzæktli/",
+      "example": "That's exactly what I mean.",
+      "exampleTranslation": "Именно это я имею в виду.",
+      "exampleTokens": [
+        {
+          "text": "That's",
+          "translation": "это; сокращение that is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "exactly",
+          "translation": "именно; точно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "what",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mean",
+          "translation": "означать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["exactly"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-yes-interjection-1",
+      "vocabularyId": "yes-interjection-1",
+      "word": "yes",
+      "translation": "да",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˈjɛs/",
+      "example": "Yes, I agree.",
+      "exampleTranslation": "Да, я согласен.",
+      "exampleTokens": [
+        {
+          "text": "Yes",
+          "translation": "да"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "agree",
+          "translation": "соглашаться"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["yes"],
+      "alternativeTranslations": ["согласие"]
+    },
+    {
+      "id": "questions-communication-100-no-interjection-1",
+      "vocabularyId": "no-interjection-1",
+      "word": "no",
+      "translation": "нет",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˈnoʊ/",
+      "example": "No, thank you.",
+      "exampleTranslation": "Нет, спасибо.",
+      "exampleTokens": [
+        {
+          "text": "No",
+          "translation": "нет"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "thank",
+          "translation": "благодарю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["no"],
+      "alternativeTranslations": ["отрицание"]
+    },
+    {
+      "id": "questions-communication-100-not-yet-phrase-1",
+      "vocabularyId": "not-yet-phrase-1",
+      "word": "not yet",
+      "translation": "ещё нет",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɑt ˈjɛt/",
+      "example": "Not yet, I'm busy.",
+      "exampleTranslation": "Ещё нет, я занят.",
+      "exampleTokens": [
+        {
+          "text": "Not",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "yet",
+          "translation": "ещё; пока"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "busy",
+          "translation": "занятый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["not yet"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-not-really-phrase-1",
+      "vocabularyId": "not-really-phrase-1",
+      "word": "not really",
+      "translation": "не совсем",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɑt ˈɹɪli/",
+      "example": "Not really, I'm tired.",
+      "exampleTranslation": "Не совсем, я устал.",
+      "exampleTokens": [
+        {
+          "text": "Not",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "really",
+          "translation": "действительно"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tired",
+          "translation": "уставший"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["not really"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-don-t-know-phrase-1",
+      "vocabularyId": "i-don-t-know-phrase-1",
+      "word": "i don't know",
+      "translation": "я не знаю",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ ˈdoʊnt ˈnoʊ/",
+      "example": "I don't know the answer.",
+      "exampleTranslation": "Я не знаю ответа.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "don't",
+          "translation": "не; вспомогательный глагол do с отрицанием"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "know",
+          "translation": "знаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "answer",
+          "translation": "ответ"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i don't know", "I do not know"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-think-so-phrase-1",
+      "vocabularyId": "i-think-so-phrase-1",
+      "word": "i think so",
+      "translation": "думаю, да",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ ˈθɪŋk ˈsoʊ/",
+      "example": "I think so, yes.",
+      "exampleTranslation": "Думаю, да.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "think",
+          "translation": "думать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "so",
+          "translation": "так"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "yes",
+          "translation": "да"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i think so"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-don-t-think-so-phrase-1",
+      "vocabularyId": "i-don-t-think-so-phrase-1",
+      "word": "i don't think so",
+      "translation": "думаю, нет",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ ˈdoʊnt ˈθɪŋk ˈsoʊ/",
+      "example": "I don't think so.",
+      "exampleTranslation": "Думаю, нет.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "don't",
+          "translation": "не; вспомогательный глагол do с отрицанием"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "think",
+          "translation": "думать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "so",
+          "translation": "так"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i don't think so", "I do not think so"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-agree-phrase-1",
+      "vocabularyId": "i-agree-phrase-1",
+      "word": "i agree",
+      "translation": "я согласен",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ əˈɡɹi/",
+      "example": "I agree with you.",
+      "exampleTranslation": "Я с тобой согласен.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "agree",
+          "translation": "соглашаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i agree"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-disagree-phrase-1",
+      "vocabularyId": "i-disagree-phrase-1",
+      "word": "i disagree",
+      "translation": "я не согласен",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ dɪsəˈɡɹi/",
+      "example": "I disagree with that idea.",
+      "exampleTranslation": "Я не согласен с этой идеей.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "disagree",
+          "translation": "не соглашаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "that",
+          "translation": "то"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "idea",
+          "translation": "идея"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i disagree"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-that-s-right-phrase-1",
+      "vocabularyId": "that-s-right-phrase-1",
+      "word": "that's right",
+      "translation": "верно",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈðæts ˈɹaɪt/",
+      "example": "That's right, you got it.",
+      "exampleTranslation": "Верно, ты понял.",
+      "exampleTokens": [
+        {
+          "text": "That's",
+          "translation": "это; сокращение that is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "right",
+          "translation": "право"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "got",
+          "translation": "получил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["that's right", "that is right"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-that-s-wrong-phrase-1",
+      "vocabularyId": "that-s-wrong-phrase-1",
+      "word": "that's wrong",
+      "translation": "это неверно",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈðæts ˈɹɔŋ/",
+      "example": "That's wrong, try again.",
+      "exampleTranslation": "Это неверно, попробуй ещё раз.",
+      "exampleTokens": [
+        {
+          "text": "That's",
+          "translation": "это; сокращение that is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wrong",
+          "translation": "неправильный"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "try",
+          "translation": "пытаться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "again",
+          "translation": "снова"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["that's wrong", "that is wrong"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-understand-phrase-1",
+      "vocabularyId": "i-understand-phrase-1",
+      "word": "i understand",
+      "translation": "я понимаю",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ ˌʌndɚˈstænd/",
+      "example": "I understand your point.",
+      "exampleTranslation": "Я понимаю твою мысль.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "understand",
+          "translation": "понимать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой / ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "point",
+          "translation": "точка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i understand"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-see-phrase-1",
+      "vocabularyId": "i-see-phrase-1",
+      "word": "i see",
+      "translation": "понятно",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ ˈsi/",
+      "example": "I see what you mean.",
+      "exampleTranslation": "Я понимаю, что ты имеешь в виду.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "see",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "what",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mean",
+          "translation": "означать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i see"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-m-not-sure-phrase-1",
+      "vocabularyId": "i-m-not-sure-phrase-1",
+      "word": "i'm not sure",
+      "translation": "я не уверен",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪm ˈnɑt ˈʃʊɹ/",
+      "example": "I'm not sure about that.",
+      "exampleTranslation": "Я не уверен насчёт этого.",
+      "exampleTokens": [
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "not",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sure",
+          "translation": "конечно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о / про"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "that",
+          "translation": "то"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i'm not sure", "I am not sure"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-please-interjection-1",
+      "vocabularyId": "please-interjection-1",
+      "word": "please",
+      "translation": "пожалуйста",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˈpliz/",
+      "example": "Please close the door.",
+      "exampleTranslation": "Пожалуйста, закрой дверь.",
+      "exampleTokens": [
+        {
+          "text": "Please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "close",
+          "translation": "закрыть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "door",
+          "translation": "дверь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["please"],
+      "alternativeTranslations": ["будьте добры"]
+    },
+    {
+      "id": "questions-communication-100-thank-you-phrase-1",
+      "vocabularyId": "thank-you-phrase-1",
+      "word": "thank you",
+      "translation": "спасибо",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈθæŋk ˈju/",
+      "example": "Thank you for your help.",
+      "exampleTranslation": "Спасибо за помощь.",
+      "exampleTokens": [
+        {
+          "text": "Thank",
+          "translation": "благодарю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для / на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой / ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["thank you", "thanks"],
+      "alternativeTranslations": ["благодарю"]
+    },
+    {
+      "id": "questions-communication-100-thanks-a-lot-phrase-1",
+      "vocabularyId": "thanks-a-lot-phrase-1",
+      "word": "thanks a lot",
+      "translation": "большое спасибо",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈθæŋks ə ˈlɑt/",
+      "example": "Thanks a lot for coming.",
+      "exampleTranslation": "Большое спасибо, что пришёл.",
+      "exampleTokens": [
+        {
+          "text": "Thanks",
+          "translation": "спасибо"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lot",
+          "translation": "много"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для / на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "coming",
+          "translation": "приходит; собирается прийти"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["thanks a lot", "thank you very much"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-you-re-welcome-phrase-1",
+      "vocabularyId": "you-re-welcome-phrase-1",
+      "word": "you're welcome",
+      "translation": "не за что",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈjʊɹ ˈwɛlkəm/",
+      "example": "You're welcome, anytime.",
+      "exampleTranslation": "Не за что, обращайся.",
+      "exampleTokens": [
+        {
+          "text": "You're",
+          "translation": "ты; сокращение you are"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "welcome",
+          "translation": "добро пожаловать"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "anytime",
+          "translation": "в любое время"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["you're welcome", "you are welcome"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-excuse-me-phrase-1",
+      "vocabularyId": "excuse-me-phrase-1",
+      "word": "excuse me",
+      "translation": "извините; простите",
+      "partOfSpeech": "phrase",
+      "transcription": "/ɪkˈskjus ˈmi/",
+      "example": "Excuse me, is this seat free?",
+      "exampleTranslation": "Извините, это место свободно?",
+      "exampleTokens": [
+        {
+          "text": "Excuse",
+          "translation": "извинить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seat",
+          "translation": "место"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "free",
+          "translation": "свободный"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["excuse me"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-sorry-interjection-1",
+      "vocabularyId": "sorry-interjection-1",
+      "word": "sorry",
+      "translation": "извини",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˈsɑɹi/",
+      "example": "Sorry, I am late.",
+      "exampleTranslation": "Извини, я опоздал.",
+      "exampleTokens": [
+        {
+          "text": "Sorry",
+          "translation": "извини"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "late",
+          "translation": "поздно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["sorry"],
+      "alternativeTranslations": ["прости"]
+    },
+    {
+      "id": "questions-communication-100-no-problem-phrase-1",
+      "vocabularyId": "no-problem-phrase-1",
+      "word": "no problem",
+      "translation": "без проблем",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnoʊ ˈpɹɑbləm/",
+      "example": "No problem, I can wait.",
+      "exampleTranslation": "Без проблем, я могу подождать.",
+      "exampleTokens": [
+        {
+          "text": "No",
+          "translation": "нет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "problem",
+          "translation": "проблема"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "могу / может"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wait",
+          "translation": "ждать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["no problem", "not a problem"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-never-mind-phrase-1",
+      "vocabularyId": "never-mind-phrase-1",
+      "word": "never mind",
+      "translation": "неважно; ничего страшного",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɛvɚ ˈmaɪnd/",
+      "example": "Never mind, it's okay.",
+      "exampleTranslation": "Ничего страшного, всё хорошо.",
+      "exampleTokens": [
+        {
+          "text": "Never",
+          "translation": "никогда"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mind",
+          "translation": "возражать"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "it's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "okay",
+          "translation": "нормально"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["never mind"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-may-i-phrase-1",
+      "vocabularyId": "may-i-phrase-1",
+      "word": "may i",
+      "translation": "можно мне",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈmeɪ ˈaɪ/",
+      "example": "May I come in?",
+      "exampleTranslation": "Можно войти?",
+      "exampleTokens": [
+        {
+          "text": "May",
+          "translation": "можно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "come",
+          "translation": "приходить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["may i"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-can-i-phrase-1",
+      "vocabularyId": "can-i-phrase-1",
+      "word": "can i",
+      "translation": "могу я",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈkæn ˈaɪ/",
+      "example": "Can I ask a question?",
+      "exampleTranslation": "Могу я задать вопрос?",
+      "exampleTokens": [
+        {
+          "text": "Can",
+          "translation": "могу / может"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ask",
+          "translation": "спросить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "question",
+          "translation": "вопрос"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["can i"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-could-you-phrase-1",
+      "vocabularyId": "could-you-phrase-1",
+      "word": "could you",
+      "translation": "не могли бы вы",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈkʊd ˈju/",
+      "example": "Could you open the window?",
+      "exampleTranslation": "Не могли бы вы открыть окно?",
+      "exampleTokens": [
+        {
+          "text": "Could",
+          "translation": "мог"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "open",
+          "translation": "открытый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "window",
+          "translation": "окно"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["could you"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-would-you-phrase-1",
+      "vocabularyId": "would-you-phrase-1",
+      "word": "would you",
+      "translation": "не могли бы вы",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʊd ˈju/",
+      "example": "Would you help me?",
+      "exampleTranslation": "Не могли бы вы мне помочь?",
+      "exampleTokens": [
+        {
+          "text": "Would",
+          "translation": "бы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["would you"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-do-you-mind-phrase-1",
+      "vocabularyId": "do-you-mind-phrase-1",
+      "word": "do you mind",
+      "translation": "вы не против",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈdu ˈju ˈmaɪnd/",
+      "example": "Do you mind if I sit here?",
+      "exampleTranslation": "Вы не против, если я сяду здесь?",
+      "exampleTokens": [
+        {
+          "text": "Do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mind",
+          "translation": "возражать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "if",
+          "translation": "если"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sit",
+          "translation": "сидеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "здесь"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["do you mind"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-can-you-help-me-phrase-1",
+      "vocabularyId": "can-you-help-me-phrase-1",
+      "word": "can you help me",
+      "translation": "можешь мне помочь",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈkæn ˈju ˈhɛlp ˈmi/",
+      "example": "Can you help me with this?",
+      "exampleTranslation": "Можешь мне с этим помочь?",
+      "exampleTokens": [
+        {
+          "text": "Can",
+          "translation": "могу / может"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["can you help me"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-please-repeat-phrase-1",
+      "vocabularyId": "please-repeat-phrase-1",
+      "word": "please repeat",
+      "translation": "повторите, пожалуйста",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈpliz ɹɪˈpit/",
+      "example": "Please repeat the question.",
+      "exampleTranslation": "Повторите вопрос, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "Please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "repeat",
+          "translation": "повторить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "question",
+          "translation": "вопрос"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["please repeat"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-say-it-again-phrase-1",
+      "vocabularyId": "say-it-again-phrase-1",
+      "word": "say it again",
+      "translation": "скажи ещё раз",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈseɪ ˈɪt əˈɡɛn/",
+      "example": "Say it again, please.",
+      "exampleTranslation": "Скажи ещё раз, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "Say",
+          "translation": "говорить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "again",
+          "translation": "снова"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["say it again"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-speak-slowly-phrase-1",
+      "vocabularyId": "speak-slowly-phrase-1",
+      "word": "speak slowly",
+      "translation": "говорите медленно",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈspik ˈsloʊli/",
+      "example": "Please speak slowly.",
+      "exampleTranslation": "Пожалуйста, говорите медленно.",
+      "exampleTokens": [
+        {
+          "text": "Please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "speak",
+          "translation": "говорить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "slowly",
+          "translation": "медленно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["speak slowly"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-does-it-mean-phrase-1",
+      "vocabularyId": "what-does-it-mean-phrase-1",
+      "word": "what does it mean",
+      "translation": "что это значит",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌt ˈdʌz ˈɪt ˈmin/",
+      "example": "What does it mean?",
+      "exampleTranslation": "Что это значит?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "does",
+          "translation": "делает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mean",
+          "translation": "означать"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what does it mean"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-do-you-say-phrase-1",
+      "vocabularyId": "how-do-you-say-phrase-1",
+      "word": "how do you say",
+      "translation": "как сказать",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈdu ˈju ˈseɪ/",
+      "example": "How do you say this in English?",
+      "exampleTranslation": "Как это сказать по-английски?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "say",
+          "translation": "говорить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "English",
+          "translation": "английский язык"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how do you say"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-do-you-spell-phrase-1",
+      "vocabularyId": "how-do-you-spell-phrase-1",
+      "word": "how do you spell",
+      "translation": "как пишется по буквам",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈdu ˈju ˈspɛl/",
+      "example": "How do you spell your name?",
+      "exampleTranslation": "Как твоё имя пишется по буквам?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "делать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "spell",
+          "translation": "писать по буквам"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой / ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "name",
+          "translation": "имя"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how do you spell"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-have-a-question-phrase-1",
+      "vocabularyId": "i-have-a-question-phrase-1",
+      "word": "i have a question",
+      "translation": "у меня вопрос",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪ ˈhæv ə ˈkwɛstʃən/",
+      "example": "I have a question about this.",
+      "exampleTranslation": "У меня вопрос по этому поводу.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "question",
+          "translation": "вопрос"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "about",
+          "translation": "о / про"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i have a question"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-one-moment-phrase-1",
+      "vocabularyId": "one-moment-phrase-1",
+      "word": "one moment",
+      "translation": "одну минуту",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌn ˈmoʊmənt/",
+      "example": "One moment, please.",
+      "exampleTranslation": "Одну минуту, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "One",
+          "translation": "один"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "moment",
+          "translation": "момент"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["one moment"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-wait-a-minute-phrase-1",
+      "vocabularyId": "wait-a-minute-phrase-1",
+      "word": "wait a minute",
+      "translation": "подожди минуту",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈweɪt ə ˈmɪnət/",
+      "example": "Wait a minute, I'm coming.",
+      "exampleTranslation": "Подожди минуту, я иду.",
+      "exampleTokens": [
+        {
+          "text": "Wait",
+          "translation": "ждать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "minute",
+          "translation": "минута"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "coming",
+          "translation": "приходит; собирается прийти"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["wait a minute"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-let-me-think-phrase-1",
+      "vocabularyId": "let-me-think-phrase-1",
+      "word": "let me think",
+      "translation": "дай подумать",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈlɛt ˈmi ˈθɪŋk/",
+      "example": "Let me think for a second.",
+      "exampleTranslation": "Дай мне секунду подумать.",
+      "exampleTokens": [
+        {
+          "text": "Let",
+          "translation": "позволять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "think",
+          "translation": "думать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для / на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "second",
+          "translation": "второй"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["let me think"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-let-me-know-phrase-1",
+      "vocabularyId": "let-me-know-phrase-1",
+      "word": "let me know",
+      "translation": "дай мне знать",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈlɛt ˈmi ˈnoʊ/",
+      "example": "Let me know when you're ready.",
+      "exampleTranslation": "Дай знать, когда будешь готов.",
+      "exampleTokens": [
+        {
+          "text": "Let",
+          "translation": "позволять"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "know",
+          "translation": "знаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "when",
+          "translation": "когда"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you're",
+          "translation": "ты; сокращение you are"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ready",
+          "translation": "готовый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["let me know"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-tell-me-phrase-1",
+      "vocabularyId": "tell-me-phrase-1",
+      "word": "tell me",
+      "translation": "скажи мне",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈtɛl ˈmi/",
+      "example": "Tell me what happened.",
+      "exampleTranslation": "Расскажи мне, что случилось.",
+      "exampleTokens": [
+        {
+          "text": "Tell",
+          "translation": "расскажите"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "what",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "happened",
+          "translation": "случилось"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["tell me"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-show-me-phrase-1",
+      "vocabularyId": "show-me-phrase-1",
+      "word": "show me",
+      "translation": "покажи мне",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈʃoʊ ˈmi/",
+      "example": "Show me the picture.",
+      "exampleTranslation": "Покажи мне картинку.",
+      "exampleTokens": [
+        {
+          "text": "Show",
+          "translation": "показывать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "picture",
+          "translation": "картинка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["show me"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-listen-verb-1",
+      "vocabularyId": "listen-verb-1",
+      "word": "listen",
+      "translation": "слушать",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈlɪsən/",
+      "example": "Listen to me, please.",
+      "exampleTranslation": "Послушай меня, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "Listen",
+          "translation": "слушать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица инфинитива / предлог"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "меня"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["listen"],
+      "alternativeTranslations": ["внимать"]
+    },
+    {
+      "id": "questions-communication-100-look-verb-1",
+      "vocabularyId": "look-verb-1",
+      "word": "look",
+      "translation": "смотреть",
+      "partOfSpeech": "verb",
+      "transcription": "/ˈlʊk/",
+      "example": "Look at this photo.",
+      "exampleTranslation": "Посмотри на это фото.",
+      "exampleTokens": [
+        {
+          "text": "Look",
+          "translation": "смотреть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "photo",
+          "translation": "фотография"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["ceiling", "envelope", "cucumber"],
+      "acceptedAnswers": ["look"],
+      "alternativeTranslations": ["глядеть"]
+    },
+    {
+      "id": "questions-communication-100-hello-interjection-1",
+      "vocabularyId": "hello-interjection-1",
+      "word": "hello",
+      "translation": "привет",
+      "partOfSpeech": "interjection",
+      "transcription": "/həˈləʊ/",
+      "example": "Say hello to your neighbour.",
+      "exampleTranslation": "Поздоровайся с соседом.",
+      "exampleTokens": [
+        {
+          "text": "Say",
+          "translation": "скажи"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hello",
+          "translation": "привет"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "предлог: кому"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "своему"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "neighbour",
+          "translation": "соседу"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["hello", "hi"],
+      "alternativeTranslations": ["здравствуй"]
+    },
+    {
+      "id": "questions-communication-100-hi-interjection-1",
+      "vocabularyId": "hi-interjection-1",
+      "word": "hi",
+      "translation": "привет",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˈhaɪ/",
+      "example": "Hi, how are you?",
+      "exampleTranslation": "Привет, как дела?",
+      "exampleTokens": [
+        {
+          "text": "Hi",
+          "translation": "привет"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "how",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["hi", "hello"],
+      "alternativeTranslations": ["здравствуй"]
+    },
+    {
+      "id": "questions-communication-100-good-morning-phrase-1",
+      "vocabularyId": "good-morning-phrase-1",
+      "word": "good morning",
+      "translation": "доброе утро",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɡʊd ˈmɔɹnɪŋ/",
+      "example": "Good morning, everyone!",
+      "exampleTranslation": "Доброе утро всем!",
+      "exampleTokens": [
+        {
+          "text": "Good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "translation": "утро"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "everyone",
+          "translation": "все"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["good morning"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-good-afternoon-phrase-1",
+      "vocabularyId": "good-afternoon-phrase-1",
+      "word": "good afternoon",
+      "translation": "добрый день",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɡʊd ˌæftɚˈnun/",
+      "example": "Good afternoon, welcome!",
+      "exampleTranslation": "Добрый день, добро пожаловать!",
+      "exampleTokens": [
+        {
+          "text": "Good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "afternoon",
+          "translation": "вторая половина дня"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "welcome",
+          "translation": "добро пожаловать"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["good afternoon"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-good-evening-phrase-1",
+      "vocabularyId": "good-evening-phrase-1",
+      "word": "good evening",
+      "translation": "добрый вечер",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɡʊd ˈivnɪŋ/",
+      "example": "Good evening, everyone.",
+      "exampleTranslation": "Добрый вечер всем.",
+      "exampleTokens": [
+        {
+          "text": "Good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "translation": "вечер"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "everyone",
+          "translation": "все"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["good evening"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-good-night-phrase-1",
+      "vocabularyId": "good-night-phrase-1",
+      "word": "good night",
+      "translation": "спокойной ночи",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɡʊd ˈnaɪt/",
+      "example": "Good night, sleep well.",
+      "exampleTranslation": "Спокойной ночи, спи хорошо.",
+      "exampleTokens": [
+        {
+          "text": "Good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "translation": "ночь"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "sleep",
+          "translation": "сон"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "well",
+          "translation": "хорошо"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["good night"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-goodbye-interjection-1",
+      "vocabularyId": "goodbye-interjection-1",
+      "word": "goodbye",
+      "translation": "до свидания",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˌɡʊdˈbaɪ/",
+      "example": "Goodbye, have a nice day!",
+      "exampleTranslation": "До свидания, хорошего дня!",
+      "exampleTokens": [
+        {
+          "text": "Goodbye",
+          "translation": "до свидания"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nice",
+          "translation": "приятный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "день"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["goodbye", "bye"],
+      "alternativeTranslations": ["прощайте"]
+    },
+    {
+      "id": "questions-communication-100-see-you-phrase-1",
+      "vocabularyId": "see-you-phrase-1",
+      "word": "see you",
+      "translation": "увидимся",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈsi ˈju/",
+      "example": "See you tomorrow!",
+      "exampleTranslation": "Увидимся завтра!",
+      "exampleTokens": [
+        {
+          "text": "See",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "translation": "завтра"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["see you"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-see-you-later-phrase-1",
+      "vocabularyId": "see-you-later-phrase-1",
+      "word": "see you later",
+      "translation": "увидимся позже",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈsi ˈju ˈleɪtɚ/",
+      "example": "See you later at home.",
+      "exampleTranslation": "Увидимся позже дома.",
+      "exampleTokens": [
+        {
+          "text": "See",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "later",
+          "translation": "позже"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "home",
+          "translation": "дом"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["see you later"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-take-care-phrase-1",
+      "vocabularyId": "take-care-phrase-1",
+      "word": "take care",
+      "translation": "береги себя",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈteɪk ˈkɛɹ/",
+      "example": "Take care on your trip.",
+      "exampleTranslation": "Береги себя в поездке.",
+      "exampleTokens": [
+        {
+          "text": "Take",
+          "translation": "брать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "care",
+          "translation": "заботиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на / в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой / ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "trip",
+          "translation": "поездка"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["take care"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-nice-to-meet-you-phrase-1",
+      "vocabularyId": "nice-to-meet-you-phrase-1",
+      "word": "nice to meet you",
+      "translation": "приятно познакомиться",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnaɪs ˈtu ˈmit ˈju/",
+      "example": "Nice to meet you, Anna.",
+      "exampleTranslation": "Приятно познакомиться, Анна.",
+      "exampleTokens": [
+        {
+          "text": "Nice",
+          "translation": "приятный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица инфинитива / предлог"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "встретиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Anna",
+          "translation": "Анна"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["nice to meet you"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-are-you-phrase-1",
+      "vocabularyId": "how-are-you-phrase-1",
+      "word": "how are you",
+      "translation": "как дела",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊ ˈɑɹ ˈju/",
+      "example": "How are you today?",
+      "exampleTranslation": "Как у тебя дела сегодня?",
+      "exampleTokens": [
+        {
+          "text": "How",
+          "translation": "как"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "translation": "сегодня"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how are you"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-how-s-it-going-phrase-1",
+      "vocabularyId": "how-s-it-going-phrase-1",
+      "word": "how's it going",
+      "translation": "как поживаешь",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈhaʊz ˈɪt ˈɡoʊɪŋ/",
+      "example": "How's it going at work?",
+      "exampleTranslation": "Как дела на работе?",
+      "exampleTokens": [
+        {
+          "text": "How's",
+          "translation": "как; сокращение how is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "going",
+          "translation": "продолжать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "работа"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["how's it going", "how is it going"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-what-s-up-phrase-1",
+      "vocabularyId": "what-s-up-phrase-1",
+      "word": "what's up",
+      "translation": "что нового",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌts ˈʌp/",
+      "example": "Hey, what's up?",
+      "exampleTranslation": "Привет, что нового?",
+      "exampleTokens": [
+        {
+          "text": "Hey",
+          "translation": "привет; эй"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "what's",
+          "translation": "что; сокращение what is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "up",
+          "translation": "вверх"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["what's up", "what is up"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-i-m-fine-phrase-1",
+      "vocabularyId": "i-m-fine-phrase-1",
+      "word": "i'm fine",
+      "translation": "у меня всё хорошо",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈaɪm ˈfaɪn/",
+      "example": "I'm fine, thanks.",
+      "exampleTranslation": "У меня всё хорошо, спасибо.",
+      "exampleTokens": [
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fine",
+          "translation": "хорошо"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "thanks",
+          "translation": "спасибо"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["i'm fine", "I am fine"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-not-bad-phrase-1",
+      "vocabularyId": "not-bad-phrase-1",
+      "word": "not bad",
+      "translation": "неплохо",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɑt ˈbæd/",
+      "example": "Not bad, and you?",
+      "exampleTranslation": "Неплохо, а у тебя?",
+      "exampleTokens": [
+        {
+          "text": "Not",
+          "translation": "не"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bad",
+          "translation": "плохой"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "and",
+          "translation": "и"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["not bad"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-all-right-phrase-1",
+      "vocabularyId": "all-right-phrase-1",
+      "word": "all right",
+      "translation": "всё в порядке",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɔl ˈɹaɪt/",
+      "example": "Everything is all right.",
+      "exampleTranslation": "Всё в порядке.",
+      "exampleTokens": [
+        {
+          "text": "Everything",
+          "translation": "всё"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "all",
+          "translation": "весь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "right",
+          "translation": "право"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["all right"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-that-s-great-phrase-1",
+      "vocabularyId": "that-s-great-phrase-1",
+      "word": "that's great",
+      "translation": "это здорово",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈðæts ˈɡɹeɪt/",
+      "example": "That's great news!",
+      "exampleTranslation": "Это отличные новости!",
+      "exampleTokens": [
+        {
+          "text": "That's",
+          "translation": "это; сокращение that is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "great",
+          "translation": "отличный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "news",
+          "translation": "новости"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["that's great", "that is great"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-congratulations-interjection-1",
+      "vocabularyId": "congratulations-interjection-1",
+      "word": "congratulations",
+      "translation": "поздравляю",
+      "partOfSpeech": "interjection",
+      "transcription": "/kənˌɡɹætʃəˈleɪʃənz/",
+      "example": "Congratulations on your new job!",
+      "exampleTranslation": "Поздравляю с новой работой!",
+      "exampleTokens": [
+        {
+          "text": "Congratulations",
+          "translation": "поздравляю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "на / в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой / ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "new",
+          "translation": "новый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "job",
+          "translation": "работа"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["congratulations"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-good-luck-phrase-1",
+      "vocabularyId": "good-luck-phrase-1",
+      "word": "good luck",
+      "translation": "удачи",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɡʊd ˈlʌk/",
+      "example": "Good luck with your exam!",
+      "exampleTranslation": "Удачи на экзамене!",
+      "exampleTokens": [
+        {
+          "text": "Good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "luck",
+          "translation": "удача"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "with",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой / ваш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "exam",
+          "translation": "экзамен"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["good luck"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-well-done-phrase-1",
+      "vocabularyId": "well-done-phrase-1",
+      "word": "well done",
+      "translation": "молодец; отлично сделано",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwɛl ˈdʌn/",
+      "example": "Well done, you did it!",
+      "exampleTranslation": "Молодец, у тебя получилось!",
+      "exampleTokens": [
+        {
+          "text": "Well",
+          "translation": "хорошо"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "done",
+          "translation": "сделано"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "did",
+          "translation": "сделал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "translation": "это"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["well done"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-welcome-interjection-1",
+      "vocabularyId": "welcome-interjection-1",
+      "word": "welcome",
+      "translation": "добро пожаловать",
+      "partOfSpeech": "interjection",
+      "transcription": "/ˈwɛlkəm/",
+      "example": "Welcome to our home!",
+      "exampleTranslation": "Добро пожаловать к нам домой!",
+      "exampleTokens": [
+        {
+          "text": "Welcome",
+          "translation": "добро пожаловать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "к; чтобы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "our",
+          "translation": "наш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "home",
+          "translation": "дом"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["welcome"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-help-noun-1",
+      "vocabularyId": "help-noun-1",
+      "word": "help",
+      "translation": "помощь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈhɛlp/",
+      "example": "I need help, please.",
+      "exampleTranslation": "Мне нужна помощь, пожалуйста.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нужен"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "translation": "помощь"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "please",
+          "translation": "пожалуйста"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["help"],
+      "alternativeTranslations": ["содействие"]
+    },
+    {
+      "id": "questions-communication-100-question-noun-1",
+      "vocabularyId": "question-noun-1",
+      "word": "question",
+      "translation": "вопрос",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkwɛstʃən/",
+      "example": "Can I ask a question?",
+      "exampleTranslation": "Можно задать вопрос?",
+      "exampleTokens": [
+        {
+          "text": "Can",
+          "translation": "мочь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ask",
+          "translation": "спросить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "question",
+          "translation": "вопрос"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["question"],
+      "alternativeTranslations": ["то, о чём спрашивают"]
+    },
+    {
+      "id": "questions-communication-100-answer-noun-1",
+      "vocabularyId": "answer-noun-1",
+      "word": "answer",
+      "translation": "ответ",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈænsɚ/",
+      "example": "I don't know the answer.",
+      "exampleTranslation": "Я не знаю ответа.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "don't",
+          "translation": "не; вспомогательный глагол do с отрицанием"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "know",
+          "translation": "знать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "answer",
+          "translation": "ответ"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["answer"],
+      "alternativeTranslations": ["отклик на вопрос"]
+    },
+    {
+      "id": "questions-communication-100-conversation-noun-1",
+      "vocabularyId": "conversation-noun-1",
+      "word": "conversation",
+      "translation": "разговор",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌkɑnvɚˈseɪʃən/",
+      "example": "We had a short conversation.",
+      "exampleTranslation": "У нас был короткий разговор.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "had",
+          "translation": "форма прошедшего времени"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "short",
+          "translation": "короткий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "conversation",
+          "translation": "разговор"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["conversation"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "questions-communication-100-are-you-ready-phrase-1",
+      "vocabularyId": "are-you-ready-phrase-1",
+      "word": "are you ready",
+      "translation": "ты готов",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɑɹ ˈju ˈɹɛdi/",
+      "example": "Are you ready to go?",
+      "exampleTranslation": "Ты готов идти?",
+      "exampleTokens": [
+        {
+          "text": "Are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты / вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ready",
+          "translation": "готовый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица инфинитива / предлог"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "go",
+          "translation": "идти"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["are you ready"],
+      "alternativeTranslations": []
+    }
+  ]
+}

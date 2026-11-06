@@ -1,0 +1,236 @@
+.progress-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-4-5);
+  margin-bottom: var(--space-6);
+}
+.progress-stat {
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+.progress-stat svg {
+  color: #a38abd;
+}
+.progress-stat strong {
+  font-size: var(--text-4xl);
+  font-weight: 550;
+  letter-spacing: -1px;
+}
+.progress-stat span {
+  color: #a693b4;
+  font-size: var(--text-control);
+}
+.progress-columns {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+}
+.progress-right {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+.activity-panel {
+  padding: 26px;
+}
+.activity-chart {
+  height: 165px;
+  display: flex;
+  justify-content: space-around;
+  gap: 15px;
+  margin-top: 25px;
+}
+.activity-chart > div {
+  height: 100%;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2);
+  color: #aa95b9;
+  font-size: var(--text-xs);
+}
+.bar-slot {
+  height: 110px;
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  max-width: 28px;
+}
+.bar-slot > div {
+  width: 100%;
+  background: #e5dbf3;
+  border-radius: 5px 5px 0 0;
+  min-height: 3px;
+}
+.bar-slot > div.current {
+  background: #a28ad8;
+}
+.accuracy-panel {
+  padding: 26px;
+}
+.accuracy-panel > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-2-5);
+}
+.accuracy-panel strong {
+  font-size: 31px;
+  font-weight: 500;
+  color: #9a7aac;
+}
+.accuracy-panel strong small {
+  font-size: 17px;
+}
+.accuracy-counts {
+  display: flex;
+  gap: var(--space-5);
+  margin-top: var(--space-5);
+}
+.accuracy-counts > span {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: var(--text-control);
+  color: #a18bac;
+}
+.sessions-panel {
+  padding: 25px;
+  margin-top: var(--space-6);
+}
+.sessions-panel > p {
+  font-size: var(--text-sm);
+  margin-top: 15px;
+}
+.session-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3-5);
+  padding-top: var(--space-5);
+  margin-top: var(--space-5);
+  border-top: 1px solid var(--border);
+  font-size: var(--text-control);
+  color: #9c83ac;
+}
+.session-row > div {
+  flex: 1;
+}
+.session-row strong {
+  display: block;
+  font-weight: 550;
+  color: #8d719f;
+}
+.session-row small {
+  display: block;
+  margin-top: var(--space-1-5);
+}
+@media (max-width: 1000px) {
+  .progress-columns {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 1000px) {
+  .progress-right {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-4-5);
+  }
+}
+@media (max-width: 1000px) {
+  .progress-stats {
+    gap: var(--space-2-5);
+  }
+}
+@media (max-width: 1000px) {
+  .progress-stat {
+    padding: var(--space-4-5);
+  }
+}
+@media (max-width: 1000px) {
+  .accuracy-panel > div:first-child {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+@media (max-width: 1000px) {
+  .accuracy-counts {
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+}
+@media (max-width: 760px) {
+  .progress-stat {
+    padding: var(--space-4-5);
+  }
+}
+@media (max-width: 760px) {
+  .progress-stat span {
+    font-size: var(--text-xs);
+  }
+}
+@media (max-width: 520px) {
+  .progress-stats {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3);
+  }
+}
+@media (max-width: 520px) {
+  .progress-stat {
+    padding: var(--space-5);
+  }
+}
+@media (max-width: 520px) {
+  .progress-stat strong {
+    font-size: 31px;
+  }
+}
+@media (max-width: 520px) {
+  .progress-right {
+    display: flex;
+  }
+}
+@media (max-width: 520px) {
+  .activity-panel,
+  .accuracy-panel {
+    padding: 23px;
+  }
+}
+@media (max-width: 520px) {
+  .accuracy-panel > div:first-child {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+@media (max-width: 520px) {
+  .accuracy-counts {
+    flex-direction: row;
+    gap: 17px;
+  }
+}
+@media (max-width: 520px) {
+  .session-row {
+    gap: var(--space-2-5);
+    font-size: var(--text-caption);
+  }
+}
+@media (max-width: 520px) {
+  .session-row .stat-icon {
+    width: 28px;
+    height: 28px;
+  }
+}
+@media (max-width: 520px) {
+  .session-row > span:last-child {
+    max-width: 70px;
+    line-height: 1.6;
+  }
+}
+
+.activity-panel h2,
+.accuracy-panel h2,
+.sessions-panel h2 {
+  font-style: normal;
+}

@@ -1,0 +1,15 @@
+/* Global composition only. Styles live beside their owners. */
+@import "../../shared/styles/layout.css";
+@import "../../shared/ui/common.css";
+@import "../layout/layout.css";
+@import "../../entities/vocabulary/ui/speech.css";
+@import "../../entities/vocabulary/ui/set-progress.css";
+@import "../../pages/DashboardPage.css";
+@import "../../features/word-sets/ui/set-card.css";
+@import "../../pages/DictionaryPage.css";
+@import "../ui/notices.css";
+@import "../../pages/LearningPage.css";
+@import "../../features/lesson/ui/exercise-card.css";
+@import "../../pages/ProgressPage.css";
+@import "../../pages/SettingsPage.css";
+@import "../../pages/ProfilePage.css";

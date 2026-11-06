@@ -1,0 +1,13 @@
+.set-card-progress {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1-5);
+  margin-bottom: 13px;
+  padding: 3px 7px;
+  border-radius: var(--radius-pill);
+  background: #f7f6fb;
+  font-size: var(--text-control);
+  font-weight: 600;
+  color: #81738e;
+  line-height: 18px;
+}

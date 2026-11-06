@@ -1,0 +1,8 @@
+.profile-tabs {
+  margin-bottom: var(--space-7);
+}
+@media (max-width: 520px) {
+  .profile-tabs {
+    margin-bottom: var(--space-6);
+  }
+}

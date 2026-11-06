@@ -1,0 +1,3707 @@
+{
+  "id": "days-months-seasons-80",
+  "title": "Дни, месяцы и сезоны",
+  "description": "Дни недели, месяцы, времена года и слова для обозначения дат и периодов",
+  "level": "A1",
+  "words": [
+    {
+      "id": "days-months-seasons-80-monday-noun-1",
+      "vocabularyId": "monday-noun-1",
+      "word": "Monday",
+      "translation": "понедельник",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmʌndi/",
+      "example": "I work on Monday.",
+      "exampleTranslation": "Я работаю в понедельник.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Monday",
+          "translation": "понедельник"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["Monday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-tuesday-noun-1",
+      "vocabularyId": "tuesday-noun-1",
+      "word": "Tuesday",
+      "translation": "вторник",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈtuzdi/",
+      "example": "We meet on Tuesday.",
+      "exampleTranslation": "Мы встречаемся во вторник.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "посмотри"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Tuesday",
+          "translation": "вторник"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["Tuesday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-wednesday-noun-1",
+      "vocabularyId": "wednesday-noun-1",
+      "word": "Wednesday",
+      "translation": "среда",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwɛnzdi/",
+      "example": "The class is on Wednesday.",
+      "exampleTranslation": "Занятие в среду.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "class",
+          "translation": "увидимся"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Wednesday",
+          "translation": "среда"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["Wednesday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-thursday-noun-1",
+      "vocabularyId": "thursday-noun-1",
+      "word": "Thursday",
+      "translation": "четверг",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈθɝzˌdeɪ/",
+      "example": "I study on Thursday.",
+      "exampleTranslation": "Я учусь в четверг.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "study",
+          "translation": "встречаемся"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Thursday",
+          "translation": "четверг"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["Thursday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-friday-noun-1",
+      "vocabularyId": "friday-noun-1",
+      "word": "Friday",
+      "translation": "пятница",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈfɹaɪdi/",
+      "example": "The party is on Friday.",
+      "exampleTranslation": "Вечеринка в пятницу.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "party",
+          "translation": "работаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Friday",
+          "translation": "пятница"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["Friday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-saturday-noun-1",
+      "vocabularyId": "saturday-noun-1",
+      "word": "Saturday",
+      "translation": "суббота",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsætɚdi/",
+      "example": "I rest on Saturday.",
+      "exampleTranslation": "Я отдыхаю в субботу.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rest",
+          "translation": "занятие"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Saturday",
+          "translation": "суббота"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["Saturday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-sunday-noun-1",
+      "vocabularyId": "sunday-noun-1",
+      "word": "Sunday",
+      "translation": "воскресенье",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsʌnˌdeɪ/",
+      "example": "We walk on Sunday.",
+      "exampleTranslation": "Мы гуляем в воскресенье.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "walk",
+          "translation": "вечеринка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Sunday",
+          "translation": "воскресенье"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["Sunday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-january-noun-1",
+      "vocabularyId": "january-noun-1",
+      "word": "January",
+      "translation": "январь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdʒænjuˌɛɹi/",
+      "example": "January is cold here.",
+      "exampleTranslation": "Здесь в январе холодно.",
+      "exampleTokens": [
+        {
+          "text": "January",
+          "translation": "январь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cold",
+          "translation": "учусь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "пришёл"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["January"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-february-noun-1",
+      "vocabularyId": "february-noun-1",
+      "word": "February",
+      "translation": "февраль",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈfɛbjəˌwɛɹi/",
+      "example": "February is a short month.",
+      "exampleTranslation": "Февраль — короткий месяц.",
+      "exampleTokens": [
+        {
+          "text": "February",
+          "translation": "февраль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "short",
+          "translation": "отдыхаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["February"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-march-noun-1",
+      "vocabularyId": "march-noun-1",
+      "word": "March",
+      "translation": "март",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmɑɹtʃ/",
+      "example": "Spring begins in March.",
+      "exampleTranslation": "Весна начинается в марте.",
+      "exampleTokens": [
+        {
+          "text": "Spring",
+          "translation": "гуляем"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "begins",
+          "translation": "холодный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "March",
+          "translation": "март"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["March"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-april-noun-1",
+      "vocabularyId": "april-noun-1",
+      "word": "April",
+      "translation": "апрель",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈeɪpɹəl/",
+      "example": "It rains in April.",
+      "exampleTranslation": "В апреле идут дожди.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rains",
+          "translation": "короткий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "April",
+          "translation": "апрель"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["April"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-may-noun-1",
+      "vocabularyId": "may-noun-1",
+      "word": "May",
+      "translation": "май",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmeɪ/",
+      "example": "My birthday is in May.",
+      "exampleTranslation": "Мой день рождения в мае.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "birthday",
+          "translation": "весна"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "May",
+          "translation": "май"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["May"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-june-noun-1",
+      "vocabularyId": "june-noun-1",
+      "word": "June",
+      "translation": "июнь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdʒun/",
+      "example": "School ends in June.",
+      "exampleTranslation": "Учёба заканчивается в июне.",
+      "exampleTokens": [
+        {
+          "text": "School",
+          "translation": "начинается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ends",
+          "translation": "идут"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "June",
+          "translation": "июнь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["June"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-july-noun-1",
+      "vocabularyId": "july-noun-1",
+      "word": "July",
+      "translation": "июль",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌdʒuˈlaɪ/",
+      "example": "We travel in July.",
+      "exampleTranslation": "Мы путешествуем в июле.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "travel",
+          "translation": "день-рождения"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "July",
+          "translation": "июль"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["July"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-august-noun-1",
+      "vocabularyId": "august-noun-1",
+      "word": "August",
+      "translation": "август",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɑɡəst/",
+      "example": "August is often hot.",
+      "exampleTranslation": "В августе часто жарко.",
+      "exampleTokens": [
+        {
+          "text": "August",
+          "translation": "август"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "often",
+          "translation": "школа"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hot",
+          "translation": "заканчивается"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["August"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-september-noun-1",
+      "vocabularyId": "september-noun-1",
+      "word": "September",
+      "translation": "сентябрь",
+      "partOfSpeech": "noun",
+      "transcription": "/sɛpˈtɛmbɚ/",
+      "example": "Classes start in September.",
+      "exampleTranslation": "Занятия начинаются в сентябре.",
+      "exampleTokens": [
+        {
+          "text": "Classes",
+          "translation": "путешествуем"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "start",
+          "translation": "часто"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "September",
+          "translation": "сентябрь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["September"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-october-noun-1",
+      "vocabularyId": "october-noun-1",
+      "word": "October",
+      "translation": "октябрь",
+      "partOfSpeech": "noun",
+      "transcription": "/ɑkˈtoʊbɚ/",
+      "example": "Leaves fall in October.",
+      "exampleTranslation": "В октябре опадают листья.",
+      "exampleTokens": [
+        {
+          "text": "Leaves",
+          "translation": "листья; уходит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fall",
+          "translation": "занятия"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "October",
+          "translation": "октябрь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["October"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-november-noun-1",
+      "vocabularyId": "november-noun-1",
+      "word": "November",
+      "translation": "ноябрь",
+      "partOfSpeech": "noun",
+      "transcription": "/noʊˈvɛmbɚ/",
+      "example": "November is usually rainy.",
+      "exampleTranslation": "В ноябре обычно дождливо.",
+      "exampleTokens": [
+        {
+          "text": "November",
+          "translation": "ноябрь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "usually",
+          "translation": "начинаются"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rainy",
+          "translation": "листья"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["November"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-december-noun-1",
+      "vocabularyId": "december-noun-1",
+      "word": "December",
+      "translation": "декабрь",
+      "partOfSpeech": "noun",
+      "transcription": "/dɪˈsɛmbɚ/",
+      "example": "December is the last month.",
+      "exampleTranslation": "Декабрь — последний месяц.",
+      "exampleTokens": [
+        {
+          "text": "December",
+          "translation": "декабрь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "last",
+          "translation": "прошлый; последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["December"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-spring-noun-1",
+      "vocabularyId": "spring-noun-1",
+      "word": "spring",
+      "translation": "весна",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈspɹɪŋ/",
+      "example": "Flowers grow in spring.",
+      "exampleTranslation": "Весной растут цветы.",
+      "exampleTokens": [
+        {
+          "text": "Flowers",
+          "translation": "обычно"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grow",
+          "translation": "дождливый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "spring",
+          "translation": "весна"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["spring"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-summer-noun-1",
+      "vocabularyId": "summer-noun-1",
+      "word": "summer",
+      "translation": "лето",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsʌmɚ/",
+      "example": "We swim in summer.",
+      "exampleTranslation": "Летом мы плаваем.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "swim",
+          "translation": "последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "summer",
+          "translation": "лето"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["summer"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-autumn-noun-1",
+      "vocabularyId": "autumn-noun-1",
+      "word": "autumn",
+      "translation": "осень",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈɔtəm/",
+      "example": "The air is cool in autumn.",
+      "exampleTranslation": "Осенью воздух прохладный.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "air",
+          "translation": "цветы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cool",
+          "translation": "растут"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "autumn",
+          "translation": "осень"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["autumn", "fall"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-fall-noun-1",
+      "vocabularyId": "fall-noun-1",
+      "word": "fall",
+      "translation": "осень (амер.)",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈfɔl/",
+      "example": "Leaves change colour in fall.",
+      "exampleTranslation": "Осенью листья меняют цвет.",
+      "exampleTokens": [
+        {
+          "text": "Leaves",
+          "translation": "листья; уходит"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "change",
+          "translation": "плаваем"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "colour",
+          "translation": "воздух"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fall",
+          "translation": "осень (амер.)"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["fall", "autumn"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-winter-noun-1",
+      "vocabularyId": "winter-noun-1",
+      "word": "winter",
+      "translation": "зима",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwɪntɚ/",
+      "example": "It snows in winter.",
+      "exampleTranslation": "Зимой идёт снег.",
+      "exampleTokens": [
+        {
+          "text": "It",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "snows",
+          "translation": "прохладный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "winter",
+          "translation": "зима"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["winter"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-season-noun-1",
+      "vocabularyId": "season-noun-1",
+      "word": "season",
+      "translation": "время года",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsizən/",
+      "example": "What is your favourite season?",
+      "exampleTranslation": "Какое твоё любимое время года?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "наш"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "favourite",
+          "translation": "любимый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "season",
+          "translation": "время года"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["season"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-weekday-noun-1",
+      "vocabularyId": "weekday-noun-1",
+      "word": "weekday",
+      "translation": "будний день",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwikˌdeɪ/",
+      "example": "Monday is a weekday.",
+      "exampleTranslation": "Понедельник — будний день.",
+      "exampleTokens": [
+        {
+          "text": "Monday",
+          "translation": "понедельник"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "weekday",
+          "translation": "будний день"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["weekday"],
+      "alternativeTranslations": ["рабочий день"]
+    },
+    {
+      "id": "days-months-seasons-80-weekend-noun-1",
+      "vocabularyId": "weekend-noun-1",
+      "word": "weekend",
+      "translation": "выходные",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwiˌkɛnd/",
+      "example": "What are you doing this weekend?",
+      "exampleTranslation": "Что ты делаешь в эти выходные?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "doing",
+          "translation": "делает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "weekend",
+          "translation": "выходные"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["weekend"],
+      "alternativeTranslations": ["нерабочие дни"]
+    },
+    {
+      "id": "days-months-seasons-80-week-noun-1",
+      "vocabularyId": "week-noun-1",
+      "word": "week",
+      "translation": "неделя",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈwik/",
+      "example": "It's been a busy week.",
+      "exampleTranslation": "Неделя была напряжённой.",
+      "exampleTokens": [
+        {
+          "text": "It's",
+          "translation": "это; сокращение it is"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "been",
+          "translation": "форма причастия глагола быть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "busy",
+          "translation": "занятый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "неделя"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-month-noun-1",
+      "vocabularyId": "month-noun-1",
+      "word": "month",
+      "translation": "месяц",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmʌnθ/",
+      "example": "See you next month.",
+      "exampleTranslation": "Увидимся в следующем месяце.",
+      "exampleTokens": [
+        {
+          "text": "See",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next",
+          "translation": "следующий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["month"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-year-noun-1",
+      "vocabularyId": "year-noun-1",
+      "word": "year",
+      "translation": "год",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈjɪɹ/",
+      "example": "This year went fast.",
+      "exampleTranslation": "Этот год быстро прошёл.",
+      "exampleTokens": [
+        {
+          "text": "This",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "year",
+          "translation": "год"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "went",
+          "translation": "пошли"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fast",
+          "translation": "быстрый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["year"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-day-noun-1",
+      "vocabularyId": "day-noun-1",
+      "word": "day",
+      "translation": "день",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdeɪ/",
+      "example": "Have a good day!",
+      "exampleTranslation": "Хорошего дня!",
+      "exampleTokens": [
+        {
+          "text": "Have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "good",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "день"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["day"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-date-noun-1",
+      "vocabularyId": "date-noun-1",
+      "word": "date",
+      "translation": "дата",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdeɪt/",
+      "example": "What is today's date?",
+      "exampleTranslation": "Какое сегодня число?",
+      "exampleTokens": [
+        {
+          "text": "What",
+          "translation": "какой; что"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today's",
+          "translation": "сегодняшний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "date",
+          "translation": "дата"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["date"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-calendar-noun-1",
+      "vocabularyId": "calendar-noun-1",
+      "word": "calendar",
+      "translation": "календарь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈkæləndɚ/",
+      "example": "Check the calendar.",
+      "exampleTranslation": "Посмотри в календарь.",
+      "exampleTokens": [
+        {
+          "text": "Check",
+          "translation": "каждый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "calendar",
+          "translation": "календарь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["calendar"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-today-adverb-1",
+      "vocabularyId": "today-adverb-1",
+      "word": "today",
+      "translation": "сегодня",
+      "partOfSpeech": "adverb",
+      "transcription": "/təˈdeɪ/",
+      "example": "I feel great today.",
+      "exampleTranslation": "Сегодня я прекрасно себя чувствую.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "feel",
+          "translation": "чувствовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "great",
+          "translation": "отличный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "translation": "сегодня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["today"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-yesterday-adverb-1",
+      "vocabularyId": "yesterday-adverb-1",
+      "word": "yesterday",
+      "translation": "вчера",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈjɛstɚˌdeɪ/",
+      "example": "I saw him yesterday.",
+      "exampleTranslation": "Я видел его вчера.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "saw",
+          "translation": "видел"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "him",
+          "translation": "его"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "yesterday",
+          "translation": "вчера"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["yesterday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-tomorrow-adverb-1",
+      "vocabularyId": "tomorrow-adverb-1",
+      "word": "tomorrow",
+      "translation": "завтра",
+      "partOfSpeech": "adverb",
+      "transcription": "/təˈmɑˌɹoʊ/",
+      "example": "Let's meet tomorrow.",
+      "exampleTranslation": "Давай встретимся завтра.",
+      "exampleTokens": [
+        {
+          "text": "Let's",
+          "translation": "давайте; сокращение let us"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "встретиться"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "translation": "завтра"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["tomorrow"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-tonight-adverb-1",
+      "vocabularyId": "tonight-adverb-1",
+      "word": "tonight",
+      "translation": "сегодня вечером",
+      "partOfSpeech": "adverb",
+      "transcription": "/təˈnaɪt/",
+      "example": "We are meeting tonight.",
+      "exampleTranslation": "Мы встречаемся сегодня вечером.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "translation": "календарь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "translation": "сегодня вечером"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["tonight"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-morning-noun-1",
+      "vocabularyId": "morning-noun-1",
+      "word": "morning",
+      "translation": "утро",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmɔːnɪŋ/",
+      "example": "I read every morning.",
+      "exampleTranslation": "Я читаю каждое утро.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "read",
+          "translation": "читаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every",
+          "translation": "каждое"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "translation": "утро"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["morning"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-afternoon-noun-1",
+      "vocabularyId": "afternoon-noun-1",
+      "word": "afternoon",
+      "translation": "вторая половина дня",
+      "partOfSpeech": "noun",
+      "transcription": "/ˌæftɚˈnun/",
+      "example": "I'm free this afternoon.",
+      "exampleTranslation": "Я свободен сегодня днём.",
+      "exampleTokens": [
+        {
+          "text": "I'm",
+          "translation": "я; сокращение I am"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "free",
+          "translation": "свободный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "afternoon",
+          "translation": "вторая половина дня"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["afternoon"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-evening-noun-1",
+      "vocabularyId": "evening-noun-1",
+      "word": "evening",
+      "translation": "вечер",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈivnɪŋ/",
+      "example": "See you this evening.",
+      "exampleTranslation": "Увидимся сегодня вечером.",
+      "exampleTokens": [
+        {
+          "text": "See",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "translation": "вечер"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["evening"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-night-noun-1",
+      "vocabularyId": "night-noun-1",
+      "word": "night",
+      "translation": "ночь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈnaɪt/",
+      "example": "I slept well last night.",
+      "exampleTranslation": "Прошлой ночью я хорошо спал.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "slept",
+          "translation": "спал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "well",
+          "translation": "хорошо"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "last",
+          "translation": "прошлый; последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "translation": "ночь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["neither", "whereas", "whether"],
+      "acceptedAnswers": ["night"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-midnight-noun-1",
+      "vocabularyId": "midnight-noun-1",
+      "word": "midnight",
+      "translation": "полночь",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈmɪdˌnaɪt/",
+      "example": "The train arrives at midnight.",
+      "exampleTranslation": "Поезд прибывает в полночь.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "translation": "поезд"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "arrives",
+          "translation": "прибывает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "midnight",
+          "translation": "полночь"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["midnight"],
+      "alternativeTranslations": ["двенадцать часов ночи"]
+    },
+    {
+      "id": "days-months-seasons-80-noon-noun-1",
+      "vocabularyId": "noon-noun-1",
+      "word": "noon",
+      "translation": "полдень",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈnun/",
+      "example": "We meet at noon.",
+      "exampleTranslation": "Мы встречаемся в полдень.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "встречать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "noon",
+          "translation": "полдень"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["noon"],
+      "alternativeTranslations": ["двенадцать часов дня"]
+    },
+    {
+      "id": "days-months-seasons-80-dawn-noun-1",
+      "vocabularyId": "dawn-noun-1",
+      "word": "dawn",
+      "translation": "рассвет",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdɔn/",
+      "example": "We left at dawn.",
+      "exampleTranslation": "Мы ушли на рассвете.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "left",
+          "translation": "отправляется"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "dawn",
+          "translation": "рассвет"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["dawn"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-dusk-noun-1",
+      "vocabularyId": "dusk-noun-1",
+      "word": "dusk",
+      "translation": "сумерки",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈdʌsk/",
+      "example": "The sky is pink at dusk.",
+      "exampleTranslation": "В сумерках небо розовое.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sky",
+          "translation": "обед"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pink",
+          "translation": "начинается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at",
+          "translation": "есть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "dusk",
+          "translation": "сумерки"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["dusk"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-sunrise-noun-1",
+      "vocabularyId": "sunrise-noun-1",
+      "word": "sunrise",
+      "translation": "восход солнца",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsʌnˌɹaɪz/",
+      "example": "Sunrise is beautiful here.",
+      "exampleTranslation": "Здесь красивый восход солнца.",
+      "exampleTokens": [
+        {
+          "text": "Sunrise",
+          "translation": "восход солнца"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "beautiful",
+          "translation": "ушли"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "пришёл"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["sunrise"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-sunset-noun-1",
+      "vocabularyId": "sunset-noun-1",
+      "word": "sunset",
+      "translation": "закат",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈsʌnˌsɛt/",
+      "example": "We watched the sunset.",
+      "exampleTranslation": "Мы смотрели на закат.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "watched",
+          "translation": "посмотрели"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sunset",
+          "translation": "закат"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["sunset"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-this-week-phrase-1",
+      "vocabularyId": "this-week-phrase-1",
+      "word": "this week",
+      "translation": "на этой неделе",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈðɪs ˈwik/",
+      "example": "I have a test this week.",
+      "exampleTranslation": "На этой неделе у меня контрольная.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "это"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "test",
+          "translation": "розовое"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "любимый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["this week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-next-week-phrase-1",
+      "vocabularyId": "next-week-phrase-1",
+      "word": "next week",
+      "translation": "на следующей неделе",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɛkst ˈwik/",
+      "example": "We will meet next week.",
+      "exampleTranslation": "Мы встретимся на следующей неделе.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "translation": "тот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "посмотри"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next",
+          "translation": "следующий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "любимый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["next week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-last-week-phrase-1",
+      "vocabularyId": "last-week-phrase-1",
+      "word": "last week",
+      "translation": "на прошлой неделе",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈlæst ˈwik/",
+      "example": "I was sick last week.",
+      "exampleTranslation": "На прошлой неделе я болел.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "was",
+          "translation": "был; была"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sick",
+          "translation": "красивый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "last",
+          "translation": "прошлый; последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "любимый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["last week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-this-month-phrase-1",
+      "vocabularyId": "this-month-phrase-1",
+      "word": "this month",
+      "translation": "в этом месяце",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈðɪs ˈmʌnθ/",
+      "example": "I am travelling this month.",
+      "exampleTranslation": "В этом месяце я путешествую.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "travelling",
+          "translation": "путешествует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["this month"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-next-month-phrase-1",
+      "vocabularyId": "next-month-phrase-1",
+      "word": "next month",
+      "translation": "в следующем месяце",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɛkst ˈmʌnθ/",
+      "example": "My course starts next month.",
+      "exampleTranslation": "Мой курс начинается в следующем месяце.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "course",
+          "translation": "смотрели"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "starts",
+          "translation": "начинается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next",
+          "translation": "следующий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["next month"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-last-month-phrase-1",
+      "vocabularyId": "last-month-phrase-1",
+      "word": "last month",
+      "translation": "в прошлом месяце",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈlæst ˈmʌnθ/",
+      "example": "I moved last month.",
+      "exampleTranslation": "Я переехал в прошлом месяце.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "moved",
+          "translation": "контрольная"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "last",
+          "translation": "прошлый; последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["last month"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-this-year-phrase-1",
+      "vocabularyId": "this-year-phrase-1",
+      "word": "this year",
+      "translation": "в этом году",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈðɪs ˈjɪɹ/",
+      "example": "I am learning English this year.",
+      "exampleTranslation": "В этом году я учу английский.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "translation": "форма глагола быть с I"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "learning",
+          "translation": "болел"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "English",
+          "translation": "английский язык"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "с"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "year",
+          "translation": "неделя"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["this year"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-next-year-phrase-1",
+      "vocabularyId": "next-year-phrase-1",
+      "word": "next year",
+      "translation": "в следующем году",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈnɛkst ˈjɪɹ/",
+      "example": "I will graduate next year.",
+      "exampleTranslation": "Я окончу учёбу в следующем году.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "translation": "тот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "graduate",
+          "translation": "переехал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next",
+          "translation": "следующий"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "year",
+          "translation": "неделя"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["next year"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-last-year-phrase-1",
+      "vocabularyId": "last-year-phrase-1",
+      "word": "last year",
+      "translation": "в прошлом году",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈlæst ˈjɪɹ/",
+      "example": "We met last year.",
+      "exampleTranslation": "Мы познакомились в прошлом году.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "met",
+          "translation": "учу"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "last",
+          "translation": "прошлый; последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "year",
+          "translation": "неделя"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["last year"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-every-day-phrase-1",
+      "vocabularyId": "every-day-phrase-1",
+      "word": "every day",
+      "translation": "каждый день",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɛvɚi ˈdeɪ/",
+      "example": "I read every day.",
+      "exampleTranslation": "Я читаю каждый день.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "read",
+          "translation": "английский"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every",
+          "translation": "мне"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "двенадцать"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["every day"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-every-week-phrase-1",
+      "vocabularyId": "every-week-phrase-1",
+      "word": "every week",
+      "translation": "каждую неделю",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɛvɚi ˈwik/",
+      "example": "We talk every week.",
+      "exampleTranslation": "Мы разговариваем каждую неделю.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "talk",
+          "translation": "окончу"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every",
+          "translation": "мне"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "любимый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["every week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-every-month-phrase-1",
+      "vocabularyId": "every-month-phrase-1",
+      "word": "every month",
+      "translation": "каждый месяц",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈɛvɚi ˈmʌnθ/",
+      "example": "I save money every month.",
+      "exampleTranslation": "Я откладываю деньги каждый месяц.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "save",
+          "translation": "познакомились"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "money",
+          "translation": "читаю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every",
+          "translation": "мне"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "month",
+          "translation": "месяц"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["every month"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-once-a-week-phrase-1",
+      "vocabularyId": "once-a-week-phrase-1",
+      "word": "once a week",
+      "translation": "раз в неделю",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈwʌns ə ˈwik/",
+      "example": "I swim once a week.",
+      "exampleTranslation": "Я плаваю раз в неделю.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "swim",
+          "translation": "последний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "once",
+          "translation": "разговариваем"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "любимый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["once a week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-twice-a-week-phrase-1",
+      "vocabularyId": "twice-a-week-phrase-1",
+      "word": "twice a week",
+      "translation": "два раза в неделю",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈtwaɪs ə ˈwik/",
+      "example": "We train twice a week.",
+      "exampleTranslation": "Мы тренируемся дважды в неделю.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "translation": "день"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "twice",
+          "translation": "откладываю"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "week",
+          "translation": "любимый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["twice a week"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-daily-adverb-1",
+      "vocabularyId": "daily-adverb-1",
+      "word": "daily",
+      "translation": "ежедневно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈdeɪli/",
+      "example": "I practise English daily.",
+      "exampleTranslation": "Я практикую английский ежедневно.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "practise",
+          "translation": "деньги"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "English",
+          "translation": "английский язык"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "daily",
+          "translation": "ежедневно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["daily"],
+      "alternativeTranslations": ["каждый день"]
+    },
+    {
+      "id": "days-months-seasons-80-weekly-adverb-1",
+      "vocabularyId": "weekly-adverb-1",
+      "word": "weekly",
+      "translation": "еженедельно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈwikli/",
+      "example": "The team meets weekly.",
+      "exampleTranslation": "Команда встречается еженедельно.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "team",
+          "translation": "раз"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meets",
+          "translation": "соответствует; встречает"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "weekly",
+          "translation": "еженедельно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["weekly"],
+      "alternativeTranslations": ["каждую неделю"]
+    },
+    {
+      "id": "days-months-seasons-80-monthly-adverb-1",
+      "vocabularyId": "monthly-adverb-1",
+      "word": "monthly",
+      "translation": "ежемесячно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈmʌnθli/",
+      "example": "We pay rent monthly.",
+      "exampleTranslation": "Мы платим аренду ежемесячно.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "pay",
+          "translation": "дважды"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rent",
+          "translation": "практикую"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "monthly",
+          "translation": "ежемесячно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["monthly"],
+      "alternativeTranslations": ["каждый месяц"]
+    },
+    {
+      "id": "days-months-seasons-80-annual-adjective-1",
+      "vocabularyId": "annual-adjective-1",
+      "word": "annual",
+      "translation": "ежегодный",
+      "partOfSpeech": "adjective",
+      "transcription": "/ˈænjuəl/",
+      "example": "The annual report is ready.",
+      "exampleTranslation": "Годовой отчёт готов.",
+      "exampleTokens": [
+        {
+          "text": "The",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "annual",
+          "translation": "ежегодный"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "report",
+          "translation": "отчёт"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ready",
+          "translation": "готовый"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["because", "unless", "although"],
+      "acceptedAnswers": ["annual"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-early-adverb-1",
+      "vocabularyId": "early-adverb-1",
+      "word": "early",
+      "translation": "рано",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈɝli/",
+      "example": "I woke up early.",
+      "exampleTranslation": "Я проснулся рано.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "woke",
+          "translation": "проснулся"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "up",
+          "translation": "вверх"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "early",
+          "translation": "рано"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["early"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-late-adverb-1",
+      "vocabularyId": "late-adverb-1",
+      "word": "late",
+      "translation": "поздно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈleɪt/",
+      "example": "We arrived late.",
+      "exampleTranslation": "Мы приехали поздно.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "arrived",
+          "translation": "приехал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "late",
+          "translation": "поздно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["neither", "whereas", "whether"],
+      "acceptedAnswers": ["late"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-soon-adverb-1",
+      "vocabularyId": "soon-adverb-1",
+      "word": "soon",
+      "translation": "скоро",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈsun/",
+      "example": "See you soon!",
+      "exampleTranslation": "Скоро увидимся!",
+      "exampleTokens": [
+        {
+          "text": "See",
+          "translation": "видеть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "ты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "soon",
+          "translation": "скоро"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["soon"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-now-adverb-1",
+      "vocabularyId": "now-adverb-1",
+      "word": "now",
+      "translation": "сейчас",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈnaʊ/",
+      "example": "We need to leave now.",
+      "exampleTranslation": "Нам нужно уйти сейчас.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нужен"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица инфинитива"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "leave",
+          "translation": "уезжать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "now",
+          "translation": "сейчас"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["now"],
+      "alternativeTranslations": ["в данный момент"]
+    },
+    {
+      "id": "days-months-seasons-80-recently-adverb-1",
+      "vocabularyId": "recently-adverb-1",
+      "word": "recently",
+      "translation": "недавно",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈɹisəntli/",
+      "example": "I moved here recently.",
+      "exampleTranslation": "Я недавно сюда переехал.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "moved",
+          "translation": "контрольная"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "here",
+          "translation": "пришёл"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "recently",
+          "translation": "недавно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["unless", "although", "because"],
+      "acceptedAnswers": ["recently"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-already-adverb-1",
+      "vocabularyId": "already-adverb-1",
+      "word": "already",
+      "translation": "уже",
+      "partOfSpeech": "adverb",
+      "transcription": "/ɔlˈɹɛdi/",
+      "example": "I have already finished my homework.",
+      "exampleTranslation": "Я уже закончил домашнее задание.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "have",
+          "translation": "иметь"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "already",
+          "translation": "уже"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "finished",
+          "translation": "закончил"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "homework",
+          "translation": "домашнее задание"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["already"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-still-adverb-1",
+      "vocabularyId": "still-adverb-1",
+      "word": "still",
+      "translation": "всё ещё",
+      "partOfSpeech": "adverb",
+      "transcription": "/ˈstɪl/",
+      "example": "Are you still waiting for the bus?",
+      "exampleTranslation": "Ты всё ещё ждёшь автобус?",
+      "exampleTokens": [
+        {
+          "text": "Are",
+          "translation": "есть; являются; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "вы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "still",
+          "translation": "всё ещё"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "waiting",
+          "translation": "ждёт"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "для"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bus",
+          "translation": "автобус"
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["still"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-before-preposition-1",
+      "vocabularyId": "before-preposition-1",
+      "word": "before",
+      "translation": "до; раньше",
+      "partOfSpeech": "preposition",
+      "transcription": "/bɪˈfɔɹ/",
+      "example": "Call me before Friday.",
+      "exampleTranslation": "Позвони мне до пятницы.",
+      "exampleTokens": [
+        {
+          "text": "Call",
+          "translation": "звонить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "translation": "буду"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "before",
+          "translation": "до; раньше"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Friday",
+          "translation": "пятница"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["slept", "swam", "arrived"],
+      "acceptedAnswers": ["before"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-after-preposition-1",
+      "vocabularyId": "after-preposition-1",
+      "word": "after",
+      "translation": "после",
+      "partOfSpeech": "preposition",
+      "transcription": "/ˈæftɚ/",
+      "example": "We meet after lunch.",
+      "exampleTranslation": "Мы встречаемся после обеда.",
+      "exampleTokens": [
+        {
+          "text": "We",
+          "translation": "мы"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meet",
+          "translation": "посмотри"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "after",
+          "translation": "после"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lunch",
+          "translation": "сплю"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["wooden", "hungry", "purple"],
+      "acceptedAnswers": ["after"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-during-preposition-1",
+      "vocabularyId": "during-preposition-1",
+      "word": "during",
+      "translation": "во время",
+      "partOfSpeech": "preposition",
+      "transcription": "/ˈdʊɹɪŋ/",
+      "example": "I read during the break.",
+      "exampleTranslation": "Я читаю во время перерыва.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "read",
+          "translation": "английский"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "during",
+          "translation": "во время"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "break",
+          "translation": "после"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["wooden", "hungry", "purple"],
+      "acceptedAnswers": ["during"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-until-preposition-1",
+      "vocabularyId": "until-preposition-1",
+      "word": "until",
+      "translation": "до (какого-то времени)",
+      "partOfSpeech": "preposition",
+      "transcription": "/ənˈtɪl/",
+      "example": "I work until Friday.",
+      "exampleTranslation": "Я работаю до пятницы.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "until",
+          "translation": "до (какого-то времени)"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Friday",
+          "translation": "пятница"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["wooden", "hungry", "purple"],
+      "acceptedAnswers": ["until"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-from-monday-to-friday-phrase-1",
+      "vocabularyId": "from-monday-to-friday-phrase-1",
+      "word": "from Monday to Friday",
+      "translation": "с понедельника по пятницу",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈfɹʌm ˈmʌndi ˈtu ˈfɹaɪdi/",
+      "example": "I work from Monday to Friday.",
+      "exampleTranslation": "Я работаю с понедельника по пятницу.",
+      "exampleTokens": [
+        {
+          "text": "I",
+          "translation": "я"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "translation": "хороший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "from",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Monday",
+          "translation": "понедельник"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Friday",
+          "translation": "пятница"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["from Monday to Friday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-day-off-phrase-1",
+      "vocabularyId": "day-off-phrase-1",
+      "word": "day off",
+      "translation": "выходной день",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈdeɪ ˈɔf/",
+      "example": "Sunday is my day off.",
+      "exampleTranslation": "Воскресенье — мой выходной.",
+      "exampleTokens": [
+        {
+          "text": "Sunday",
+          "translation": "воскресенье"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "двенадцать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "off",
+          "translation": "прочь; выключено"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["day off"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-public-holiday-phrase-1",
+      "vocabularyId": "public-holiday-phrase-1",
+      "word": "public holiday",
+      "translation": "государственный праздник",
+      "partOfSpeech": "phrase",
+      "transcription": "/ˈpʌblɪk ˈhɑləˌdeɪ/",
+      "example": "Monday is a public holiday.",
+      "exampleTranslation": "Понедельник — государственный праздник.",
+      "exampleTokens": [
+        {
+          "text": "Monday",
+          "translation": "понедельник"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "public",
+          "translation": "перерыв"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "holiday",
+          "translation": "до"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["although", "unless", "because"],
+      "acceptedAnswers": ["public holiday"],
+      "alternativeTranslations": []
+    },
+    {
+      "id": "days-months-seasons-80-birthday-noun-1",
+      "vocabularyId": "birthday-noun-1",
+      "word": "birthday",
+      "translation": "день рождения",
+      "partOfSpeech": "noun",
+      "transcription": "/ˈbɝθˌdeɪ/",
+      "example": "My birthday is in May.",
+      "exampleTranslation": "Мой день рождения в мае.",
+      "exampleTokens": [
+        {
+          "text": "My",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "birthday",
+          "translation": "день рождения"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "есть; является; глагол-связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "May",
+          "translation": "можно, возможно"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "contextDistractors": ["arrived", "slept", "swam"],
+      "acceptedAnswers": ["birthday"],
+      "alternativeTranslations": []
+    }
+  ]
+}
