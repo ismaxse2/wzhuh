@@ -37,7 +37,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -66,7 +66,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -80,14 +80,14 @@
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": "?"
@@ -109,7 +109,7 @@
       "exampleTokens": [
         {
           "text": "Does",
-          "translation": "делает"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -152,7 +152,7 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -216,7 +216,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -288,7 +288,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -309,7 +309,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -345,21 +345,21 @@
         },
         {
           "text": "wait",
-          "translation": "подождать"
+          "translation": "ждать"
         },
         {
           "text": " "
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "часть ждать"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "меня, мне"
+          "translation": "мне; меня"
         },
         {
           "text": "."
@@ -581,7 +581,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -624,7 +624,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -667,7 +667,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -703,7 +703,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -717,14 +717,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
         },
         {
           "text": "washing",
-          "translation": "моет; умывает"
+          "translation": "умывает"
         },
         {
           "text": " "
@@ -738,7 +738,7 @@
         },
         {
           "text": "face",
-          "translation": "лицо"
+          "translation": "мордочку"
         },
         {
           "text": "."
@@ -767,7 +767,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -817,7 +817,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -867,7 +867,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -896,7 +896,7 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -1032,7 +1032,7 @@
       "exampleTokens": [
         {
           "text": "Try",
-          "translation": "пытаться"
+          "translation": "примерь"
         },
         {
           "text": " "
@@ -1075,7 +1075,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -1125,21 +1125,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "at",
-          "translation": "в; у"
+          "translation": "у"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1175,7 +1175,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -1225,7 +1225,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -1268,7 +1268,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -1304,7 +1304,7 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -1347,7 +1347,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -1383,7 +1383,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -1433,7 +1433,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -1469,7 +1469,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -1505,7 +1505,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "вспомогательный глагол перфекта: действие связано с результатом"
         },
         {
           "text": " "
@@ -1533,7 +1533,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1697,7 +1697,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1733,7 +1733,7 @@
         },
         {
           "text": "be",
-          "translation": "быть"
+          "translation": "будь"
         },
         {
           "text": " "
@@ -1769,7 +1769,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -1812,7 +1812,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "сделай"
         },
         {
           "text": " "
@@ -1833,7 +1833,7 @@
         },
         {
           "text": "first",
-          "translation": "первый"
+          "translation": "сначала"
         },
         {
           "text": "."
@@ -1862,7 +1862,7 @@
         },
         {
           "text": "did",
-          "translation": "сделал"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -1912,7 +1912,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
@@ -1926,7 +1926,7 @@
         },
         {
           "text": "by",
-          "translation": "у"
+          "translation": "на"
         },
         {
           "text": " "
@@ -1962,7 +1962,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2069,7 +2069,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -2226,7 +2226,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -2247,7 +2247,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2340,7 +2340,7 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
@@ -2376,7 +2376,7 @@
         },
         {
           "text": "at",
-          "translation": "в"
+          "translation": "на"
         },
         {
           "text": " "
@@ -2419,7 +2419,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -2519,14 +2519,14 @@
         },
         {
           "text": "give",
-          "translation": "давать"
+          "translation": "дайте"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -2576,14 +2576,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2683,7 +2683,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -2707,40 +2707,61 @@
       "translation": "пытаться",
       "partOfSpeech": "verb",
       "transcription": "/ˈtɹaɪ/",
-      "example": "You should try the soup.",
-      "exampleTranslation": "Тебе стоит попробовать суп.",
+      "example": "I try to learn something new every day.",
+      "exampleTranslation": "Я стараюсь каждый день узнавать что-то новое.",
       "exampleTokens": [
         {
-          "text": "You",
-          "translation": "вы"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "should",
-          "translation": "следует"
+          "text": "I",
+          "translation": "я"
         },
         {
           "text": " "
         },
         {
           "text": "try",
-          "translation": "пытаться"
+          "translation": "стараюсь; пытаюсь"
         },
         {
           "text": " "
         },
         {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "to",
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
-          "text": "soup",
-          "translation": "суп"
+          "text": "learn",
+          "translation": "узнавать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "something",
+          "translation": "что-то"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "new",
+          "translation": "новое"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every",
+          "translation": "каждый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "day",
+          "translation": "день"
         },
         {
           "text": "."
@@ -2762,7 +2783,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2776,7 +2797,7 @@
         },
         {
           "text": "ask",
-          "translation": "спрашивать"
+          "translation": "задать"
         },
         {
           "text": " "
@@ -2876,7 +2897,7 @@
         },
         {
           "text": "much",
-          "translation": "много"
+          "translation": "гораздо"
         },
         {
           "text": " "
@@ -2926,7 +2947,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -2964,8 +2985,8 @@
       "translation": "уезжать",
       "partOfSpeech": "verb",
       "transcription": "/ˈliv/",
-      "example": "We leave at six tomorrow.",
-      "exampleTranslation": "Завтра мы уходим в шесть.",
+      "example": "We leave for London tomorrow.",
+      "exampleTranslation": "Завтра мы уезжаем в Лондон.",
       "exampleTokens": [
         {
           "text": "We",
@@ -2976,21 +2997,21 @@
         },
         {
           "text": "leave",
-          "translation": "уезжать"
+          "translation": "уезжаем"
         },
         {
           "text": " "
         },
         {
-          "text": "at",
-          "translation": "в"
+          "text": "for",
+          "translation": "в: направление поездки"
         },
         {
           "text": " "
         },
         {
-          "text": "six",
-          "translation": "шесть"
+          "text": "London",
+          "translation": "Лондон"
         },
         {
           "text": " "
@@ -3026,7 +3047,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3047,7 +3068,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3083,7 +3104,7 @@
         },
         {
           "text": "does",
-          "translation": "делает"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -3154,7 +3175,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3168,14 +3189,14 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3218,14 +3239,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
@@ -3347,7 +3368,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -3361,14 +3382,14 @@
         },
         {
           "text": "help",
-          "translation": "помогать"
+          "translation": "помочь"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -3425,7 +3446,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -3446,7 +3467,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3482,7 +3503,7 @@
         },
         {
           "text": "turn",
-          "translation": "поворачивать"
+          "translation": "поверните"
         },
         {
           "text": " "
@@ -3503,7 +3524,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3539,7 +3560,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3553,7 +3574,7 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
@@ -3603,14 +3624,14 @@
         },
         {
           "text": "show",
-          "translation": "показывать"
+          "translation": "покажите"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -3646,7 +3667,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -3667,7 +3688,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3717,7 +3738,7 @@
         },
         {
           "text": "on",
-          "translation": "на"
+          "translation": "в: день или дата"
         },
         {
           "text": " "
@@ -3767,7 +3788,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3824,21 +3845,21 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "move",
-          "translation": "двигаться"
+          "translation": "переехать"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
@@ -3902,7 +3923,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4081,14 +4102,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": "."
@@ -4131,7 +4152,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4160,7 +4181,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -4210,7 +4231,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -4231,14 +4252,14 @@
         },
         {
           "text": "by",
-          "translation": "с помощью"
+          "translation": "указывает способ оплаты"
         },
         {
           "text": " "
         },
         {
           "text": "card",
-          "translation": "карта"
+          "translation": "картой"
         },
         {
           "text": "?"
@@ -4267,7 +4288,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можем"
         },
         {
           "text": " "
@@ -4288,7 +4309,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4324,7 +4345,7 @@
         },
         {
           "text": "include",
-          "translation": "включать"
+          "translation": "укажи"
         },
         {
           "text": " "
@@ -4352,7 +4373,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4388,7 +4409,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можем"
         },
         {
           "text": " "
@@ -4438,7 +4459,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4531,7 +4552,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -4576,40 +4597,61 @@
       "translation": "вести",
       "partOfSpeech": "verb",
       "transcription": "/liːd/",
-      "example": "Good teachers lead by example.",
-      "exampleTranslation": "Хорошие учителя показывают пример своим поведением.",
+      "example": "The guide will lead us through the forest.",
+      "exampleTranslation": "Гид проведёт нас через лес.",
       "exampleTokens": [
         {
-          "text": "Good",
-          "translation": "хороший"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "teachers",
-          "translation": "учителя"
+          "text": "guide",
+          "translation": "гид"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "lead",
-          "translation": "вести"
+          "translation": "проведёт"
         },
         {
           "text": " "
         },
         {
-          "text": "by",
-          "translation": "у"
+          "text": "us",
+          "translation": "нас"
         },
         {
           "text": " "
         },
         {
-          "text": "example",
-          "translation": "пример"
+          "text": "through",
+          "translation": "через"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "forest",
+          "translation": "лес"
         },
         {
           "text": "."
@@ -4738,14 +4780,14 @@
         },
         {
           "text": "follow",
-          "translation": "следовать"
+          "translation": "следуйте"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4759,14 +4801,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4809,14 +4851,14 @@
         },
         {
           "text": "at",
-          "translation": "в"
+          "translation": "у"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4902,7 +4944,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -5097,47 +5139,47 @@
       "translation": "тратить",
       "partOfSpeech": "verb",
       "transcription": "/ˈspɛnd/",
-      "example": "I need to spend it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: тратить.",
+      "example": "Do not spend all your money.",
+      "exampleTranslation": "Не трать все свои деньги.",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "Do",
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "translation": "частица инфинитива"
+          "text": "not",
+          "translation": "не"
         },
         {
           "text": " "
         },
         {
           "text": "spend",
-          "translation": "тратить"
+          "translation": "трать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "all",
+          "translation": "все"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "your",
+          "translation": "свои"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "money",
+          "translation": "деньги"
         },
         {
           "text": "."
@@ -5166,7 +5208,7 @@
         },
         {
           "text": "grow",
-          "translation": "расти"
+          "translation": "растут"
         },
         {
           "text": " "
@@ -5216,7 +5258,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5266,7 +5308,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5309,7 +5351,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -5359,7 +5401,7 @@
         },
         {
           "text": "offer",
-          "translation": "предлагать"
+          "translation": "предлагают"
         },
         {
           "text": " "
@@ -5552,7 +5594,7 @@
         },
         {
           "text": "appear",
-          "translation": "появляться"
+          "translation": "появляются"
         },
         {
           "text": " "
@@ -5566,7 +5608,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5604,12 +5646,12 @@
       "translation": "покупать",
       "partOfSpeech": "verb",
       "transcription": "/ˈbaɪ/",
-      "example": "I need to buy it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: покупать.",
+      "example": "I need to buy bread today.",
+      "exampleTranslation": "Мне нужно купить хлеб сегодня.",
       "exampleTokens": [
         {
           "text": "I",
-          "translation": "я"
+          "translation": "мне"
         },
         {
           "text": " "
@@ -5623,21 +5665,21 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "buy",
-          "translation": "покупать"
+          "translation": "купить"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "bread",
+          "translation": "хлеб"
         },
         {
           "text": " "
@@ -5709,7 +5751,7 @@
         },
         {
           "text": "serve",
-          "translation": "обслуживать"
+          "translation": "обслуживаем"
         },
         {
           "text": " "
@@ -5773,14 +5815,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5859,7 +5901,7 @@
         },
         {
           "text": "build",
-          "translation": "строить"
+          "translation": "создаём"
         },
         {
           "text": " "
@@ -5895,7 +5937,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5966,14 +6008,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
         },
         {
           "text": "fall",
-          "translation": "падать"
+          "translation": "упасть"
         },
         {
           "text": " "
@@ -5987,7 +6029,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6023,7 +6065,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6080,7 +6122,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -6094,7 +6136,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6254,33 +6296,19 @@
       "translation": "проходить",
       "partOfSpeech": "verb",
       "transcription": "/ˈpæs/",
-      "example": "Can you pass me the salt?",
-      "exampleTranslation": "Можешь передать мне соль?",
+      "example": "We pass the station on our way home.",
+      "exampleTranslation": "Мы проходим мимо вокзала по пути домой.",
       "exampleTokens": [
         {
-          "text": "Can",
-          "translation": "могу"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "you",
-          "translation": "вы"
+          "text": "We",
+          "translation": "мы"
         },
         {
           "text": " "
         },
         {
           "text": "pass",
-          "translation": "проходить"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "me",
-          "translation": "мне"
+          "translation": "проходим мимо"
         },
         {
           "text": " "
@@ -6293,11 +6321,39 @@
           "text": " "
         },
         {
-          "text": "salt",
-          "translation": "соль"
+          "text": "station",
+          "translation": "вокзала"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "on",
+          "translation": "по"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "our",
+          "translation": "нашему"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "way",
+          "translation": "пути"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "home",
+          "translation": "домой"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["ceiling", "envelope", "cucumber"],
@@ -6311,8 +6367,8 @@
       "translation": "продавать",
       "partOfSpeech": "verb",
       "transcription": "/ˈsɛl/",
-      "example": "I need to sell it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: продавать.",
+      "example": "I want to sell my car.",
+      "exampleTranslation": "Я хочу продать свою машину.",
       "exampleTokens": [
         {
           "text": "I",
@@ -6322,36 +6378,36 @@
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
+          "text": "want",
+          "translation": "хочу"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "sell",
-          "translation": "продавать"
+          "translation": "продать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "my",
+          "translation": "свою"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "car",
+          "translation": "машину"
         },
         {
           "text": "."
@@ -6401,14 +6457,14 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
         },
         {
           "text": "light",
-          "translation": "свет"
+          "translation": "света"
         },
         {
           "text": "."
@@ -6487,14 +6543,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "return",
-          "translation": "возвращаться"
+          "translation": "вернуться"
         },
         {
           "text": " "
@@ -6508,7 +6564,7 @@
         },
         {
           "text": "on",
-          "translation": "на"
+          "translation": "в: день или дата"
         },
         {
           "text": " "
@@ -6537,7 +6593,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу / может"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6558,7 +6614,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6601,21 +6657,21 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "see",
-          "translation": "видеть"
+          "translation": "увидимся"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "вы"
+          "translation": "часть прощания «увидимся»"
         },
         {
           "text": " "
@@ -6696,26 +6752,26 @@
       "translation": "нести",
       "partOfSpeech": "verb",
       "transcription": "/ˈkæɹi/",
-      "example": "Can you help me carry?",
-      "exampleTranslation": "Вы можете помочь мне нести?",
+      "example": "Can you help me carry this bag?",
+      "exampleTranslation": "Можешь помочь мне нести эту сумку?",
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можешь"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "вы"
+          "translation": "ты"
         },
         {
           "text": " "
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
@@ -6730,6 +6786,20 @@
         {
           "text": "carry",
           "translation": "нести"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "эту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумку"
         },
         {
           "text": "?"
@@ -6751,7 +6821,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -6772,7 +6842,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6808,7 +6878,7 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
@@ -6922,14 +6992,14 @@
         },
         {
           "text": "each",
-          "translation": "друг друга"
+          "translation": "часть друг друга"
         },
         {
           "text": " "
         },
         {
           "text": "other",
-          "translation": "другой"
+          "translation": "часть сочетания «друг друга»"
         },
         {
           "text": "."
@@ -6951,7 +7021,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -6972,7 +7042,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6993,7 +7063,7 @@
         },
         {
           "text": "hard",
-          "translation": "трудный"
+          "translation": "сильно"
         },
         {
           "text": "."
@@ -7201,7 +7271,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -7451,7 +7521,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -7494,7 +7564,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -7646,33 +7716,26 @@
       "translation": "путешествовать",
       "partOfSpeech": "verb",
       "transcription": "/ˈtɹævəl/",
-      "example": "Can you help me travel?",
-      "exampleTranslation": "Вы можете помочь мне путешествовать?",
+      "example": "I like to travel by train.",
+      "exampleTranslation": "Я люблю путешествовать на поезде.",
       "exampleTokens": [
         {
-          "text": "Can",
-          "translation": "мочь"
+          "text": "I",
+          "translation": "я"
         },
         {
           "text": " "
         },
         {
-          "text": "you",
-          "translation": "вы"
+          "text": "like",
+          "translation": "люблю"
         },
         {
           "text": " "
         },
         {
-          "text": "help",
-          "translation": "помощь"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "me",
-          "translation": "мне"
+          "text": "to",
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -7682,7 +7745,21 @@
           "translation": "путешествовать"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "translation": "поезде"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["ceiling", "envelope", "cucumber"],
@@ -7708,7 +7785,7 @@
         },
         {
           "text": "visit",
-          "translation": "посещать"
+          "translation": "навещаем"
         },
         {
           "text": " "
@@ -7772,7 +7849,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7808,14 +7885,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива / предлог"
+          "translation": "часть сочетания «слушать»"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "меня"
+          "translation": "мне; меня"
         },
         {
           "text": ", "
@@ -7851,7 +7928,7 @@
         },
         {
           "text": "enjoy",
-          "translation": "наслаждаться"
+          "translation": "нравится"
         },
         {
           "text": " "
@@ -7865,14 +7942,14 @@
         },
         {
           "text": "by",
-          "translation": "у"
+          "translation": "у; рядом с"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7908,7 +7985,7 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
@@ -7922,7 +7999,7 @@
         },
         {
           "text": "on",
-          "translation": "на / в"
+          "translation": "в: день или дата"
         },
         {
           "text": " "
@@ -7965,7 +8042,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8079,7 +8156,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8107,7 +8184,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8193,7 +8270,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -8236,14 +8313,14 @@
         },
         {
           "text": "went",
-          "translation": "пошли"
+          "translation": "прошёл"
         },
         {
           "text": " "
         },
         {
           "text": "fast",
-          "translation": "быстрый"
+          "translation": "быстро"
         },
         {
           "text": "."
@@ -8308,7 +8385,7 @@
       "exampleTokens": [
         {
           "text": "There's",
-          "translation": "есть; сокращение there is"
+          "translation": "есть; сокращение"
         },
         {
           "text": " "
@@ -8344,28 +8421,28 @@
       "exampleTokens": [
         {
           "text": "Have",
-          "translation": "иметь"
+          "translation": "пожелание: хорошего дня"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "неопределённый артикль"
+          "translation": "часть пожелания"
         },
         {
           "text": " "
         },
         {
           "text": "good",
-          "translation": "хороший"
+          "translation": "хорошего"
         },
         {
           "text": " "
         },
         {
           "text": "day",
-          "translation": "день"
+          "translation": "дня"
         },
         {
           "text": "!"
@@ -8387,7 +8464,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8401,14 +8478,14 @@
         },
         {
           "text": "at",
-          "translation": "в"
+          "translation": "у"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8422,7 +8499,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -8458,7 +8535,7 @@
       "exampleTokens": [
         {
           "text": "What's",
-          "translation": "что; сокращение what is"
+          "translation": "что; сокращение"
         },
         {
           "text": " "
@@ -8494,7 +8571,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8515,7 +8592,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8536,7 +8613,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -8615,7 +8692,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8629,7 +8706,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -8672,7 +8749,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8693,7 +8770,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8722,7 +8799,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8736,14 +8813,14 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "at",
-          "translation": "в; у"
+          "translation": "в"
         },
         {
           "text": " "
@@ -8772,7 +8849,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8786,7 +8863,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -8807,7 +8884,7 @@
         },
         {
           "text": "poor",
-          "translation": "бедный"
+          "translation": "плохом"
         },
         {
           "text": " "
@@ -8893,7 +8970,7 @@
       "exampleTokens": [
         {
           "text": "She's",
-          "translation": "она; сокращение she is или she has"
+          "translation": "она; сокращение  или"
         },
         {
           "text": " "
@@ -9000,7 +9077,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9043,7 +9120,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -9130,14 +9207,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9158,14 +9235,14 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9201,7 +9278,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9229,7 +9306,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -9315,14 +9392,14 @@
       "exampleTokens": [
         {
           "text": "It's",
-          "translation": "это; сокращение it is"
+          "translation": "сокращение ; вспомогательный глагол перфекта"
         },
         {
           "text": " "
         },
         {
           "text": "been",
-          "translation": "форма причастия глагола быть"
+          "translation": "была: форма"
         },
         {
           "text": " "
@@ -9336,7 +9413,7 @@
         },
         {
           "text": "busy",
-          "translation": "занятый"
+          "translation": "насыщенная"
         },
         {
           "text": " "
@@ -9365,7 +9442,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9422,7 +9499,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9493,7 +9570,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -9529,7 +9606,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -9586,7 +9663,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9650,14 +9727,14 @@
         },
         {
           "text": "last",
-          "translation": "прошлый; последний"
+          "translation": "прошлой"
         },
         {
           "text": " "
         },
         {
           "text": "night",
-          "translation": "ночь"
+          "translation": "ночью"
         },
         {
           "text": "."
@@ -9686,21 +9763,21 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "starting",
-          "translation": "начальная; начинает"
+          "translation": "начальную"
         },
         {
           "text": " "
         },
         {
           "text": "point",
-          "translation": "точка, смысл"
+          "translation": "точку"
         },
         {
           "text": " "
@@ -9714,7 +9791,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9850,7 +9927,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9893,7 +9970,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9936,14 +10013,14 @@
         },
         {
           "text": "area",
-          "translation": "область"
+          "translation": "район"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9957,7 +10034,7 @@
         },
         {
           "text": "with",
-          "translation": "с"
+          "translation": "среди"
         },
         {
           "text": " "
@@ -10057,7 +10134,7 @@
         },
         {
           "text": "story",
-          "translation": "история"
+          "translation": "историю"
         },
         {
           "text": "."
@@ -10086,7 +10163,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -10129,28 +10206,28 @@
       "exampleTokens": [
         {
           "text": "See",
-          "translation": "видеть"
+          "translation": "увидимся:"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть увидимся"
         },
         {
           "text": " "
         },
         {
           "text": "next",
-          "translation": "следующий"
+          "translation": "в следующем"
         },
         {
           "text": " "
         },
         {
           "text": "month",
-          "translation": "месяц"
+          "translation": "месяце"
         },
         {
           "text": "."
@@ -10186,28 +10263,28 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "неопределённый артикль"
+          "translation": "часть сочетания «много»"
         },
         {
           "text": " "
         },
         {
           "text": "lot",
-          "translation": "многое"
+          "translation": "многому"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -10243,14 +10320,14 @@
         },
         {
           "text": "has",
-          "translation": "имеет"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -10264,7 +10341,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -10307,7 +10384,7 @@
         },
         {
           "text": "is",
-          "translation": "глагол-связка: является"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -10350,7 +10427,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -10387,7 +10464,7 @@
         },
         {
           "text": "has",
-          "translation": "имеет"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -10537,7 +10614,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -10630,7 +10707,7 @@
       "exampleTokens": [
         {
           "text": "What",
-          "translation": "что"
+          "translation": "какой"
         },
         {
           "text": " "
@@ -10644,7 +10721,7 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "часть вопроса о виде чего-либо"
         },
         {
           "text": " "
@@ -10658,7 +10735,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -10744,7 +10821,7 @@
         },
         {
           "text": "has",
-          "translation": "имеет"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -10787,7 +10864,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -10951,7 +11028,7 @@
         },
         {
           "text": "power",
-          "translation": "сила, власть"
+          "translation": "сила"
         },
         {
           "text": "."
@@ -10973,7 +11050,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -10987,7 +11064,7 @@
         },
         {
           "text": "takes",
-          "translation": "по контексту"
+          "translation": "занимает"
         },
         {
           "text": " "
@@ -11023,7 +11100,7 @@
       "exampleTokens": [
         {
           "text": "Let's",
-          "translation": "давайте; сокращение let us"
+          "translation": "давайте; сокращение"
         },
         {
           "text": " "
@@ -11112,11 +11189,11 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈɛnd/",
       "example": "We're near the end.",
-      "exampleTranslation": "Мы почти у конца.",
+      "exampleTranslation": "Мы приближаемся к концу.",
       "exampleTokens": [
         {
           "text": "We're",
-          "translation": "мы; сокращение we are"
+          "translation": "мы; сокращение"
         },
         {
           "text": " "
@@ -11130,14 +11207,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "end",
-          "translation": "конец"
+          "translation": "концу"
         },
         {
           "text": "."
@@ -11173,14 +11250,14 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11194,7 +11271,7 @@
         },
         {
           "text": "has",
-          "translation": "имеет"
+          "translation": "имеет; здесь: у каждого есть"
         },
         {
           "text": " "
@@ -11251,7 +11328,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11294,7 +11371,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -11366,7 +11443,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11401,7 +11478,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11430,7 +11507,7 @@
       "exampleTokens": [
         {
           "text": "What's",
-          "translation": "что; сокращение what is"
+          "translation": "что; сокращение"
         },
         {
           "text": " "
@@ -11566,7 +11643,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -11602,7 +11679,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11616,7 +11693,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -11660,14 +11737,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "good",
-          "translation": "хороший"
+          "translation": "полезны"
         },
         {
           "text": " "
@@ -11781,7 +11858,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11795,7 +11872,7 @@
         },
         {
           "text": "drive",
-          "translation": "водить машину"
+          "translation": "поездки за рулём"
         },
         {
           "text": "."
@@ -11856,7 +11933,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈfeɪs/",
       "example": "Wash your face.",
-      "exampleTranslation": "Умой лицо.",
+      "exampleTranslation": "Умойся.",
       "exampleTokens": [
         {
           "text": "Wash",
@@ -11896,7 +11973,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -11917,7 +11994,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -11946,21 +12023,21 @@
       "exampleTokens": [
         {
           "text": "He's",
-          "translation": "он; сокращение he is или he has"
+          "translation": "он; сокращение  или"
         },
         {
           "text": " "
         },
         {
           "text": "at",
-          "translation": "в; у"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12003,7 +12080,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12039,7 +12116,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -12068,7 +12145,7 @@
       "exampleTokens": [
         {
           "text": "She's",
-          "translation": "она; сокращение she is или she has"
+          "translation": "она; сокращение  или"
         },
         {
           "text": " "
@@ -12240,7 +12317,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -12261,14 +12338,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12297,7 +12374,7 @@
       "exampleTokens": [
         {
           "text": "I'm",
-          "translation": "я; сокращение I am"
+          "translation": "я; сокращение"
         },
         {
           "text": " "
@@ -12318,7 +12395,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12390,14 +12467,14 @@
       "exampleTokens": [
         {
           "text": "What's",
-          "translation": "что; сокращение what is"
+          "translation": "что; сокращение"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12469,7 +12546,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12483,14 +12560,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
         },
         {
           "text": "reading",
-          "translation": "чтение"
+          "translation": "читает"
         },
         {
           "text": " "
@@ -12547,7 +12624,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -12712,7 +12789,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12726,14 +12803,14 @@
         },
         {
           "text": "hit",
-          "translation": "ударять"
+          "translation": "ударил"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12869,7 +12946,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12883,7 +12960,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -12904,7 +12981,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -12940,7 +13017,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -12976,7 +13053,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -12997,7 +13074,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -13011,7 +13088,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13040,7 +13117,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13061,7 +13138,7 @@
         },
         {
           "text": "takes",
-          "translation": "по контексту"
+          "translation": "занимает"
         },
         {
           "text": " "
@@ -13147,14 +13224,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13190,7 +13267,7 @@
         },
         {
           "text": "has",
-          "translation": "имеет"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -13211,14 +13288,14 @@
         },
         {
           "text": "sense",
-          "translation": "чувство, смысл"
+          "translation": "чувство"
         },
         {
           "text": " "
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
@@ -13247,7 +13324,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13275,7 +13352,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13440,7 +13517,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -13468,7 +13545,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13504,7 +13581,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -13554,7 +13631,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -13585,26 +13662,12 @@
       "translation": "солнце",
       "partOfSpeech": "noun",
       "transcription": "/ˈsʌn/",
-      "example": "We talk about sun.",
-      "exampleTranslation": "Мы говорим про солнце.",
+      "example": "The sun is shining.",
+      "exampleTranslation": "Солнце светит.",
       "exampleTokens": [
         {
-          "text": "We",
-          "translation": "мы"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "talk",
-          "translation": "говорим"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "about",
-          "translation": "о"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
@@ -13612,6 +13675,20 @@
         {
           "text": "sun",
           "translation": "солнце"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "вспомогательный глагол: действие сейчас"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shining",
+          "translation": "светит"
         },
         {
           "text": "."
@@ -13676,7 +13753,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13690,7 +13767,7 @@
         },
         {
           "text": "is",
-          "translation": "глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -13726,14 +13803,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13757,26 +13834,12 @@
       "translation": "дорога",
       "partOfSpeech": "noun",
       "transcription": "/ˈɹoʊd/",
-      "example": "I need a road.",
-      "exampleTranslation": "Мне нужна дорога.",
+      "example": "This road leads to the village.",
+      "exampleTranslation": "Эта дорога ведёт в деревню.",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "need",
-          "translation": "нужен"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "a",
-          "translation": "неопределённый артикль"
+          "text": "This",
+          "translation": "эта"
         },
         {
           "text": " "
@@ -13784,6 +13847,34 @@
         {
           "text": "road",
           "translation": "дорога"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "leads",
+          "translation": "ведёт"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "village",
+          "translation": "деревню"
         },
         {
           "text": "."
@@ -13805,7 +13896,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -13826,7 +13917,7 @@
         },
         {
           "text": "at",
-          "translation": "в; у"
+          "translation": "в"
         },
         {
           "text": " "
@@ -13855,7 +13946,7 @@
       "exampleTokens": [
         {
           "text": "There's",
-          "translation": "есть; сокращение there is"
+          "translation": "есть; сокращение"
         },
         {
           "text": " "
@@ -13893,26 +13984,26 @@
       "translation": "цена",
       "partOfSpeech": "noun",
       "transcription": "/ˈpɹaɪs/",
-      "example": "I need a price.",
-      "exampleTranslation": "Мне нужна цена.",
+      "example": "What is the price of this bag?",
+      "exampleTranslation": "Какова цена этой сумки?",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "What",
+          "translation": "какова"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужен"
+          "text": "is",
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
-          "text": "a",
-          "translation": "неопределённый артикль"
+          "text": "the",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
@@ -13922,7 +14013,28 @@
           "translation": "цена"
         },
         {
-          "text": "."
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "связывает цену с предметом"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумки"
+        },
+        {
+          "text": "?"
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -13948,7 +14060,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -13962,7 +14074,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -14069,7 +14181,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -14119,7 +14231,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -14169,7 +14281,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -14250,33 +14362,40 @@
       "translation": "интернет",
       "partOfSpeech": "noun",
       "transcription": "/ˈɪntɚˌnɛt/",
-      "example": "We talk about internet.",
-      "exampleTranslation": "Мы говорим про интернет.",
+      "example": "The internet connection is slow.",
+      "exampleTranslation": "Интернет-соединение медленное.",
       "exampleTokens": [
         {
-          "text": "We",
-          "translation": "мы"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "talk",
-          "translation": "говорим"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "about",
-          "translation": "о / про"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "internet",
-          "translation": "интернет"
+          "translation": "интернет: часть названия соединения"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "connection",
+          "translation": "соединение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "связка; в русском опускается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "slow",
+          "translation": "медленное"
         },
         {
           "text": "."
@@ -14398,7 +14517,7 @@
         },
         {
           "text": "at",
-          "translation": "в; у"
+          "translation": "на"
         },
         {
           "text": " "
@@ -14434,7 +14553,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -14548,7 +14667,7 @@
       "exampleTokens": [
         {
           "text": "Let's",
-          "translation": "давайте; сокращение let us"
+          "translation": "давайте; сокращение"
         },
         {
           "text": " "
@@ -14648,7 +14767,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -14680,7 +14799,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈɪŋɡlɪʃ/",
       "example": "We talk about English.",
-      "exampleTranslation": "Мы говорим про английского язык.",
+      "exampleTranslation": "Мы говорим об английском языке.",
       "exampleTokens": [
         {
           "text": "We",
@@ -14848,7 +14967,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -15027,14 +15146,14 @@
       "exampleTokens": [
         {
           "text": "There",
-          "translation": "там"
+          "translation": "часть оборота наличия: есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -15141,7 +15260,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -15162,7 +15281,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -15198,7 +15317,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -15219,7 +15338,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -15348,7 +15467,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -15391,7 +15510,7 @@
         },
         {
           "text": "in",
-          "translation": "в"
+          "translation": "на"
         },
         {
           "text": " "
@@ -15491,14 +15610,14 @@
         },
         {
           "text": "carried",
-          "translation": "нёс; держал"
+          "translation": "держала"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -15526,7 +15645,7 @@
         },
         {
           "text": "arm",
-          "translation": "рука"
+          "translation": "руке"
         },
         {
           "text": "."
@@ -15555,7 +15674,7 @@
         },
         {
           "text": "cut",
-          "translation": "резать"
+          "translation": "порезал"
         },
         {
           "text": " "
@@ -15605,7 +15724,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -15619,7 +15738,7 @@
         },
         {
           "text": "repaired",
-          "translation": "отремонтировал; восстановил"
+          "translation": "восстановил"
         },
         {
           "text": " "
@@ -15712,14 +15831,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -15748,7 +15867,7 @@
       "exampleTokens": [
         {
           "text": "Take",
-          "translation": "взять"
+          "translation": "принимай"
         },
         {
           "text": " "
@@ -15805,7 +15924,7 @@
         },
         {
           "text": "have",
-          "translation": "едим: здесь — о приёме пищи"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -15819,7 +15938,7 @@
         },
         {
           "text": "at",
-          "translation": "в: о времени"
+          "translation": "в"
         },
         {
           "text": " "
@@ -15855,7 +15974,7 @@
         },
         {
           "text": "have",
-          "translation": "имеем / у нас есть"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -15884,7 +16003,7 @@
       "exampleTokens": [
         {
           "text": "What's",
-          "translation": "что; сокращение what is"
+          "translation": "что; сокращение"
         },
         {
           "text": " "
@@ -15934,7 +16053,7 @@
         },
         {
           "text": "like",
-          "translation": "хотел"
+          "translation": "хотелось бы"
         },
         {
           "text": " "
@@ -16070,7 +16189,7 @@
         },
         {
           "text": "is",
-          "translation": "глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -16224,7 +16343,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈfɹut/",
       "example": "We talk about fruit.",
-      "exampleTranslation": "Мы говорим про фрукт.",
+      "exampleTranslation": "Мы говорим о фруктах.",
       "exampleTokens": [
         {
           "text": "We",
@@ -16249,7 +16368,7 @@
         },
         {
           "text": "fruit",
-          "translation": "фрукт"
+          "translation": "фрукты"
         },
         {
           "text": "."
@@ -16371,7 +16490,7 @@
         },
         {
           "text": "is",
-          "translation": "глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -16586,7 +16705,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -16643,7 +16762,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -16679,7 +16798,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -16707,7 +16826,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -16743,14 +16862,14 @@
         },
         {
           "text": "caught",
-          "translation": "форма прошедшего времени"
+          "translation": "успели на"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -16793,7 +16912,7 @@
       "exampleTokens": [
         {
           "text": "It's",
-          "translation": "это; сокращение it is"
+          "translation": "это; сокращение"
         },
         {
           "text": " "
@@ -16843,7 +16962,7 @@
         },
         {
           "text": "did",
-          "translation": "сделал"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -16921,7 +17040,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -16957,7 +17076,7 @@
         },
         {
           "text": "has",
-          "translation": "имеет"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -17000,7 +17119,7 @@
       "exampleTokens": [
         {
           "text": "Let's",
-          "translation": "давайте; сокращение let us"
+          "translation": "давайте; сокращение"
         },
         {
           "text": " "
@@ -17014,7 +17133,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -17107,7 +17226,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -17150,7 +17269,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -17164,7 +17283,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -17207,7 +17326,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -17371,7 +17490,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -17392,7 +17511,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -17428,7 +17547,7 @@
         },
         {
           "text": "took",
-          "translation": "взяли; сели на транспорт"
+          "translation": "полетели: лететь рейсом"
         },
         {
           "text": " "
@@ -17485,7 +17604,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -17516,40 +17635,33 @@
       "translation": "важный",
       "partOfSpeech": "adjective",
       "transcription": "/ˌɪmˈpɔɹtənt/",
-      "example": "The new employee is important.",
-      "exampleTranslation": "Новый сотрудник — важный.",
+      "example": "Your safety is important.",
+      "exampleTranslation": "Твоя безопасность важна.",
       "exampleTokens": [
         {
-          "text": "The",
-          "translation": "определённый артикль"
+          "text": "Your",
+          "translation": "твоя"
         },
         {
           "text": " "
         },
         {
-          "text": "new",
-          "translation": "новый"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "employee",
-          "translation": "сотрудник"
+          "text": "safety",
+          "translation": "безопасность"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "important",
-          "translation": "важный"
+          "translation": "важна"
         },
         {
           "text": "."
@@ -17571,14 +17683,14 @@
       "exampleTokens": [
         {
           "text": "There",
-          "translation": "там"
+          "translation": "часть оборота наличия: есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -17692,7 +17804,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -17706,14 +17818,14 @@
         },
         {
           "text": "because",
-          "translation": "потому что"
+          "translation": "из-за"
         },
         {
           "text": " "
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "часть сочетания «из-за»"
         },
         {
           "text": " "
@@ -17756,14 +17868,14 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -17799,7 +17911,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -17820,14 +17932,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
@@ -17956,7 +18068,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -17999,7 +18111,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18028,7 +18140,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18042,7 +18154,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -18113,7 +18225,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18185,7 +18297,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18206,7 +18318,7 @@
         },
         {
           "text": "was",
-          "translation": "был; была"
+          "translation": "был; была; было"
         },
         {
           "text": " "
@@ -18249,7 +18361,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18263,7 +18375,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18313,7 +18425,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18342,7 +18454,7 @@
       "exampleTokens": [
         {
           "text": "It's",
-          "translation": "это; сокращение it is"
+          "translation": "это; сокращение"
         },
         {
           "text": " "
@@ -18385,7 +18497,7 @@
       "exampleTokens": [
         {
           "text": "It's",
-          "translation": "это; сокращение it is"
+          "translation": "это; сокращение"
         },
         {
           "text": " "
@@ -18421,7 +18533,7 @@
       "exampleTokens": [
         {
           "text": "That's",
-          "translation": "это; сокращение that is"
+          "translation": "это; сокращение"
         },
         {
           "text": " "
@@ -18464,7 +18576,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18478,7 +18590,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18528,7 +18640,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18557,7 +18669,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18571,7 +18683,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18600,7 +18712,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -18614,7 +18726,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18643,7 +18755,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18686,7 +18798,7 @@
       "exampleTokens": [
         {
           "text": "I'm",
-          "translation": "я; сокращение I am"
+          "translation": "я; сокращение"
         },
         {
           "text": " "
@@ -18729,7 +18841,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18750,7 +18862,7 @@
         },
         {
           "text": "to",
-          "translation": "к; чтобы"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -18793,7 +18905,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18836,7 +18948,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -18958,7 +19070,7 @@
       "exampleTokens": [
         {
           "text": "I'm",
-          "translation": "я; сокращение I am"
+          "translation": "я; сокращение"
         },
         {
           "text": " "
@@ -19008,7 +19120,7 @@
         },
         {
           "text": "am",
-          "translation": "глагол-связка с I"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19029,7 +19141,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -19058,7 +19170,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19101,7 +19213,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19144,21 +19256,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "afraid",
-          "translation": "испуганный"
+          "translation": "боится"
         },
         {
           "text": " "
         },
         {
           "text": "of",
-          "translation": "из"
+          "translation": "указывает, чего боятся"
         },
         {
           "text": " "
@@ -19194,7 +19306,7 @@
         },
         {
           "text": "is",
-          "translation": "глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19237,7 +19349,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -19251,7 +19363,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19294,7 +19406,7 @@
         },
         {
           "text": "was",
-          "translation": "был; была"
+          "translation": "был; была; было"
         },
         {
           "text": " "
@@ -19308,7 +19420,7 @@
         },
         {
           "text": "to",
-          "translation": "к; чтобы"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -19358,7 +19470,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19451,7 +19563,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -19472,7 +19584,7 @@
         },
         {
           "text": "poor",
-          "translation": "бедный"
+          "translation": "бедным"
         },
         {
           "text": " "
@@ -19515,7 +19627,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19539,26 +19651,33 @@
       "translation": "дорогой",
       "partOfSpeech": "adjective",
       "transcription": "/ɪkˈspɛnsɪv/",
-      "example": "Is it expensive?",
-      "exampleTranslation": "Это дорогой?",
+      "example": "Is this bag expensive?",
+      "exampleTranslation": "Эта сумка дорогая?",
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "this",
+          "translation": "эта"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумка"
         },
         {
           "text": " "
         },
         {
           "text": "expensive",
-          "translation": "дорогой"
+          "translation": "дорогая"
         },
         {
           "text": "?"
@@ -19580,7 +19699,7 @@
       "exampleTokens": [
         {
           "text": "It's",
-          "translation": "это; сокращение it is"
+          "translation": "это; сокращение"
         },
         {
           "text": " "
@@ -19630,7 +19749,7 @@
         },
         {
           "text": "can",
-          "translation": "мочь"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -19666,7 +19785,7 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19687,7 +19806,7 @@
         },
         {
           "text": "to",
-          "translation": "к; чтобы"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -19723,14 +19842,14 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19744,7 +19863,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -19780,7 +19899,7 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19823,7 +19942,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -19873,7 +19992,7 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19923,7 +20042,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -19937,7 +20056,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -19966,7 +20085,7 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
@@ -20023,7 +20142,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -20037,7 +20156,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20051,7 +20170,7 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
@@ -20087,7 +20206,7 @@
       "exampleTokens": [
         {
           "text": "Let's",
-          "translation": "давайте; сокращение let us"
+          "translation": "давайте; сокращение"
         },
         {
           "text": " "
@@ -20165,21 +20284,21 @@
         },
         {
           "text": "by",
-          "translation": "у"
+          "translation": "у; рядом с"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "gate",
-          "translation": "выход на посадку"
+          "translation": "ворот"
         },
         {
           "text": "."
@@ -20201,7 +20320,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -20215,7 +20334,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20251,7 +20370,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -20265,7 +20384,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20301,7 +20420,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -20315,7 +20434,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20336,7 +20455,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -20372,14 +20491,14 @@
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -20564,7 +20683,7 @@
         },
         {
           "text": "safe",
-          "translation": "безопасный"
+          "translation": "в безопасности"
         },
         {
           "text": "."
@@ -20593,7 +20712,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -20650,7 +20769,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20707,7 +20826,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20721,7 +20840,7 @@
         },
         {
           "text": "with",
-          "translation": "с"
+          "translation": "среди"
         },
         {
           "text": " "
@@ -20757,7 +20876,7 @@
         },
         {
           "text": "am",
-          "translation": "форма глагола быть с I"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20800,7 +20919,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -20814,7 +20933,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -20957,7 +21076,7 @@
         },
         {
           "text": "me",
-          "translation": "меня"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -21164,7 +21283,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -21214,14 +21333,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": "."
@@ -21250,7 +21369,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -21293,14 +21412,14 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -21350,7 +21469,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие сейчас"
         },
         {
           "text": " "
@@ -21371,14 +21490,14 @@
         },
         {
           "text": "waiting",
-          "translation": "ждёт"
+          "translation": "ждёте"
         },
         {
           "text": " "
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "часть ждать"
         },
         {
           "text": " "
@@ -21421,7 +21540,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "вспомогательный глагол перфекта"
         },
         {
           "text": " "
@@ -21442,7 +21561,7 @@
         },
         {
           "text": "my",
-          "translation": "мой"
+          "translation": "моё"
         },
         {
           "text": " "
@@ -21600,28 +21719,28 @@
       "exampleTokens": [
         {
           "text": "We",
-          "translation": "мы"
+          "translation": "нам"
         },
         {
           "text": " "
         },
         {
           "text": "need",
-          "translation": "нужен"
+          "translation": "нужно"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "leave",
-          "translation": "уезжать"
+          "translation": "уйти"
         },
         {
           "text": " "
@@ -21678,7 +21797,7 @@
         },
         {
           "text": "then",
-          "translation": "тогда"
+          "translation": "затем"
         },
         {
           "text": " "
@@ -21714,14 +21833,14 @@
       "exampleTokens": [
         {
           "text": "See",
-          "translation": "видеть"
+          "translation": "увидимся:"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть увидимся"
         },
         {
           "text": " "
@@ -21757,7 +21876,7 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
@@ -21807,7 +21926,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "вспомогательный глагол перфекта: действие связано с результатом"
         },
         {
           "text": " "
@@ -21900,7 +22019,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -21957,7 +22076,7 @@
         },
         {
           "text": "English",
-          "translation": "английский язык"
+          "translation": "по-английски"
         },
         {
           "text": " "
@@ -21986,7 +22105,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22064,7 +22183,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22136,7 +22255,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22172,7 +22291,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22186,7 +22305,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22229,7 +22348,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22243,7 +22362,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22257,7 +22376,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22286,28 +22405,28 @@
       "exampleTokens": [
         {
           "text": "Meet",
-          "translation": "встретиться"
+          "translation": "встреть"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "at",
-          "translation": "у, в"
+          "translation": "у"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22350,14 +22469,14 @@
         },
         {
           "text": "to",
-          "translation": "к, в"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22400,7 +22519,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22450,7 +22569,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22614,7 +22733,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22657,7 +22776,7 @@
         },
         {
           "text": "like",
-          "translation": "нравиться"
+          "translation": "хотите"
         },
         {
           "text": " "
@@ -22678,7 +22797,7 @@
         },
         {
           "text": "of",
-          "translation": "из, принадлежность"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
@@ -22721,14 +22840,14 @@
         },
         {
           "text": "by",
-          "translation": "рядом, посредством"
+          "translation": "у; рядом с"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22757,7 +22876,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22771,7 +22890,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22785,7 +22904,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22828,7 +22947,7 @@
         },
         {
           "text": "flew",
-          "translation": "форма прошедшего времени"
+          "translation": "пролетел"
         },
         {
           "text": " "
@@ -22842,7 +22961,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22871,7 +22990,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -22885,7 +23004,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -22963,14 +23082,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "books",
-          "translation": "по контексту"
+          "translation": "книги"
         },
         {
           "text": "."
@@ -23013,7 +23132,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -23042,7 +23161,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -23056,21 +23175,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "across",
-          "translation": "через"
+          "translation": "через дорогу от"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -23120,7 +23239,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -23163,7 +23282,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -23227,7 +23346,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -23377,7 +23496,7 @@
         },
         {
           "text": "am",
-          "translation": "форма глагола быть с I"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -23455,7 +23574,7 @@
         },
         {
           "text": "was",
-          "translation": "был; была"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -23491,7 +23610,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -23669,14 +23788,14 @@
         },
         {
           "text": "it",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "was",
-          "translation": "был; была"
+          "translation": "был; была; было"
         },
         {
           "text": " "
@@ -23705,14 +23824,14 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "was",
-          "translation": "был; была"
+          "translation": "был; была; было"
         },
         {
           "text": " "
@@ -23783,7 +23902,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -23804,7 +23923,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": "."
@@ -23840,7 +23959,7 @@
         },
         {
           "text": "as",
-          "translation": "как"
+          "translation": "в качестве"
         },
         {
           "text": " "
@@ -23883,7 +24002,7 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
@@ -23904,14 +24023,14 @@
         },
         {
           "text": "it",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "rains",
-          "translation": "короткий"
+          "translation": "идёт дождь"
         },
         {
           "text": "."
@@ -24040,7 +24159,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -24076,14 +24195,14 @@
         },
         {
           "text": "can",
-          "translation": "мочь"
+          "translation": "могу"
         },
         {
           "text": " "
         },
         {
           "text": "swim",
-          "translation": "последний"
+          "translation": "плаваем"
         },
         {
           "text": "."
@@ -24119,14 +24238,14 @@
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": ", "
@@ -24162,7 +24281,7 @@
         },
         {
           "text": "will",
-          "translation": "будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
@@ -24212,14 +24331,14 @@
         },
         {
           "text": "would",
-          "translation": "бы"
+          "translation": "бы: вежливая просьба"
         },
         {
           "text": " "
         },
         {
           "text": "like",
-          "translation": "нравиться"
+          "translation": "хотел"
         },
         {
           "text": " "
@@ -24269,7 +24388,7 @@
         },
         {
           "text": "get",
-          "translation": "получать"
+          "translation": "получить; отдохнуть"
         },
         {
           "text": " "
@@ -24283,7 +24402,7 @@
         },
         {
           "text": "rest",
-          "translation": "занятие"
+          "translation": "отдыхаю"
         },
         {
           "text": "."
@@ -24362,7 +24481,7 @@
       "exampleTokens": [
         {
           "text": "May",
-          "translation": "можно, возможно"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -24383,7 +24502,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -24498,14 +24617,14 @@
         },
         {
           "text": "thank",
-          "translation": "благодарю"
+          "translation": "спасибо"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть выражения благодарности"
         },
         {
           "text": "."
@@ -24541,7 +24660,7 @@
         },
         {
           "text": "to",
-          "translation": "предлог: кому"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
@@ -24584,21 +24703,21 @@
         },
         {
           "text": "how",
-          "translation": "как"
+          "translation": "часть приветствия «как дела»"
         },
         {
           "text": " "
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "часть приветствия «как дела»"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть приветствия «как дела»"
         },
         {
           "text": "?"
@@ -24634,7 +24753,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -24670,7 +24789,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -24706,14 +24825,14 @@
       "exampleTokens": [
         {
           "text": "There",
-          "translation": "там"
+          "translation": "часть оборота наличия: есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -24741,7 +24860,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -24813,7 +24932,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -24863,7 +24982,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -24877,7 +24996,7 @@
         },
         {
           "text": "leaves",
-          "translation": "листья; уходит"
+          "translation": "отправляется"
         },
         {
           "text": " "
@@ -24913,14 +25032,14 @@
       "exampleTokens": [
         {
           "text": "There",
-          "translation": "там"
+          "translation": "часть оборота наличия: есть; имеется"
         },
         {
           "text": " "
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "

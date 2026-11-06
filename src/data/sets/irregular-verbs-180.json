@@ -23,7 +23,7 @@
         },
         {
           "text": "be",
-          "translation": "быть"
+          "translation": "будь"
         },
         {
           "text": " "
@@ -68,7 +68,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -217,7 +217,7 @@
         },
         {
           "text": "bet",
-          "translation": "держать пари"
+          "translation": "ставьте; держите пари"
         },
         {
           "text": " "
@@ -252,7 +252,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом; здесь: чтобы"
         },
         {
           "text": " "
@@ -304,7 +304,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "чтобы"
         },
         {
           "text": " "
@@ -318,7 +318,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -384,14 +384,14 @@
         },
         {
           "text": "may",
-          "translation": "можно"
+          "translation": "может: возможность"
         },
         {
           "text": " "
         },
         {
           "text": "bite",
-          "translation": "кусать"
+          "translation": "укусить"
         },
         {
           "text": "."
@@ -436,7 +436,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -450,14 +450,14 @@
         },
         {
           "text": "a",
-          "translation": "неопределённый артикль"
+          "translation": "часть сочетания «много»"
         },
         {
           "text": " "
         },
         {
           "text": "lot",
-          "translation": "много"
+          "translation": "сильно"
         },
         {
           "text": "."
@@ -502,7 +502,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -540,7 +540,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -561,7 +561,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -710,7 +710,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -762,7 +762,7 @@
         },
         {
           "text": "build",
-          "translation": "строить"
+          "translation": "создаём"
         },
         {
           "text": " "
@@ -800,7 +800,7 @@
         },
         {
           "text": "leaves",
-          "translation": "листья; уходит"
+          "translation": "листья"
         },
         {
           "text": " "
@@ -838,7 +838,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -852,7 +852,7 @@
         },
         {
           "text": "may",
-          "translation": "можно"
+          "translation": "может: возможность"
         },
         {
           "text": " "
@@ -873,7 +873,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -899,12 +899,12 @@
       "translation": "покупать",
       "partOfSpeech": "verb",
       "transcription": "/ˈbaɪ/",
-      "example": "I need to buy it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: покупать.",
+      "example": "I need to buy bread today.",
+      "exampleTranslation": "Мне нужно купить хлеб сегодня.",
       "exampleTokens": [
         {
           "text": "I",
-          "translation": "я"
+          "translation": "мне"
         },
         {
           "text": " "
@@ -918,21 +918,21 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "buy",
-          "translation": "покупать"
+          "translation": "купить"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "bread",
+          "translation": "хлеб"
         },
         {
           "text": " "
@@ -958,40 +958,61 @@
       "translation": "бросать",
       "partOfSpeech": "verb",
       "transcription": "/ˈkæst/",
-      "example": "The trees cast long shadows.",
-      "exampleTranslation": "Деревья отбрасывают длинные тени.",
+      "example": "They cast their fishing lines into the lake.",
+      "exampleTranslation": "Они забрасывают удочки в озеро.",
       "exampleTokens": [
         {
-          "text": "The",
-          "translation": "определённый артикль"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "trees",
-          "translation": "деревья"
+          "text": "They",
+          "translation": "они"
         },
         {
           "text": " "
         },
         {
           "text": "cast",
-          "translation": "бросать"
+          "translation": "забрасывают"
         },
         {
           "text": " "
         },
         {
-          "text": "long",
-          "translation": "длинный"
+          "text": "their",
+          "translation": "свои"
         },
         {
           "text": " "
         },
         {
-          "text": "shadows",
-          "translation": "тени"
+          "text": "fishing",
+          "translation": "рыболовные"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lines",
+          "translation": "лески; здесь: удочки"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "into",
+          "translation": "в"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lake",
+          "translation": "озеро"
         },
         {
           "text": "."
@@ -1015,7 +1036,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -1036,7 +1057,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1074,7 +1095,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -1147,7 +1168,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "за"
         },
         {
           "text": " "
@@ -1223,21 +1244,21 @@
       "exampleTokens": [
         {
           "text": "How",
-          "translation": "как"
+          "translation": "часть вопроса «сколько»"
         },
         {
           "text": " "
         },
         {
           "text": "much",
-          "translation": "много"
+          "translation": "часть вопроса «сколько»"
         },
         {
           "text": " "
         },
         {
           "text": "does",
-          "translation": "делает"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -1310,21 +1331,21 @@
         },
         {
           "text": "creep",
-          "translation": "ползти"
+          "translation": "ползёт"
         },
         {
           "text": " "
         },
         {
           "text": "across",
-          "translation": "через"
+          "translation": "по"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1362,7 +1383,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1421,7 +1442,7 @@
         },
         {
           "text": "deal",
-          "translation": "иметь дело"
+          "translation": "разобраться: разобраться с"
         },
         {
           "text": " "
@@ -1487,7 +1508,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -1522,7 +1543,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1560,7 +1581,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "сделай"
         },
         {
           "text": " "
@@ -1581,7 +1602,7 @@
         },
         {
           "text": "first",
-          "translation": "первый"
+          "translation": "сначала"
         },
         {
           "text": "."
@@ -1605,7 +1626,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -1652,8 +1673,8 @@
       "translation": "мечтать",
       "partOfSpeech": "verb",
       "transcription": "/ˈdɹim/",
-      "example": "I often dream about the sea.",
-      "exampleTranslation": "Мне часто снится море.",
+      "example": "I dream of travelling around the world.",
+      "exampleTranslation": "Я мечтаю путешествовать по всему миру.",
       "exampleTokens": [
         {
           "text": "I",
@@ -1663,22 +1684,29 @@
           "text": " "
         },
         {
-          "text": "often",
-          "translation": "часто"
-        },
-        {
-          "text": " "
-        },
-        {
           "text": "dream",
-          "translation": "мечтать"
+          "translation": "мечтаю"
         },
         {
           "text": " "
         },
         {
-          "text": "about",
-          "translation": "о"
+          "text": "of",
+          "translation": "о; указывает предмет мечтаний"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "travelling",
+          "translation": "путешествовать"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "around",
+          "translation": "по всему"
         },
         {
           "text": " "
@@ -1691,8 +1719,8 @@
           "text": " "
         },
         {
-          "text": "sea",
-          "translation": "морем"
+          "text": "world",
+          "translation": "миру"
         },
         {
           "text": "."
@@ -1761,7 +1789,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -1872,14 +1900,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
         },
         {
           "text": "fall",
-          "translation": "падать"
+          "translation": "упасть"
         },
         {
           "text": " "
@@ -1893,7 +1921,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1938,7 +1966,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1983,7 +2011,7 @@
         },
         {
           "text": "much",
-          "translation": "много"
+          "translation": "гораздо"
         },
         {
           "text": " "
@@ -2035,7 +2063,7 @@
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "за"
         },
         {
           "text": " "
@@ -2132,14 +2160,14 @@
         },
         {
           "text": "had",
-          "translation": "форма прошедшего времени"
+          "translation": "пришлось: пришлось"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "часть пришлось"
         },
         {
           "text": " "
@@ -2184,7 +2212,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -2226,7 +2254,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2309,7 +2337,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2330,7 +2358,7 @@
         },
         {
           "text": "smoking",
-          "translation": "курение"
+          "translation": "курить"
         },
         {
           "text": " "
@@ -2413,7 +2441,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -2517,7 +2545,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -2562,7 +2590,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2621,14 +2649,14 @@
         },
         {
           "text": "give",
-          "translation": "давать"
+          "translation": "дайте"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -2680,7 +2708,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
@@ -2694,7 +2722,7 @@
         },
         {
           "text": "by",
-          "translation": "у"
+          "translation": "на"
         },
         {
           "text": " "
@@ -2784,7 +2812,7 @@
         },
         {
           "text": "grow",
-          "translation": "расти"
+          "translation": "растут"
         },
         {
           "text": " "
@@ -2843,14 +2871,14 @@
         },
         {
           "text": "by",
-          "translation": "у"
+          "translation": "у; рядом с"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2888,7 +2916,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "есть; имеется"
         },
         {
           "text": " "
@@ -2926,7 +2954,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -2947,7 +2975,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2992,7 +3020,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -3013,7 +3041,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3044,7 +3072,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -3065,7 +3093,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3086,7 +3114,7 @@
         },
         {
           "text": "hard",
-          "translation": "трудный"
+          "translation": "сильно"
         },
         {
           "text": "."
@@ -3150,47 +3178,40 @@
       "translation": "причинять боль",
       "partOfSpeech": "verb",
       "transcription": "/ˈhɝt/",
-      "example": "My feet hurt after the walk.",
-      "exampleTranslation": "После прогулки у меня болят ноги.",
+      "example": "Your words can hurt people.",
+      "exampleTranslation": "Твои слова могут причинить людям боль.",
       "exampleTokens": [
         {
-          "text": "My",
-          "translation": "мой"
+          "text": "Your",
+          "translation": "твои"
         },
         {
           "text": " "
         },
         {
-          "text": "feet",
-          "translation": "ступни; ноги"
+          "text": "words",
+          "translation": "слова"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "can",
+          "translation": "могут"
         },
         {
           "text": " "
         },
         {
           "text": "hurt",
-          "translation": "причинять боль"
+          "translation": "причинить боль"
         },
         {
           "text": " "
         },
         {
-          "text": "after",
-          "translation": "после"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "walk",
-          "translation": "гулять"
+          "text": "people",
+          "translation": "людям"
         },
         {
           "text": "."
@@ -3242,7 +3263,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3256,14 +3277,14 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3301,14 +3322,14 @@
         },
         {
           "text": "had",
-          "translation": "форма прошедшего времени"
+          "translation": "пришлось: пришлось"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "часть сочетания «пришлось»"
         },
         {
           "text": " "
@@ -3322,7 +3343,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом; здесь: чтобы"
         },
         {
           "text": " "
@@ -3336,7 +3357,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3374,7 +3395,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -3433,7 +3454,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3454,7 +3475,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3480,40 +3501,61 @@
       "translation": "вести",
       "partOfSpeech": "verb",
       "transcription": "/liːd/",
-      "example": "Good teachers lead by example.",
-      "exampleTranslation": "Хорошие учителя показывают пример своим поведением.",
+      "example": "The guide will lead us through the forest.",
+      "exampleTranslation": "Гид проведёт нас через лес.",
       "exampleTokens": [
         {
-          "text": "Good",
-          "translation": "хороший"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "teachers",
-          "translation": "учителя"
+          "text": "guide",
+          "translation": "гид"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "lead",
-          "translation": "вести"
+          "translation": "проведёт"
         },
         {
           "text": " "
         },
         {
-          "text": "by",
-          "translation": "у"
+          "text": "us",
+          "translation": "нас"
         },
         {
           "text": " "
         },
         {
-          "text": "example",
-          "translation": "пример"
+          "text": "through",
+          "translation": "через"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "forest",
+          "translation": "лес"
         },
         {
           "text": "."
@@ -3537,7 +3579,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -3565,7 +3607,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3603,7 +3645,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3617,7 +3659,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -3638,7 +3680,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3716,8 +3758,8 @@
       "translation": "уезжать",
       "partOfSpeech": "verb",
       "transcription": "/ˈliv/",
-      "example": "We leave at six tomorrow.",
-      "exampleTranslation": "Завтра мы уходим в шесть.",
+      "example": "We leave for London tomorrow.",
+      "exampleTranslation": "Завтра мы уезжаем в Лондон.",
       "exampleTokens": [
         {
           "text": "We",
@@ -3728,21 +3770,21 @@
         },
         {
           "text": "leave",
-          "translation": "уезжать"
+          "translation": "уезжаем"
         },
         {
           "text": " "
         },
         {
-          "text": "at",
-          "translation": "в"
+          "text": "for",
+          "translation": "в: направление поездки"
         },
         {
           "text": " "
         },
         {
-          "text": "six",
-          "translation": "шесть"
+          "text": "London",
+          "translation": "Лондон"
         },
         {
           "text": " "
@@ -3773,7 +3815,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -3787,14 +3829,14 @@
         },
         {
           "text": "lend",
-          "translation": "давать взаймы"
+          "translation": "одолжить"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -3846,14 +3888,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
@@ -3898,7 +3940,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -3964,14 +4006,14 @@
         },
         {
           "text": "light",
-          "translation": "зажигать"
+          "translation": "зажги"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4002,7 +4044,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -4120,7 +4162,7 @@
         },
         {
           "text": "does",
-          "translation": "делает"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -4172,7 +4214,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можем"
         },
         {
           "text": " "
@@ -4193,7 +4235,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4238,14 +4280,14 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
         },
         {
           "text": "mislead",
-          "translation": "вводить в заблуждение"
+          "translation": "ввести в заблуждение"
         },
         {
           "text": " "
@@ -4290,21 +4332,21 @@
         },
         {
           "text": "mistake",
-          "translation": "ошибочно принимать"
+          "translation": "принимают по ошибке"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "за"
         },
         {
           "text": " "
@@ -4349,14 +4391,14 @@
         },
         {
           "text": "mow",
-          "translation": "косить"
+          "translation": "стрижём"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4415,7 +4457,7 @@
         },
         {
           "text": "outgrow",
-          "translation": "перерастать"
+          "translation": "вырастают из"
         },
         {
           "text": " "
@@ -4460,14 +4502,14 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можем"
         },
         {
           "text": " "
         },
         {
           "text": "overcome",
-          "translation": "преодолевать"
+          "translation": "преодолеть"
         },
         {
           "text": " "
@@ -4512,7 +4554,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -4578,7 +4620,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -4599,14 +4641,14 @@
         },
         {
           "text": "by",
-          "translation": "с помощью"
+          "translation": "указывает способ оплаты"
         },
         {
           "text": " "
         },
         {
           "text": "card",
-          "translation": "карта"
+          "translation": "картой"
         },
         {
           "text": "?"
@@ -4630,7 +4672,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4651,7 +4693,7 @@
         },
         {
           "text": "that",
-          "translation": "тот"
+          "translation": "что"
         },
         {
           "text": " "
@@ -4665,7 +4707,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -4703,7 +4745,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4724,7 +4766,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4769,7 +4811,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -4866,7 +4908,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4880,7 +4922,7 @@
         },
         {
           "text": "ride",
-          "translation": "ездить верхом"
+          "translation": "ездить"
         },
         {
           "text": " "
@@ -4932,7 +4974,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4977,7 +5019,7 @@
         },
         {
           "text": "rise",
-          "translation": "подниматься"
+          "translation": "растут"
         },
         {
           "text": " "
@@ -5036,7 +5078,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5088,7 +5130,7 @@
         },
         {
           "text": "did",
-          "translation": "сделал"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -5126,7 +5168,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5147,7 +5189,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5192,7 +5234,7 @@
         },
         {
           "text": "seek",
-          "translation": "искать"
+          "translation": "обратиться за"
         },
         {
           "text": " "
@@ -5225,8 +5267,8 @@
       "translation": "продавать",
       "partOfSpeech": "verb",
       "transcription": "/ˈsɛl/",
-      "example": "I need to sell it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: продавать.",
+      "example": "I want to sell my car.",
+      "exampleTranslation": "Я хочу продать свою машину.",
       "exampleTokens": [
         {
           "text": "I",
@@ -5236,36 +5278,36 @@
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
+          "text": "want",
+          "translation": "хочу"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "sell",
-          "translation": "продавать"
+          "translation": "продать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "my",
+          "translation": "свою"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "car",
+          "translation": "машину"
         },
         {
           "text": "."
@@ -5303,14 +5345,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5348,7 +5390,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5393,7 +5435,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5407,7 +5449,7 @@
         },
         {
           "text": "sew",
-          "translation": "шить"
+          "translation": "пришить"
         },
         {
           "text": " "
@@ -5473,7 +5515,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5518,7 +5560,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5570,7 +5612,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -5636,14 +5678,14 @@
         },
         {
           "text": "show",
-          "translation": "показывать"
+          "translation": "покажите"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5695,14 +5737,14 @@
         },
         {
           "text": "may",
-          "translation": "можно"
+          "translation": "может: возможность"
         },
         {
           "text": " "
         },
         {
           "text": "shrink",
-          "translation": "сжиматься"
+          "translation": "сесть; уменьшиться в размере"
         },
         {
           "text": " "
@@ -5754,14 +5796,14 @@
         },
         {
           "text": "shut",
-          "translation": "закрывать"
+          "translation": "закрой"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5917,14 +5959,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление или получатель"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": "."
@@ -6028,7 +6070,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6080,14 +6122,14 @@
         },
         {
           "text": "smell",
-          "translation": "пахнуть"
+          "translation": "пахнут"
         },
         {
           "text": " "
         },
         {
           "text": "wonderful",
-          "translation": "чудесный"
+          "translation": "чудесно"
         },
         {
           "text": "."
@@ -6111,7 +6153,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -6151,19 +6193,33 @@
       "translation": "ускоряться",
       "partOfSpeech": "verb",
       "transcription": "/ˈspid/",
-      "example": "Do not speed near the school.",
-      "exampleTranslation": "Не превышайте скорость возле школы.",
+      "example": "The train began to speed up.",
+      "exampleTranslation": "Поезд начал ускоряться.",
       "exampleTokens": [
         {
-          "text": "Do",
-          "translation": "делать"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "not",
-          "translation": "не"
+          "text": "train",
+          "translation": "поезд"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "began",
+          "translation": "начал"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -6176,22 +6232,8 @@
           "text": " "
         },
         {
-          "text": "near",
-          "translation": "рядом с"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "school",
-          "translation": "школа"
+          "text": "up",
+          "translation": "часть сочетания «ускоряться»"
         },
         {
           "text": "."
@@ -6222,7 +6264,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол вопроса"
         },
         {
           "text": " "
@@ -6269,47 +6311,47 @@
       "translation": "тратить",
       "partOfSpeech": "verb",
       "transcription": "/ˈspɛnd/",
-      "example": "I need to spend it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: тратить.",
+      "example": "Do not spend all your money.",
+      "exampleTranslation": "Не трать все свои деньги.",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "Do",
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "translation": "частица инфинитива"
+          "text": "not",
+          "translation": "не"
         },
         {
           "text": " "
         },
         {
           "text": "spend",
-          "translation": "тратить"
+          "translation": "трать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "all",
+          "translation": "все"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "your",
+          "translation": "свои"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "money",
+          "translation": "деньги"
         },
         {
           "text": "."
@@ -6333,7 +6375,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -6354,7 +6396,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6385,7 +6427,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6399,7 +6441,7 @@
         },
         {
           "text": "spin",
-          "translation": "вращать"
+          "translation": "вращаются"
         },
         {
           "text": " "
@@ -6437,7 +6479,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -6465,14 +6507,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "ground",
-          "translation": "форма прошедшего времени"
+          "translation": "землю"
         },
         {
           "text": "."
@@ -6503,7 +6545,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можем"
         },
         {
           "text": " "
@@ -6517,7 +6559,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6569,7 +6611,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -6583,7 +6625,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6609,47 +6651,47 @@
       "translation": "распространять",
       "partOfSpeech": "verb",
       "transcription": "/ˈspɹɛd/",
-      "example": "Spread some butter on the bread.",
-      "exampleTranslation": "Намажь немного масла на хлеб.",
+      "example": "False reports can spread quickly online.",
+      "exampleTranslation": "Ложные сообщения могут быстро распространяться в интернете.",
       "exampleTokens": [
         {
-          "text": "Spread",
-          "translation": "распространять"
+          "text": "False",
+          "translation": "ложные"
         },
         {
           "text": " "
         },
         {
-          "text": "some",
-          "translation": "немного"
+          "text": "reports",
+          "translation": "сообщения"
         },
         {
           "text": " "
         },
         {
-          "text": "butter",
-          "translation": "сливочное масло"
+          "text": "can",
+          "translation": "могут"
         },
         {
           "text": " "
         },
         {
-          "text": "on",
-          "translation": "на"
+          "text": "spread",
+          "translation": "распространяться"
         },
         {
           "text": " "
         },
         {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "quickly",
+          "translation": "быстро"
         },
         {
           "text": " "
         },
         {
-          "text": "bread",
-          "translation": "хлеб"
+          "text": "online",
+          "translation": "в интернете"
         },
         {
           "text": "."
@@ -6680,14 +6722,14 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
         },
         {
           "text": "spring",
-          "translation": "прыгать"
+          "translation": "запрыгивать"
         },
         {
           "text": " "
@@ -6753,7 +6795,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6798,7 +6840,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -6843,14 +6885,14 @@
       "exampleTokens": [
         {
           "text": "Stick",
-          "translation": "приклеивать"
+          "translation": "приклей"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6871,7 +6913,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6909,7 +6951,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -7008,47 +7050,61 @@
       "translation": "ударять",
       "partOfSpeech": "verb",
       "transcription": "/ˈstɹaɪk/",
-      "example": "Workers may strike for better pay.",
-      "exampleTranslation": "Работники могут бастовать ради повышения оплаты труда.",
+      "example": "Do not strike the glass with a hammer.",
+      "exampleTranslation": "Не бейте по стеклу молотком.",
       "exampleTokens": [
         {
-          "text": "Workers",
-          "translation": "работники"
+          "text": "Do",
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
         },
         {
-          "text": "may",
-          "translation": "можно"
+          "text": "not",
+          "translation": "не"
         },
         {
           "text": " "
         },
         {
           "text": "strike",
-          "translation": "ударять"
+          "translation": "бейте"
         },
         {
           "text": " "
         },
         {
-          "text": "for",
-          "translation": "для"
+          "text": "the",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "better",
-          "translation": "лучше"
+          "text": "glass",
+          "translation": "по стеклу"
         },
         {
           "text": " "
         },
         {
-          "text": "pay",
-          "translation": "платить"
+          "text": "with",
+          "translation": "с помощью"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hammer",
+          "translation": "молотка"
         },
         {
           "text": "."
@@ -7067,54 +7123,47 @@
       "translation": "клясться",
       "partOfSpeech": "verb",
       "transcription": "/ˈswɛɹ/",
-      "example": "Do not swear in front of children.",
-      "exampleTranslation": "Не ругайтесь перед детьми.",
+      "example": "I swear to tell the truth.",
+      "exampleTranslation": "Я клянусь говорить правду.",
       "exampleTokens": [
         {
-          "text": "Do",
-          "translation": "делать"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "not",
-          "translation": "не"
+          "text": "I",
+          "translation": "я"
         },
         {
           "text": " "
         },
         {
           "text": "swear",
-          "translation": "клясться"
+          "translation": "клянусь"
         },
         {
           "text": " "
         },
         {
-          "text": "in",
-          "translation": "в"
+          "text": "to",
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
-          "text": "front",
-          "translation": "перед"
+          "text": "tell",
+          "translation": "говорить"
         },
         {
           "text": " "
         },
         {
-          "text": "of",
-          "translation": "глагола"
+          "text": "the",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "children",
-          "translation": "дети"
+          "text": "truth",
+          "translation": "правду"
         },
         {
           "text": "."
@@ -7152,7 +7201,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7204,14 +7253,14 @@
         },
         {
           "text": "may",
-          "translation": "можно"
+          "translation": "может: возможность"
         },
         {
           "text": " "
         },
         {
           "text": "swell",
-          "translation": "опухать"
+          "translation": "опухнуть"
         },
         {
           "text": " "
@@ -7277,7 +7326,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7336,14 +7385,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "swing",
-          "translation": "качаться"
+          "translation": "качаться на качелях"
         },
         {
           "text": " "
@@ -7357,7 +7406,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7520,7 +7569,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -7534,7 +7583,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7579,14 +7628,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7676,7 +7725,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -7711,7 +7760,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7742,7 +7791,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7756,21 +7805,21 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "undergo",
-          "translation": "проходить через"
+          "translation": "подвергнется"
         },
         {
           "text": " "
         },
         {
           "text": "repairs",
-          "translation": "ремонт"
+          "translation": "ремонту"
         },
         {
           "text": "."
@@ -7912,14 +7961,14 @@
         },
         {
           "text": "mean",
-          "translation": "означать"
+          "translation": "намеревался; здесь: хотел"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "к"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -7933,7 +7982,7 @@
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "тебя"
         },
         {
           "text": "."
@@ -7952,26 +8001,26 @@
       "translation": "просыпаться",
       "partOfSpeech": "verb",
       "transcription": "/ˈweɪk/",
-      "example": "Please wake me at seven.",
-      "exampleTranslation": "Пожалуйста, разбуди меня в семь.",
+      "example": "I wake up at seven.",
+      "exampleTranslation": "Я просыпаюсь в семь.",
       "exampleTokens": [
         {
-          "text": "Please",
-          "translation": "пожалуйста"
+          "text": "I",
+          "translation": "я"
         },
         {
           "text": " "
         },
         {
           "text": "wake",
-          "translation": "просыпаться"
+          "translation": "просыпаюсь"
         },
         {
           "text": " "
         },
         {
-          "text": "me",
-          "translation": "мне"
+          "text": "up",
+          "translation": "часть сочетания «просыпаться»"
         },
         {
           "text": " "
@@ -8063,8 +8112,8 @@
       "translation": "ткать",
       "partOfSpeech": "verb",
       "transcription": "/ˈwiv/",
-      "example": "They weave baskets by hand.",
-      "exampleTranslation": "Они плетут корзины вручную.",
+      "example": "They weave cloth by hand.",
+      "exampleTranslation": "Они ткут ткань вручную.",
       "exampleTokens": [
         {
           "text": "They",
@@ -8075,28 +8124,28 @@
         },
         {
           "text": "weave",
-          "translation": "ткать"
+          "translation": "ткут"
         },
         {
           "text": " "
         },
         {
-          "text": "baskets",
-          "translation": "корзины"
+          "text": "cloth",
+          "translation": "ткань"
         },
         {
           "text": " "
         },
         {
           "text": "by",
-          "translation": "у"
+          "translation": "часть сочетания «вручную»"
         },
         {
           "text": " "
         },
         {
           "text": "hand",
-          "translation": "рука"
+          "translation": "часть сочетания «вручную»"
         },
         {
           "text": "."
@@ -8134,7 +8183,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -8186,7 +8235,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -8231,21 +8280,21 @@
       "exampleTokens": [
         {
           "text": "Wind",
-          "translation": "наматывать"
+          "translation": "намотай"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "string",
-          "translation": "строку"
+          "translation": "верёвку"
         },
         {
           "text": " "
@@ -8259,14 +8308,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "stick",
-          "translation": "приклеивать"
+          "translation": "палку"
         },
         {
           "text": "."
@@ -8297,7 +8346,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -8356,14 +8405,14 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
         },
         {
           "text": "withstand",
-          "translation": "выдерживать"
+          "translation": "выдержать"
         },
         {
           "text": " "
@@ -8460,7 +8509,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -8604,12 +8653,26 @@
       "translation": "бить",
       "partOfSpeech": "verb",
       "transcription": "/ˈbit/",
-      "example": "Beat the eggs with a fork.",
-      "exampleTranslation": "Взбейте яйца вилкой.",
+      "example": "Waves beat against the rocks.",
+      "exampleTranslation": "Волны бьются о скалы.",
       "exampleTokens": [
         {
-          "text": "Beat",
-          "translation": "бить"
+          "text": "Waves",
+          "translation": "волны"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "beat",
+          "translation": "бьются"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "against",
+          "translation": "о"
         },
         {
           "text": " "
@@ -8622,29 +8685,8 @@
           "text": " "
         },
         {
-          "text": "eggs",
-          "translation": "яйца"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "with",
-          "translation": "с"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "a",
-          "translation": "неопределённый артикль"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "fork",
-          "translation": "вилка"
+          "text": "rocks",
+          "translation": "скалы"
         },
         {
           "text": "."
@@ -8703,7 +8745,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8741,7 +8783,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -8755,7 +8797,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8795,40 +8837,54 @@
       "translation": "осаждать",
       "partOfSpeech": "verb",
       "transcription": "/bɪˈsɛt/",
-      "example": "Delays often beset large projects.",
-      "exampleTranslation": "Крупные проекты часто сталкиваются с задержками.",
+      "example": "Reporters beset the actor outside the hotel.",
+      "exampleTranslation": "Журналисты осаждают актёра у отеля.",
       "exampleTokens": [
         {
-          "text": "Delays",
-          "translation": "задержки"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "often",
-          "translation": "часто"
+          "text": "Reporters",
+          "translation": "журналисты"
         },
         {
           "text": " "
         },
         {
           "text": "beset",
-          "translation": "осаждать"
+          "translation": "осаждают"
         },
         {
           "text": " "
         },
         {
-          "text": "large",
-          "translation": "крупный"
+          "text": "the",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "projects",
-          "translation": "проекты"
+          "text": "actor",
+          "translation": "актёра"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "outside",
+          "translation": "у; снаружи"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the",
+          "translation": "определённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hotel",
+          "translation": "отеля"
         },
         {
           "text": "."
@@ -8859,28 +8915,28 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
         },
         {
           "text": "bid",
-          "translation": "предлагать цену"
+          "translation": "сделать ставку"
         },
         {
           "text": " "
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "за"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8918,7 +8974,7 @@
       "exampleTokens": [
         {
           "text": "May",
-          "translation": "можно"
+          "translation": "пусть"
         },
         {
           "text": " "
@@ -8970,7 +9026,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -9043,7 +9099,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9064,7 +9120,7 @@
         },
         {
           "text": "clothe",
-          "translation": "одевать"
+          "translation": "обеспечить одеждой"
         },
         {
           "text": " "
@@ -9116,7 +9172,7 @@
         },
         {
           "text": "dwell",
-          "translation": "проживать"
+          "translation": "живут"
         },
         {
           "text": " "
@@ -9175,7 +9231,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -9241,7 +9297,7 @@
         },
         {
           "text": "foretell",
-          "translation": "предсказывать"
+          "translation": "предвещают"
         },
         {
           "text": " "
@@ -9272,7 +9328,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -9390,7 +9446,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9404,7 +9460,7 @@
         },
         {
           "text": "interweave",
-          "translation": "переплетать"
+          "translation": "переплетаются"
         },
         {
           "text": " "
@@ -9418,7 +9474,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9449,14 +9505,14 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "это"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9470,14 +9526,14 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "mishear",
-          "translation": "ослышаться"
+          "translation": "неправильно расслышать"
         },
         {
           "text": " "
@@ -9595,7 +9651,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -9609,14 +9665,14 @@
         },
         {
           "text": "misread",
-          "translation": "неправильно читать"
+          "translation": "прочитай неправильно"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9713,7 +9769,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
@@ -9741,7 +9797,7 @@
         },
         {
           "text": "performance",
-          "translation": "эффективность"
+          "translation": "выступление"
         },
         {
           "text": "."
@@ -9779,7 +9835,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "может; могут"
         },
         {
           "text": " "
@@ -9807,7 +9863,7 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
@@ -9838,7 +9894,7 @@
       "exampleTokens": [
         {
           "text": "Do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -9859,7 +9915,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9932,7 +9988,7 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "к; в: направление"
         },
         {
           "text": " "
@@ -9953,7 +10009,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -9991,7 +10047,7 @@
         },
         {
           "text": "may",
-          "translation": "можно"
+          "translation": "может: возможность"
         },
         {
           "text": " "
@@ -10026,7 +10082,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -10092,7 +10148,7 @@
         },
         {
           "text": "do",
-          "translation": "делать"
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
@@ -10189,21 +10245,21 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "remake",
-          "translation": "переделывать заново"
+          "translation": "переснять"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -10248,21 +10304,21 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "repay",
-          "translation": "возвращать долг"
+          "translation": "верну"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "

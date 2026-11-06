@@ -16,7 +16,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -37,7 +37,7 @@
         },
         {
           "text": "at",
-          "translation": "в; у"
+          "translation": "в"
         },
         {
           "text": " "
@@ -66,7 +66,7 @@
       "exampleTokens": [
         {
           "text": "There's",
-          "translation": "есть; сокращение there is"
+          "translation": "есть; сокращение"
         },
         {
           "text": " "
@@ -116,14 +116,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -202,7 +202,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -223,7 +223,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -259,7 +259,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -280,7 +280,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -316,7 +316,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -337,7 +337,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -366,7 +366,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -387,14 +387,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -419,7 +419,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈbʊkˌstɔɹ/",
       "example": "Where can I find the bookstore?",
-      "exampleTranslation": "Где я могу найти книжного магазин?",
+      "exampleTranslation": "Где я могу найти книжный магазин?",
       "exampleTokens": [
         {
           "text": "Where",
@@ -430,7 +430,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -451,7 +451,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -487,7 +487,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -508,7 +508,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -544,7 +544,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -565,7 +565,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -601,7 +601,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -622,7 +622,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -651,7 +651,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -672,14 +672,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -715,7 +715,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -736,7 +736,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -772,7 +772,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -793,7 +793,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -829,7 +829,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -850,7 +850,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -886,7 +886,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -907,7 +907,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -943,7 +943,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -964,7 +964,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1000,7 +1000,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1021,7 +1021,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1057,7 +1057,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1078,7 +1078,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1114,7 +1114,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1135,7 +1135,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1171,7 +1171,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1192,7 +1192,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1228,7 +1228,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1249,7 +1249,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1285,14 +1285,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1421,7 +1421,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1442,7 +1442,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1478,7 +1478,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1499,7 +1499,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1535,7 +1535,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1556,7 +1556,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1592,7 +1592,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1613,7 +1613,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1649,7 +1649,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1670,7 +1670,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1706,7 +1706,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1727,7 +1727,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1763,7 +1763,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1784,7 +1784,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1820,7 +1820,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -1841,7 +1841,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -1865,40 +1865,40 @@
       "translation": "выбор",
       "partOfSpeech": "noun",
       "transcription": "/səˈlɛkʃən/",
-      "example": "Where can I find the selection?",
-      "exampleTranslation": "Где я могу найти выбор?",
+      "example": "This shop has a wide selection of books.",
+      "exampleTranslation": "В этом магазине большой выбор книг.",
       "exampleTokens": [
         {
-          "text": "Where",
-          "translation": "где"
+          "text": "This",
+          "translation": "этот"
         },
         {
           "text": " "
         },
         {
-          "text": "can",
-          "translation": "могу"
+          "text": "shop",
+          "translation": "магазин"
         },
         {
           "text": " "
         },
         {
-          "text": "I",
-          "translation": "я"
+          "text": "has",
+          "translation": "имеет; здесь: в магазине есть"
         },
         {
           "text": " "
         },
         {
-          "text": "find",
-          "translation": "найти"
+          "text": "a",
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "wide",
+          "translation": "большой"
         },
         {
           "text": " "
@@ -1908,7 +1908,21 @@
           "translation": "выбор"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "связывает выбор с предметами"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "books",
+          "translation": "книг"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -1922,50 +1936,57 @@
       "translation": "разнообразие",
       "partOfSpeech": "noun",
       "transcription": "/vɚˈaɪəti/",
-      "example": "Where can I find the variety?",
-      "exampleTranslation": "Где я могу найти разнообразие?",
+      "example": "We offer a variety of fresh vegetables.",
+      "exampleTranslation": "Мы предлагаем разнообразные свежие овощи.",
       "exampleTokens": [
         {
-          "text": "Where",
-          "translation": "где"
+          "text": "We",
+          "translation": "мы"
         },
         {
           "text": " "
         },
         {
-          "text": "can",
-          "translation": "могу"
+          "text": "offer",
+          "translation": "предлагаем"
         },
         {
           "text": " "
         },
         {
-          "text": "I",
-          "translation": "я"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "find",
-          "translation": "найти"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "a",
+          "translation": "часть разнообразные"
         },
         {
           "text": " "
         },
         {
           "text": "variety",
-          "translation": "разнообразие"
+          "translation": "разнообразие: разнообразные"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "часть разнообразные"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fresh",
+          "translation": "свежие"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "vegetables",
+          "translation": "овощи"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -1979,39 +2000,11 @@
       "translation": "качество",
       "partOfSpeech": "noun",
       "transcription": "/ˈkwɑləti/",
-      "example": "Where can I find the quality?",
-      "exampleTranslation": "Где я могу найти качество?",
+      "example": "The quality of this fabric is excellent.",
+      "exampleTranslation": "Качество этой ткани превосходное.",
       "exampleTokens": [
         {
-          "text": "Where",
-          "translation": "где"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "can",
-          "translation": "могу"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "I",
-          "translation": "я"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "find",
-          "translation": "найти"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
+          "text": "The",
           "translation": "определённый артикль"
         },
         {
@@ -2022,7 +2015,42 @@
           "translation": "качество"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "связывает качество с предметом"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fabric",
+          "translation": "ткани"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "связка; в русском опускается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "excellent",
+          "translation": "превосходное"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -2036,26 +2064,12 @@
       "translation": "размер",
       "partOfSpeech": "noun",
       "transcription": "/ˈsaɪz/",
-      "example": "Where is the size?",
-      "exampleTranslation": "Где находится размер?",
+      "example": "What size do you need?",
+      "exampleTranslation": "Какой размер тебе нужен?",
       "exampleTokens": [
         {
-          "text": "Where",
-          "translation": "где"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "is",
-          "translation": "есть; является; глагол-связка"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "What",
+          "translation": "какой"
         },
         {
           "text": " "
@@ -2063,6 +2077,27 @@
         {
           "text": "size",
           "translation": "размер"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "do",
+          "translation": "вспомогательный глагол вопроса"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "you",
+          "translation": "тебе"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "need",
+          "translation": "нужен"
         },
         {
           "text": "?"
@@ -2079,47 +2114,40 @@
       "translation": "цвет",
       "partOfSpeech": "noun",
       "transcription": "/ˈkʌlɚ/",
-      "example": "Where can I find the colour?",
-      "exampleTranslation": "Где я могу найти цвет?",
+      "example": "What colour is your bag?",
+      "exampleTranslation": "Какого цвета твоя сумка?",
       "exampleTokens": [
         {
-          "text": "Where",
-          "translation": "где"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "can",
-          "translation": "могу"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "I",
-          "translation": "я"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "find",
-          "translation": "найти"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "What",
+          "translation": "какого"
         },
         {
           "text": " "
         },
         {
           "text": "colour",
-          "translation": "цвет"
+          "translation": "цвета"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is",
+          "translation": "связка в вопросе"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "translation": "твоя"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумка"
         },
         {
           "text": "?"
@@ -2148,7 +2176,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2169,14 +2197,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "style",
-          "translation": "стиль"
+          "translation": "фасон"
         },
         {
           "text": "?"
@@ -2205,7 +2233,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2226,7 +2254,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2262,7 +2290,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2283,7 +2311,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2319,7 +2347,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2340,7 +2368,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2376,7 +2404,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2397,7 +2425,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2433,7 +2461,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2454,7 +2482,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2526,7 +2554,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2547,7 +2575,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2626,7 +2654,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2647,7 +2675,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2683,7 +2711,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2704,7 +2732,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2740,7 +2768,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2761,7 +2789,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2797,7 +2825,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2818,7 +2846,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2854,7 +2882,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2875,7 +2903,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2918,21 +2946,21 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "by",
-          "translation": "у; посредством"
+          "translation": "у; рядом с"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -2968,7 +2996,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -2989,7 +3017,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3025,7 +3053,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3046,7 +3074,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3071,7 +3099,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈsɑks/",
       "example": "Where can I find the socks?",
-      "exampleTranslation": "Где я могу найти носку?",
+      "exampleTranslation": "Где я могу найти носки?",
       "exampleTokens": [
         {
           "text": "Where",
@@ -3082,7 +3110,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3103,7 +3131,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3139,7 +3167,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3160,7 +3188,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3196,7 +3224,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3217,7 +3245,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3253,7 +3281,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3274,7 +3302,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3353,7 +3381,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3374,7 +3402,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3410,7 +3438,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3431,7 +3459,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3456,7 +3484,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈwɑtʃ/",
       "example": "Where can I find the watch?",
-      "exampleTranslation": "Где я могу найти наручных часы?",
+      "exampleTranslation": "Где я могу найти наручные часы?",
       "exampleTokens": [
         {
           "text": "Where",
@@ -3467,7 +3495,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3488,7 +3516,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3524,7 +3552,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3545,7 +3573,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3581,7 +3609,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3602,7 +3630,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3638,7 +3666,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3659,7 +3687,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3695,7 +3723,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3716,7 +3744,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3752,14 +3780,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3795,7 +3823,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -3816,7 +3844,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3840,26 +3868,26 @@
       "translation": "цена",
       "partOfSpeech": "noun",
       "transcription": "/ˈpɹaɪs/",
-      "example": "I need a price.",
-      "exampleTranslation": "Мне нужна цена.",
+      "example": "What is the price of this bag?",
+      "exampleTranslation": "Какова цена этой сумки?",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "What",
+          "translation": "какова"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужен"
+          "text": "is",
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
-          "text": "a",
-          "translation": "неопределённый артикль"
+          "text": "the",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
@@ -3869,7 +3897,28 @@
           "translation": "цена"
         },
         {
-          "text": "."
+          "text": " "
+        },
+        {
+          "text": "of",
+          "translation": "связывает цену с предметом"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "этой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумки"
+        },
+        {
+          "text": "?"
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -3895,14 +3944,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3923,14 +3972,14 @@
         },
         {
           "text": "of",
-          "translation": "глагола"
+          "translation": "связывает существительные: принадлежность или отношение"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -3954,57 +4003,57 @@
       "translation": "ценность",
       "partOfSpeech": "noun",
       "transcription": "/ˈvælju/",
-      "example": "Can you tell me about the value?",
-      "exampleTranslation": "Можете рассказать мне про ценность?",
+      "example": "This coat is good value for money.",
+      "exampleTranslation": "Это пальто стоит своих денег.",
       "exampleTokens": [
         {
-          "text": "Can",
-          "translation": "могу"
+          "text": "This",
+          "translation": "это"
         },
         {
           "text": " "
         },
         {
-          "text": "you",
-          "translation": "вы"
+          "text": "coat",
+          "translation": "пальто"
         },
         {
           "text": " "
         },
         {
-          "text": "tell",
-          "translation": "расскажите"
+          "text": "is",
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
-          "text": "me",
-          "translation": "мне"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "about",
-          "translation": "о"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "good",
+          "translation": "часть стоит своих денег"
         },
         {
           "text": " "
         },
         {
           "text": "value",
-          "translation": "ценность"
+          "translation": "ценность: стоит своих денег"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "часть"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "money",
+          "translation": "деньги: часть"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -4030,7 +4079,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4066,7 +4115,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4080,14 +4129,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "thirty",
-          "translation": "по контексту"
+          "translation": "тридцать"
         },
         {
           "text": " "
@@ -4112,11 +4161,11 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈsʌbˌtoʊtəl/",
       "example": "Can you tell me about the subtotal?",
-      "exampleTranslation": "Можете рассказать мне про промежуточного итог?",
+      "exampleTranslation": "Можете рассказать мне про промежуточный итог?",
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4137,7 +4186,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4151,7 +4200,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4180,7 +4229,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4201,7 +4250,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4215,7 +4264,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4240,11 +4289,11 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈvæt/",
       "example": "Can you tell me about the VAT?",
-      "exampleTranslation": "Можете рассказать мне про ндс?",
+      "exampleTranslation": "Можете рассказать мне про НДС?",
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4265,7 +4314,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4279,7 +4328,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4308,7 +4357,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4329,7 +4378,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4343,7 +4392,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4372,7 +4421,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4393,7 +4442,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4407,7 +4456,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4436,7 +4485,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4457,14 +4506,14 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4500,7 +4549,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -4514,14 +4563,14 @@
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "часть сочетания «искать»"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4550,7 +4599,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4571,7 +4620,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4585,7 +4634,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4614,7 +4663,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4635,7 +4684,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4649,7 +4698,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4678,7 +4727,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4699,7 +4748,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4713,7 +4762,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4742,7 +4791,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4763,7 +4812,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4777,7 +4826,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4802,11 +4851,11 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈvaʊtʃɚ/",
       "example": "Can you tell me about the voucher?",
-      "exampleTranslation": "Можете рассказать мне про подарочного сертификат?",
+      "exampleTranslation": "Можете рассказать мне про подарочный сертификат?",
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4827,7 +4876,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4841,7 +4890,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4870,7 +4919,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4891,7 +4940,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4905,7 +4954,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4934,7 +4983,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -4955,7 +5004,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -4969,7 +5018,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -4993,40 +5042,33 @@
       "translation": "возврат денег",
       "partOfSpeech": "noun",
       "transcription": "/ɹɪˈfʌnd/",
-      "example": "Can you show me the refund?",
-      "exampleTranslation": "Можете показать мне возврат денег?",
+      "example": "I would like a refund for this shirt.",
+      "exampleTranslation": "Я хотел бы вернуть деньги за эту рубашку.",
       "exampleTokens": [
         {
-          "text": "Can",
-          "translation": "мочь"
+          "text": "I",
+          "translation": "я"
         },
         {
           "text": " "
         },
         {
-          "text": "you",
-          "translation": "вы"
+          "text": "would",
+          "translation": "бы: вежливая просьба"
         },
         {
           "text": " "
         },
         {
-          "text": "show",
-          "translation": "показать"
+          "text": "like",
+          "translation": "хотел"
         },
         {
           "text": " "
         },
         {
-          "text": "me",
-          "translation": "мне"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "a",
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
@@ -5036,7 +5078,28 @@
           "translation": "возврат денег"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "за"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this",
+          "translation": "эту"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "shirt",
+          "translation": "рубашку"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -5055,7 +5118,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5076,7 +5139,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5090,7 +5153,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5114,40 +5177,19 @@
       "translation": "обмен",
       "partOfSpeech": "noun",
       "transcription": "/ɪksˈtʃeɪndʒ/",
-      "example": "We are looking for the exchange.",
-      "exampleTranslation": "Мы ищем обмен.",
+      "example": "Is an exchange possible without a receipt?",
+      "exampleTranslation": "Возможен ли обмен без чека?",
       "exampleTokens": [
         {
-          "text": "We",
-          "translation": "мы"
+          "text": "Is",
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
-          "text": "are",
-          "translation": "есть; являются; глагол-связка"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "looking",
-          "translation": "ищем"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "for",
-          "translation": "для"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "an",
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
@@ -5157,7 +5199,35 @@
           "translation": "обмен"
         },
         {
-          "text": "."
+          "text": " "
+        },
+        {
+          "text": "possible",
+          "translation": "возможен"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "without",
+          "translation": "без"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "receipt",
+          "translation": "чека"
+        },
+        {
+          "text": "?"
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -5176,7 +5246,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5197,7 +5267,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5211,7 +5281,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5240,7 +5310,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5261,7 +5331,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5275,7 +5345,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5304,7 +5374,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5325,7 +5395,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5339,7 +5409,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5368,7 +5438,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5389,7 +5459,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5403,7 +5473,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5432,7 +5502,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5453,7 +5523,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5467,7 +5537,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5496,7 +5566,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5517,7 +5587,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5531,7 +5601,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5560,7 +5630,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5581,7 +5651,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5595,7 +5665,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5624,7 +5694,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5645,7 +5715,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5659,7 +5729,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5688,7 +5758,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5709,7 +5779,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5723,7 +5793,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5752,7 +5822,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5773,7 +5843,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5787,7 +5857,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5816,7 +5886,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5837,7 +5907,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5851,7 +5921,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5880,7 +5950,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5901,7 +5971,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5915,7 +5985,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -5944,7 +6014,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -5965,7 +6035,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -5979,7 +6049,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6008,7 +6078,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6029,7 +6099,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6043,7 +6113,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6072,7 +6142,7 @@
       "exampleTokens": [
         {
           "text": "What's",
-          "translation": "что; сокращение what is"
+          "translation": "что; сокращение"
         },
         {
           "text": " "
@@ -6108,7 +6178,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6129,7 +6199,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6143,7 +6213,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6172,7 +6242,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6193,7 +6263,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6207,7 +6277,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6232,7 +6302,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈɔɹdɚ/",
       "example": "Our order will arrive in ten minutes.",
-      "exampleTranslation": "Наш заказ будет готов через десять минут.",
+      "exampleTranslation": "Наш заказ доставят через десять минут.",
       "exampleTokens": [
         {
           "text": "Our",
@@ -6250,21 +6320,21 @@
         },
         {
           "text": "will",
-          "translation": "буду / будет"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "arrive",
-          "translation": "прибывать"
+          "translation": "прибудет; здесь: доставят"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "в"
+          "translation": "через"
         },
         {
           "text": " "
@@ -6300,7 +6370,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6321,7 +6391,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6335,7 +6405,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6364,7 +6434,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6385,7 +6455,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6399,7 +6469,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6428,7 +6498,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6449,7 +6519,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6463,7 +6533,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6492,7 +6562,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6513,7 +6583,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6527,7 +6597,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6556,7 +6626,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6577,7 +6647,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6591,7 +6661,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6620,7 +6690,7 @@
       "exampleTokens": [
         {
           "text": "Keep",
-          "translation": "хранить"
+          "translation": "храни"
         },
         {
           "text": " "
@@ -6641,7 +6711,7 @@
         },
         {
           "text": "private",
-          "translation": "личный; закрытый"
+          "translation": "в секрете"
         },
         {
           "text": "."
@@ -6663,7 +6733,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6684,7 +6754,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "вспомогательный глагол: действие в процессе"
         },
         {
           "text": " "
@@ -6720,7 +6790,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6741,7 +6811,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6755,7 +6825,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6784,7 +6854,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6805,7 +6875,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6819,7 +6889,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6848,7 +6918,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6869,7 +6939,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6883,7 +6953,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6912,7 +6982,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6933,7 +7003,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -6947,7 +7017,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -6976,7 +7046,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -6997,7 +7067,7 @@
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -7011,7 +7081,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7035,36 +7105,43 @@
       "translation": "оплата",
       "partOfSpeech": "noun",
       "transcription": "/ˈpeɪmənt/",
-      "example": "Where is the payment?",
-      "exampleTranslation": "Где находится оплата?",
+      "example": "We accept payment by card.",
+      "exampleTranslation": "Мы принимаем оплату картой.",
       "exampleTokens": [
         {
-          "text": "Where",
-          "translation": "где"
+          "text": "We",
+          "translation": "мы"
         },
         {
           "text": " "
         },
         {
-          "text": "is",
-          "translation": "есть; является; глагол-связка"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "the",
-          "translation": "определённый артикль"
+          "text": "accept",
+          "translation": "принимаем"
         },
         {
           "text": " "
         },
         {
           "text": "payment",
-          "translation": "оплата"
+          "translation": "оплату"
         },
         {
-          "text": "?"
+          "text": " "
+        },
+        {
+          "text": "by",
+          "translation": "указывает способ оплаты"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "card",
+          "translation": "картой"
+        },
+        {
+          "text": "."
         }
       ],
       "contextDistractors": ["although", "unless", "because"],
@@ -7083,7 +7160,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -7133,7 +7210,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -7154,7 +7231,7 @@
         },
         {
           "text": "by",
-          "translation": "у; посредством"
+          "translation": "посредством; указывает способ"
         },
         {
           "text": " "
@@ -7190,14 +7267,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7247,7 +7324,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7297,7 +7374,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -7340,7 +7417,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7383,7 +7460,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7426,7 +7503,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7469,7 +7546,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7512,7 +7589,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7555,7 +7632,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7598,7 +7675,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7641,7 +7718,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7684,7 +7761,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7727,7 +7804,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7770,7 +7847,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7863,7 +7940,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7888,7 +7965,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈbæŋkˌnoʊt/",
       "example": "Please check the banknote.",
-      "exampleTranslation": "Пожалуйста, проверьте банкнот.",
+      "exampleTranslation": "Пожалуйста, проверьте банкноту.",
       "exampleTokens": [
         {
           "text": "Please",
@@ -7906,7 +7983,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7949,7 +8026,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -7992,7 +8069,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8035,7 +8112,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8078,7 +8155,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8121,7 +8198,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8164,7 +8241,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8193,7 +8270,7 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8257,7 +8334,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8300,7 +8377,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8343,7 +8420,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8368,7 +8445,7 @@
       "partOfSpeech": "noun",
       "transcription": "/ˈseɪvɪŋz/",
       "example": "Please check the savings.",
-      "exampleTranslation": "Пожалуйста, проверьте сбережение.",
+      "exampleTranslation": "Пожалуйста, проверьте сбережения.",
       "exampleTokens": [
         {
           "text": "Please",
@@ -8386,7 +8463,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8429,7 +8506,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8472,14 +8549,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
         },
         {
           "text": "interest",
-          "translation": "процент"
+          "translation": "проценты"
         },
         {
           "text": "."
@@ -8515,7 +8592,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8558,7 +8635,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8601,7 +8678,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8644,7 +8721,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8687,7 +8764,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8730,7 +8807,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8773,7 +8850,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8816,7 +8893,7 @@
         },
         {
           "text": "the",
-          "translation": "определённый артикль"
+          "translation": "определённый артикль: конкретный предмет"
         },
         {
           "text": " "
@@ -8840,26 +8917,19 @@
       "translation": "финансовый",
       "partOfSpeech": "adjective",
       "transcription": "/fəˈnænʃəl/",
-      "example": "This item is financial.",
-      "exampleTranslation": "Этот товар — финансовый.",
+      "example": "We need financial advice.",
+      "exampleTranslation": "Нам нужен финансовый совет.",
       "exampleTokens": [
         {
-          "text": "This",
-          "translation": "этот"
+          "text": "We",
+          "translation": "нам"
         },
         {
           "text": " "
         },
         {
-          "text": "item",
-          "translation": "предмет"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "text": "need",
+          "translation": "нужен"
         },
         {
           "text": " "
@@ -8867,6 +8937,13 @@
         {
           "text": "financial",
           "translation": "финансовый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "advice",
+          "translation": "совет"
         },
         {
           "text": "."
@@ -8883,26 +8960,33 @@
       "translation": "доступный по цене",
       "partOfSpeech": "adjective",
       "transcription": "/əˈfɔɹdəbəl/",
-      "example": "Is it affordable?",
-      "exampleTranslation": "Это доступный по цене?",
+      "example": "Is this hotel affordable?",
+      "exampleTranslation": "Этот отель доступен по цене?",
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "this",
+          "translation": "этот"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hotel",
+          "translation": "отель"
         },
         {
           "text": " "
         },
         {
           "text": "affordable",
-          "translation": "доступный по цене"
+          "translation": "доступен по цене"
         },
         {
           "text": "?"
@@ -8919,26 +9003,33 @@
       "translation": "дорогой",
       "partOfSpeech": "adjective",
       "transcription": "/ɪkˈspɛnsɪv/",
-      "example": "Is it expensive?",
-      "exampleTranslation": "Это дорогой?",
+      "example": "Is this bag expensive?",
+      "exampleTranslation": "Эта сумка дорогая?",
       "exampleTokens": [
         {
           "text": "Is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "this",
+          "translation": "эта"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bag",
+          "translation": "сумка"
         },
         {
           "text": " "
         },
         {
           "text": "expensive",
-          "translation": "дорогой"
+          "translation": "дорогая"
         },
         {
           "text": "?"
@@ -8974,7 +9065,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9017,7 +9108,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9060,7 +9151,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9103,7 +9194,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9146,7 +9237,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9189,7 +9280,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9232,7 +9323,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9263,33 +9354,61 @@
       "translation": "ограниченный",
       "partOfSpeech": "adjective",
       "transcription": "/ˈlɪmətəd/",
-      "example": "This item is limited.",
-      "exampleTranslation": "Этот товар — ограниченный.",
+      "example": "The offer is available for a limited time.",
+      "exampleTranslation": "Предложение действует ограниченное время.",
       "exampleTokens": [
         {
-          "text": "This",
-          "translation": "этот"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "item",
-          "translation": "предмет"
+          "text": "offer",
+          "translation": "предложение"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "available",
+          "translation": "доступно; здесь: действует"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "в течение"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "limited",
-          "translation": "ограниченный"
+          "translation": "ограниченного"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "translation": "времени"
         },
         {
           "text": "."
@@ -9325,7 +9444,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9368,7 +9487,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9411,7 +9530,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9454,7 +9573,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9497,7 +9616,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9540,7 +9659,7 @@
         },
         {
           "text": "is",
-          "translation": "глагол-связка"
+          "translation": "связка; в русском обычно опускается"
         },
         {
           "text": " "
@@ -9564,33 +9683,40 @@
       "translation": "тесный",
       "partOfSpeech": "adjective",
       "transcription": "/ˈtaɪt/",
-      "example": "This item is tight.",
-      "exampleTranslation": "Этот товар — тесный.",
+      "example": "These shoes are too tight.",
+      "exampleTranslation": "Эти туфли слишком тесные.",
       "exampleTokens": [
         {
-          "text": "This",
-          "translation": "этот"
+          "text": "These",
+          "translation": "эти"
         },
         {
           "text": " "
         },
         {
-          "text": "item",
-          "translation": "предмет"
+          "text": "shoes",
+          "translation": "туфли"
         },
         {
           "text": " "
         },
         {
-          "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "text": "are",
+          "translation": "связка; в русском опускается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "too",
+          "translation": "слишком"
         },
         {
           "text": " "
         },
         {
           "text": "tight",
-          "translation": "тесный"
+          "translation": "тесные"
         },
         {
           "text": "."
@@ -9607,33 +9733,40 @@
       "translation": "свободный",
       "partOfSpeech": "adjective",
       "transcription": "/ˈlus/",
-      "example": "This item is loose.",
-      "exampleTranslation": "Этот товар — свободный.",
+      "example": "This shirt is too loose.",
+      "exampleTranslation": "Эта рубашка слишком свободная.",
       "exampleTokens": [
         {
           "text": "This",
-          "translation": "этот"
+          "translation": "эта"
         },
         {
           "text": " "
         },
         {
-          "text": "item",
-          "translation": "предмет"
+          "text": "shirt",
+          "translation": "рубашка"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "too",
+          "translation": "слишком"
         },
         {
           "text": " "
         },
         {
           "text": "loose",
-          "translation": "свободный"
+          "translation": "свободная"
         },
         {
           "text": "."
@@ -9650,12 +9783,12 @@
       "translation": "покупать",
       "partOfSpeech": "verb",
       "transcription": "/ˈbaɪ/",
-      "example": "I need to buy it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: покупать.",
+      "example": "I need to buy bread today.",
+      "exampleTranslation": "Мне нужно купить хлеб сегодня.",
       "exampleTokens": [
         {
           "text": "I",
-          "translation": "я"
+          "translation": "мне"
         },
         {
           "text": " "
@@ -9669,21 +9802,21 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "buy",
-          "translation": "покупать"
+          "translation": "купить"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "bread",
+          "translation": "хлеб"
         },
         {
           "text": " "
@@ -9707,8 +9840,8 @@
       "translation": "продавать",
       "partOfSpeech": "verb",
       "transcription": "/ˈsɛl/",
-      "example": "I need to sell it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: продавать.",
+      "example": "I want to sell my car.",
+      "exampleTranslation": "Я хочу продать свою машину.",
       "exampleTokens": [
         {
           "text": "I",
@@ -9718,36 +9851,36 @@
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
+          "text": "want",
+          "translation": "хочу"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "sell",
-          "translation": "продавать"
+          "translation": "продать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "my",
+          "translation": "свою"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "car",
+          "translation": "машину"
         },
         {
           "text": "."
@@ -9769,7 +9902,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -9790,14 +9923,14 @@
         },
         {
           "text": "by",
-          "translation": "с помощью"
+          "translation": "указывает способ оплаты"
         },
         {
           "text": " "
         },
         {
           "text": "card",
-          "translation": "карта"
+          "translation": "картой"
         },
         {
           "text": "?"
@@ -9814,47 +9947,47 @@
       "translation": "тратить",
       "partOfSpeech": "verb",
       "transcription": "/ˈspɛnd/",
-      "example": "I need to spend it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: тратить.",
+      "example": "Do not spend all your money.",
+      "exampleTranslation": "Не трать все свои деньги.",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "Do",
+          "translation": "вспомогательный глагол отрицания"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "translation": "частица инфинитива"
+          "text": "not",
+          "translation": "не"
         },
         {
           "text": " "
         },
         {
           "text": "spend",
-          "translation": "тратить"
+          "translation": "трать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "all",
+          "translation": "все"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "your",
+          "translation": "свои"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "money",
+          "translation": "деньги"
         },
         {
           "text": "."
@@ -9871,8 +10004,8 @@
       "translation": "копить",
       "partOfSpeech": "verb",
       "transcription": "/ˈseɪv/",
-      "example": "I need to save it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: копить.",
+      "example": "I want to save money for a new bike.",
+      "exampleTranslation": "Я хочу накопить деньги на новый велосипед.",
       "exampleTokens": [
         {
           "text": "I",
@@ -9882,36 +10015,57 @@
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
+          "text": "want",
+          "translation": "хочу"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "save",
-          "translation": "копить"
+          "translation": "накопить"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "money",
+          "translation": "деньги"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "for",
+          "translation": "на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "new",
+          "translation": "новый"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bike",
+          "translation": "велосипед"
         },
         {
           "text": "."
@@ -9928,12 +10082,12 @@
       "translation": "зарабатывать",
       "partOfSpeech": "verb",
       "transcription": "/ˈɝn/",
-      "example": "I need to earn it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: зарабатывать.",
+      "example": "I need to earn some money.",
+      "exampleTranslation": "Мне нужно заработать немного денег.",
       "exampleTokens": [
         {
           "text": "I",
-          "translation": "я"
+          "translation": "мне"
         },
         {
           "text": " "
@@ -9947,28 +10101,28 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "earn",
-          "translation": "зарабатывать"
+          "translation": "заработать"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "some",
+          "translation": "немного"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "money",
+          "translation": "денег"
         },
         {
           "text": "."
@@ -9985,9 +10139,16 @@
       "translation": "брать взаймы",
       "partOfSpeech": "verb",
       "transcription": "/ˈbɑˌɹoʊ/",
-      "example": "I need to borrow it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: брать взаймы.",
+      "example": "Can I borrow your bicycle?",
+      "exampleTranslation": "Можно одолжить твой велосипед?",
       "exampleTokens": [
+        {
+          "text": "Can",
+          "translation": "можно"
+        },
+        {
+          "text": " "
+        },
         {
           "text": "I",
           "translation": "я"
@@ -9996,39 +10157,25 @@
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "translation": "частица инфинитива"
-        },
-        {
-          "text": " "
-        },
-        {
           "text": "borrow",
-          "translation": "брать взаймы"
+          "translation": "одолжить"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "your",
+          "translation": "твой"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "bicycle",
+          "translation": "велосипед"
         },
         {
-          "text": "."
+          "text": "?"
         }
       ],
       "contextDistractors": ["ceiling", "envelope", "cucumber"],
@@ -10047,7 +10194,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -10061,14 +10208,14 @@
         },
         {
           "text": "lend",
-          "translation": "давать взаймы"
+          "translation": "одолжить"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -10154,7 +10301,7 @@
         },
         {
           "text": "can",
-          "translation": "могу"
+          "translation": "можешь; можете"
         },
         {
           "text": " "
@@ -10192,47 +10339,40 @@
       "translation": "сравнивать",
       "partOfSpeech": "verb",
       "transcription": "/kəmˈpɛɹ/",
-      "example": "I need to compare it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: сравнивать.",
+      "example": "Let us compare the prices.",
+      "exampleTranslation": "Давай сравним цены.",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "Let",
+          "translation": "часть давай"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "translation": "частица инфинитива"
+          "text": "us",
+          "translation": "часть давай"
         },
         {
           "text": " "
         },
         {
           "text": "compare",
-          "translation": "сравнивать"
+          "translation": "сравним"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "the",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "prices",
+          "translation": "цены"
         },
         {
           "text": "."
@@ -10254,7 +10394,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "могу"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -10325,14 +10465,14 @@
         },
         {
           "text": "fit",
-          "translation": "подходить по размеру"
+          "translation": "подходит по размеру"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "мне"
+          "translation": "мне; меня"
         },
         {
           "text": " "
@@ -10361,7 +10501,7 @@
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "можно"
+          "translation": "можно: просьба о разрешении"
         },
         {
           "text": " "
@@ -10399,26 +10539,26 @@
       "translation": "отменять",
       "partOfSpeech": "verb",
       "transcription": "/ˈkænsəl/",
-      "example": "Can you help me cancel?",
-      "exampleTranslation": "Вы можете помочь мне отменять?",
+      "example": "Can you help me cancel my order?",
+      "exampleTranslation": "Можешь помочь мне отменить заказ?",
       "exampleTokens": [
         {
           "text": "Can",
-          "translation": "мочь"
+          "translation": "можешь"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "вы"
+          "translation": "ты"
         },
         {
           "text": " "
         },
         {
           "text": "help",
-          "translation": "помощь"
+          "translation": "помочь"
         },
         {
           "text": " "
@@ -10432,7 +10572,21 @@
         },
         {
           "text": "cancel",
-          "translation": "отменять"
+          "translation": "отменить"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my",
+          "translation": "мой"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "order",
+          "translation": "заказ"
         },
         {
           "text": "?"
@@ -10449,47 +10603,47 @@
       "translation": "возвращать деньги",
       "partOfSpeech": "verb",
       "transcription": "/ɹɪˈfʌnd/",
-      "example": "I need to refund it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: возвращать деньги.",
+      "example": "The shop will refund your money.",
+      "exampleTranslation": "Магазин вернёт вам деньги.",
       "exampleTokens": [
         {
-          "text": "I",
-          "translation": "я"
+          "text": "The",
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
+          "text": "shop",
+          "translation": "магазин"
         },
         {
           "text": " "
         },
         {
-          "text": "to",
-          "translation": "частица инфинитива"
+          "text": "will",
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "refund",
-          "translation": "возвращать деньги"
+          "translation": "вернёт"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "your",
+          "translation": "ваши"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "money",
+          "translation": "деньги"
         },
         {
           "text": "."
@@ -10506,12 +10660,12 @@
       "translation": "возвращать товар",
       "partOfSpeech": "verb",
       "transcription": "/ɹɪˈtɝn/",
-      "example": "I need to return it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: возвращать товар.",
+      "example": "I need to return this shirt.",
+      "exampleTranslation": "Мне нужно вернуть эту рубашку.",
       "exampleTokens": [
         {
           "text": "I",
-          "translation": "я"
+          "translation": "мне"
         },
         {
           "text": " "
@@ -10525,28 +10679,28 @@
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "return",
-          "translation": "возвращать товар"
+          "translation": "вернуть"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "this",
+          "translation": "эту"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "shirt",
+          "translation": "рубашку"
         },
         {
           "text": "."
@@ -10563,9 +10717,16 @@
       "translation": "обменивать",
       "partOfSpeech": "verb",
       "transcription": "/ɪksˈtʃeɪndʒ/",
-      "example": "I need to exchange it today.",
-      "exampleTranslation": "Мне нужно сегодня это сделать: обменивать.",
+      "example": "Can I exchange this shirt for a larger size?",
+      "exampleTranslation": "Можно обменять эту рубашку на размер побольше?",
       "exampleTokens": [
+        {
+          "text": "Can",
+          "translation": "можно"
+        },
+        {
+          "text": " "
+        },
         {
           "text": "I",
           "translation": "я"
@@ -10574,39 +10735,53 @@
           "text": " "
         },
         {
-          "text": "need",
-          "translation": "нужно"
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "translation": "частица инфинитива"
-        },
-        {
-          "text": " "
-        },
-        {
           "text": "exchange",
-          "translation": "обменивать"
+          "translation": "обменять"
         },
         {
           "text": " "
         },
         {
-          "text": "it",
-          "translation": "это"
+          "text": "this",
+          "translation": "эту"
         },
         {
           "text": " "
         },
         {
-          "text": "today",
-          "translation": "сегодня"
+          "text": "shirt",
+          "translation": "рубашку"
         },
         {
-          "text": "."
+          "text": " "
+        },
+        {
+          "text": "for",
+          "translation": "на"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "translation": "неопределённый артикль"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "larger",
+          "translation": "больший"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "size",
+          "translation": "размер"
+        },
+        {
+          "text": "?"
         }
       ],
       "contextDistractors": ["although", "unless", "because"],

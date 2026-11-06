@@ -23,14 +23,14 @@
         },
         {
           "text": "work",
-          "translation": "хороший"
+          "translation": "работаю"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
@@ -66,14 +66,14 @@
         },
         {
           "text": "meet",
-          "translation": "посмотри"
+          "translation": "встречаемся"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "во"
         },
         {
           "text": " "
@@ -102,35 +102,35 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "class",
-          "translation": "увидимся"
+          "translation": "занятие"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "Wednesday",
-          "translation": "среда"
+          "translation": "среду"
         },
         {
           "text": "."
@@ -159,14 +159,14 @@
         },
         {
           "text": "study",
-          "translation": "встречаемся"
+          "translation": "учусь"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
@@ -195,35 +195,35 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "party",
-          "translation": "работаю"
+          "translation": "вечеринка"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "Friday",
-          "translation": "пятница"
+          "translation": "пятницу"
         },
         {
           "text": "."
@@ -252,21 +252,21 @@
         },
         {
           "text": "rest",
-          "translation": "занятие"
+          "translation": "отдыхаю"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "Saturday",
-          "translation": "суббота"
+          "translation": "субботу"
         },
         {
           "text": "."
@@ -295,14 +295,14 @@
         },
         {
           "text": "walk",
-          "translation": "вечеринка"
+          "translation": "гуляем"
         },
         {
           "text": " "
         },
         {
           "text": "on",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
@@ -338,21 +338,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "cold",
-          "translation": "учусь"
+          "translation": "холодный"
         },
         {
           "text": " "
         },
         {
           "text": "here",
-          "translation": "пришёл"
+          "translation": "здесь"
         },
         {
           "text": "."
@@ -381,21 +381,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "артикль"
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "short",
-          "translation": "отдыхаю"
+          "translation": "короткий"
         },
         {
           "text": " "
@@ -424,28 +424,28 @@
       "exampleTokens": [
         {
           "text": "Spring",
-          "translation": "гуляем"
+          "translation": "весна"
         },
         {
           "text": " "
         },
         {
           "text": "begins",
-          "translation": "холодный"
+          "translation": "начинается"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "March",
-          "translation": "март"
+          "translation": "марте"
         },
         {
           "text": "."
@@ -467,28 +467,28 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "для"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "rains",
-          "translation": "короткий"
+          "translation": "идёт дождь"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "April",
-          "translation": "апрель"
+          "translation": "апреле"
         },
         {
           "text": "."
@@ -517,28 +517,28 @@
         },
         {
           "text": "birthday",
-          "translation": "весна"
+          "translation": "день рождения"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "May",
-          "translation": "май"
+          "translation": "мае"
         },
         {
           "text": "."
@@ -560,28 +560,28 @@
       "exampleTokens": [
         {
           "text": "School",
-          "translation": "начинается"
+          "translation": "занятия в школе"
         },
         {
           "text": " "
         },
         {
           "text": "ends",
-          "translation": "идут"
+          "translation": "заканчиваются"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "June",
-          "translation": "июнь"
+          "translation": "июне"
         },
         {
           "text": "."
@@ -610,21 +610,21 @@
         },
         {
           "text": "travel",
-          "translation": "день-рождения"
+          "translation": "путешествуем"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "July",
-          "translation": "июль"
+          "translation": "июле"
         },
         {
           "text": "."
@@ -653,21 +653,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "often",
-          "translation": "школа"
+          "translation": "часто"
         },
         {
           "text": " "
         },
         {
           "text": "hot",
-          "translation": "заканчивается"
+          "translation": "жаркий"
         },
         {
           "text": "."
@@ -689,28 +689,28 @@
       "exampleTokens": [
         {
           "text": "Classes",
-          "translation": "путешествуем"
+          "translation": "занятия"
         },
         {
           "text": " "
         },
         {
           "text": "start",
-          "translation": "часто"
+          "translation": "начинаются"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "September",
-          "translation": "сентябрь"
+          "translation": "сентябре"
         },
         {
           "text": "."
@@ -732,28 +732,28 @@
       "exampleTokens": [
         {
           "text": "Leaves",
-          "translation": "листья; уходит"
+          "translation": "листья"
         },
         {
           "text": " "
         },
         {
           "text": "fall",
-          "translation": "занятия"
+          "translation": "опадают"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "October",
-          "translation": "октябрь"
+          "translation": "октябре"
         },
         {
           "text": "."
@@ -782,21 +782,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "usually",
-          "translation": "начинаются"
+          "translation": "обычно"
         },
         {
           "text": " "
         },
         {
           "text": "rainy",
-          "translation": "листья"
+          "translation": "дождливый"
         },
         {
           "text": "."
@@ -825,21 +825,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "last",
-          "translation": "прошлый; последний"
+          "translation": "последний"
         },
         {
           "text": " "
@@ -868,28 +868,28 @@
       "exampleTokens": [
         {
           "text": "Flowers",
-          "translation": "обычно"
+          "translation": "цветы"
         },
         {
           "text": " "
         },
         {
           "text": "grow",
-          "translation": "дождливый"
+          "translation": "растут"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в: указывает время года"
         },
         {
           "text": " "
         },
         {
           "text": "spring",
-          "translation": "весна"
+          "translation": "весной"
         },
         {
           "text": "."
@@ -918,21 +918,21 @@
         },
         {
           "text": "swim",
-          "translation": "последний"
+          "translation": "плаваем"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в: указывает время года"
         },
         {
           "text": " "
         },
         {
           "text": "summer",
-          "translation": "лето"
+          "translation": "летом"
         },
         {
           "text": "."
@@ -954,42 +954,42 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "air",
-          "translation": "цветы"
+          "translation": "воздух"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "cool",
-          "translation": "растут"
+          "translation": "прохладный"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в: указывает время года"
         },
         {
           "text": " "
         },
         {
           "text": "autumn",
-          "translation": "осень"
+          "translation": "осенью"
         },
         {
           "text": "."
@@ -1011,35 +1011,35 @@
       "exampleTokens": [
         {
           "text": "Leaves",
-          "translation": "листья; уходит"
+          "translation": "листья"
         },
         {
           "text": " "
         },
         {
           "text": "change",
-          "translation": "плаваем"
+          "translation": "меняют"
         },
         {
           "text": " "
         },
         {
           "text": "colour",
-          "translation": "воздух"
+          "translation": "цвет"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в: указывает время года"
         },
         {
           "text": " "
         },
         {
           "text": "fall",
-          "translation": "осень (амер.)"
+          "translation": "осенью"
         },
         {
           "text": "."
@@ -1061,28 +1061,28 @@
       "exampleTokens": [
         {
           "text": "It",
-          "translation": "для"
+          "translation": "формальное подлежащее; отдельно не переводится"
         },
         {
           "text": " "
         },
         {
           "text": "snows",
-          "translation": "прохладный"
+          "translation": "идёт снег"
         },
         {
           "text": " "
         },
         {
           "text": "in",
-          "translation": "есть"
+          "translation": "в: указывает время года"
         },
         {
           "text": " "
         },
         {
           "text": "winter",
-          "translation": "зима"
+          "translation": "зимой"
         },
         {
           "text": "."
@@ -1104,28 +1104,28 @@
       "exampleTokens": [
         {
           "text": "What",
-          "translation": "наш"
+          "translation": "какое"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
           "text": "your",
-          "translation": "твой"
+          "translation": "твоё"
         },
         {
           "text": " "
         },
         {
           "text": "favourite",
-          "translation": "любимый"
+          "translation": "любимое"
         },
         {
           "text": " "
@@ -1161,14 +1161,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "артикль"
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
@@ -1204,7 +1204,7 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие сейчас"
         },
         {
           "text": " "
@@ -1218,14 +1218,14 @@
         },
         {
           "text": "doing",
-          "translation": "делает"
+          "translation": "делаешь"
         },
         {
           "text": " "
         },
         {
           "text": "this",
-          "translation": "этот"
+          "translation": "в эти"
         },
         {
           "text": " "
@@ -1254,14 +1254,14 @@
       "exampleTokens": [
         {
           "text": "It's",
-          "translation": "это; сокращение it is"
+          "translation": "сокращение ; вспомогательный глагол перфекта"
         },
         {
           "text": " "
         },
         {
           "text": "been",
-          "translation": "форма причастия глагола быть"
+          "translation": "была: форма"
         },
         {
           "text": " "
@@ -1275,7 +1275,7 @@
         },
         {
           "text": "busy",
-          "translation": "занятый"
+          "translation": "насыщенная"
         },
         {
           "text": " "
@@ -1304,28 +1304,28 @@
       "exampleTokens": [
         {
           "text": "See",
-          "translation": "видеть"
+          "translation": "увидимся:"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть увидимся"
         },
         {
           "text": " "
         },
         {
           "text": "next",
-          "translation": "следующий"
+          "translation": "в следующем"
         },
         {
           "text": " "
         },
         {
           "text": "month",
-          "translation": "месяц"
+          "translation": "месяце"
         },
         {
           "text": "."
@@ -1361,14 +1361,14 @@
         },
         {
           "text": "went",
-          "translation": "пошли"
+          "translation": "прошёл"
         },
         {
           "text": " "
         },
         {
           "text": "fast",
-          "translation": "быстрый"
+          "translation": "быстро"
         },
         {
           "text": "."
@@ -1390,28 +1390,28 @@
       "exampleTokens": [
         {
           "text": "Have",
-          "translation": "иметь"
+          "translation": "пожелание: хорошего дня"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "неопределённый артикль"
+          "translation": "часть пожелания"
         },
         {
           "text": " "
         },
         {
           "text": "good",
-          "translation": "хороший"
+          "translation": "хорошего"
         },
         {
           "text": " "
         },
         {
           "text": "day",
-          "translation": "день"
+          "translation": "дня"
         },
         {
           "text": "!"
@@ -1433,21 +1433,21 @@
       "exampleTokens": [
         {
           "text": "What",
-          "translation": "какой; что"
+          "translation": "какая"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка в вопросе"
         },
         {
           "text": " "
         },
         {
           "text": "today's",
-          "translation": "сегодняшний"
+          "translation": "сегодняшняя"
         },
         {
           "text": " "
@@ -1476,14 +1476,14 @@
       "exampleTokens": [
         {
           "text": "Check",
-          "translation": "каждый"
+          "translation": "проверь"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
@@ -1519,14 +1519,14 @@
         },
         {
           "text": "feel",
-          "translation": "чувствовать"
+          "translation": "чувствую себя"
         },
         {
           "text": " "
         },
         {
           "text": "great",
-          "translation": "отличный"
+          "translation": "отлично"
         },
         {
           "text": " "
@@ -1598,14 +1598,14 @@
       "exampleTokens": [
         {
           "text": "Let's",
-          "translation": "давайте; сокращение let us"
+          "translation": "давай"
         },
         {
           "text": " "
         },
         {
           "text": "meet",
-          "translation": "встретиться"
+          "translation": "встретимся"
         },
         {
           "text": " "
@@ -1641,14 +1641,14 @@
         },
         {
           "text": "are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: запланированное действие"
         },
         {
           "text": " "
         },
         {
           "text": "meeting",
-          "translation": "календарь"
+          "translation": "встречаемся"
         },
         {
           "text": " "
@@ -1720,28 +1720,28 @@
       "exampleTokens": [
         {
           "text": "I'm",
-          "translation": "я; сокращение I am"
+          "translation": "я: сокращение"
         },
         {
           "text": " "
         },
         {
           "text": "free",
-          "translation": "свободный"
+          "translation": "свободен"
         },
         {
           "text": " "
         },
         {
           "text": "this",
-          "translation": "этот"
+          "translation": "сегодня"
         },
         {
           "text": " "
         },
         {
           "text": "afternoon",
-          "translation": "вторая половина дня"
+          "translation": "днём"
         },
         {
           "text": "."
@@ -1763,28 +1763,28 @@
       "exampleTokens": [
         {
           "text": "See",
-          "translation": "видеть"
+          "translation": "увидимся:"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть увидимся"
         },
         {
           "text": " "
         },
         {
           "text": "this",
-          "translation": "этот"
+          "translation": "сегодня"
         },
         {
           "text": " "
         },
         {
           "text": "evening",
-          "translation": "вечер"
+          "translation": "вечером"
         },
         {
           "text": "."
@@ -1827,14 +1827,14 @@
         },
         {
           "text": "last",
-          "translation": "прошлый; последний"
+          "translation": "прошлой"
         },
         {
           "text": " "
         },
         {
           "text": "night",
-          "translation": "ночь"
+          "translation": "ночью"
         },
         {
           "text": "."
@@ -1913,7 +1913,7 @@
         },
         {
           "text": "meet",
-          "translation": "встречать"
+          "translation": "встречаемся"
         },
         {
           "text": " "
@@ -1956,21 +1956,21 @@
         },
         {
           "text": "left",
-          "translation": "отправляется"
+          "translation": "ушли"
         },
         {
           "text": " "
         },
         {
           "text": "at",
-          "translation": "есть"
+          "translation": "на"
         },
         {
           "text": " "
         },
         {
           "text": "dawn",
-          "translation": "рассвет"
+          "translation": "рассвете"
         },
         {
           "text": "."
@@ -1992,42 +1992,42 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "sky",
-          "translation": "обед"
+          "translation": "небо"
         },
         {
           "text": " "
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "pink",
-          "translation": "начинается"
+          "translation": "розовое"
         },
         {
           "text": " "
         },
         {
           "text": "at",
-          "translation": "есть"
+          "translation": "в"
         },
         {
           "text": " "
         },
         {
           "text": "dusk",
-          "translation": "сумерки"
+          "translation": "сумерках"
         },
         {
           "text": "."
@@ -2056,21 +2056,21 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "beautiful",
-          "translation": "ушли"
+          "translation": "красивый"
         },
         {
           "text": " "
         },
         {
           "text": "here",
-          "translation": "пришёл"
+          "translation": "здесь"
         },
         {
           "text": "."
@@ -2099,14 +2099,14 @@
         },
         {
           "text": "watched",
-          "translation": "посмотрели"
+          "translation": "наблюдали"
         },
         {
           "text": " "
         },
         {
           "text": "the",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
@@ -2135,42 +2135,42 @@
       "exampleTokens": [
         {
           "text": "I",
-          "translation": "я"
+          "translation": "у меня"
         },
         {
           "text": " "
         },
         {
           "text": "have",
-          "translation": "это"
+          "translation": "есть"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "артикль"
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "test",
-          "translation": "розовое"
+          "translation": "контрольная"
         },
         {
           "text": " "
         },
         {
           "text": "this",
-          "translation": "с"
+          "translation": "на этой"
         },
         {
           "text": " "
         },
         {
           "text": "week",
-          "translation": "любимый"
+          "translation": "неделе"
         },
         {
           "text": "."
@@ -2199,28 +2199,28 @@
         },
         {
           "text": "will",
-          "translation": "тот"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "meet",
-          "translation": "посмотри"
+          "translation": "встретимся"
         },
         {
           "text": " "
         },
         {
           "text": "next",
-          "translation": "следующий"
+          "translation": "на следующей"
         },
         {
           "text": " "
         },
         {
           "text": "week",
-          "translation": "любимый"
+          "translation": "неделе"
         },
         {
           "text": "."
@@ -2249,28 +2249,28 @@
         },
         {
           "text": "was",
-          "translation": "был; была"
+          "translation": "был"
         },
         {
           "text": " "
         },
         {
           "text": "sick",
-          "translation": "красивый"
+          "translation": "болен"
         },
         {
           "text": " "
         },
         {
           "text": "last",
-          "translation": "прошлый; последний"
+          "translation": "на прошлой"
         },
         {
           "text": " "
         },
         {
           "text": "week",
-          "translation": "любимый"
+          "translation": "неделе"
         },
         {
           "text": "."
@@ -2299,28 +2299,28 @@
         },
         {
           "text": "am",
-          "translation": "форма глагола быть с I"
+          "translation": "вспомогательный глагол: действие сейчас"
         },
         {
           "text": " "
         },
         {
           "text": "travelling",
-          "translation": "путешествует"
+          "translation": "путешествую"
         },
         {
           "text": " "
         },
         {
           "text": "this",
-          "translation": "с"
+          "translation": "в этом"
         },
         {
           "text": " "
         },
         {
           "text": "month",
-          "translation": "месяц"
+          "translation": "месяце"
         },
         {
           "text": "."
@@ -2349,7 +2349,7 @@
         },
         {
           "text": "course",
-          "translation": "смотрели"
+          "translation": "курс"
         },
         {
           "text": " "
@@ -2363,14 +2363,14 @@
         },
         {
           "text": "next",
-          "translation": "следующий"
+          "translation": "в следующем"
         },
         {
           "text": " "
         },
         {
           "text": "month",
-          "translation": "месяц"
+          "translation": "месяце"
         },
         {
           "text": "."
@@ -2399,21 +2399,21 @@
         },
         {
           "text": "moved",
-          "translation": "контрольная"
+          "translation": "переехал"
         },
         {
           "text": " "
         },
         {
           "text": "last",
-          "translation": "прошлый; последний"
+          "translation": "в прошлом"
         },
         {
           "text": " "
         },
         {
           "text": "month",
-          "translation": "месяц"
+          "translation": "месяце"
         },
         {
           "text": "."
@@ -2442,35 +2442,35 @@
         },
         {
           "text": "am",
-          "translation": "форма глагола быть с I"
+          "translation": "вспомогательный глагол: действие сейчас"
         },
         {
           "text": " "
         },
         {
           "text": "learning",
-          "translation": "болел"
+          "translation": "учу"
         },
         {
           "text": " "
         },
         {
           "text": "English",
-          "translation": "английский язык"
+          "translation": "английский"
         },
         {
           "text": " "
         },
         {
           "text": "this",
-          "translation": "с"
+          "translation": "в этом"
         },
         {
           "text": " "
         },
         {
           "text": "year",
-          "translation": "неделя"
+          "translation": "году"
         },
         {
           "text": "."
@@ -2499,28 +2499,28 @@
         },
         {
           "text": "will",
-          "translation": "тот"
+          "translation": "вспомогательный глагол будущего времени"
         },
         {
           "text": " "
         },
         {
           "text": "graduate",
-          "translation": "переехал"
+          "translation": "окончу учёбу"
         },
         {
           "text": " "
         },
         {
           "text": "next",
-          "translation": "следующий"
+          "translation": "в следующем"
         },
         {
           "text": " "
         },
         {
           "text": "year",
-          "translation": "неделя"
+          "translation": "году"
         },
         {
           "text": "."
@@ -2549,21 +2549,21 @@
         },
         {
           "text": "met",
-          "translation": "учу"
+          "translation": "познакомились"
         },
         {
           "text": " "
         },
         {
           "text": "last",
-          "translation": "прошлый; последний"
+          "translation": "в прошлом"
         },
         {
           "text": " "
         },
         {
           "text": "year",
-          "translation": "неделя"
+          "translation": "году"
         },
         {
           "text": "."
@@ -2592,21 +2592,21 @@
         },
         {
           "text": "read",
-          "translation": "английский"
+          "translation": "читаю"
         },
         {
           "text": " "
         },
         {
           "text": "every",
-          "translation": "мне"
+          "translation": "каждый"
         },
         {
           "text": " "
         },
         {
           "text": "day",
-          "translation": "двенадцать"
+          "translation": "день"
         },
         {
           "text": "."
@@ -2635,21 +2635,21 @@
         },
         {
           "text": "talk",
-          "translation": "окончу"
+          "translation": "разговариваем"
         },
         {
           "text": " "
         },
         {
           "text": "every",
-          "translation": "мне"
+          "translation": "каждую"
         },
         {
           "text": " "
         },
         {
           "text": "week",
-          "translation": "любимый"
+          "translation": "неделю"
         },
         {
           "text": "."
@@ -2678,21 +2678,21 @@
         },
         {
           "text": "save",
-          "translation": "познакомились"
+          "translation": "откладываю"
         },
         {
           "text": " "
         },
         {
           "text": "money",
-          "translation": "читаю"
+          "translation": "деньги"
         },
         {
           "text": " "
         },
         {
           "text": "every",
-          "translation": "мне"
+          "translation": "каждый"
         },
         {
           "text": " "
@@ -2728,28 +2728,28 @@
         },
         {
           "text": "swim",
-          "translation": "последний"
+          "translation": "плаваю"
         },
         {
           "text": " "
         },
         {
           "text": "once",
-          "translation": "разговариваем"
+          "translation": "один раз"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "артикль"
+          "translation": "в: частота действия"
         },
         {
           "text": " "
         },
         {
           "text": "week",
-          "translation": "любимый"
+          "translation": "неделю"
         },
         {
           "text": "."
@@ -2778,28 +2778,28 @@
         },
         {
           "text": "train",
-          "translation": "день"
+          "translation": "тренируемся"
         },
         {
           "text": " "
         },
         {
           "text": "twice",
-          "translation": "откладываю"
+          "translation": "два раза"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "артикль"
+          "translation": "в: частота действия"
         },
         {
           "text": " "
         },
         {
           "text": "week",
-          "translation": "любимый"
+          "translation": "неделю"
         },
         {
           "text": "."
@@ -2828,14 +2828,14 @@
         },
         {
           "text": "practise",
-          "translation": "деньги"
+          "translation": "практикую"
         },
         {
           "text": " "
         },
         {
           "text": "English",
-          "translation": "английский язык"
+          "translation": "английский"
         },
         {
           "text": " "
@@ -2864,21 +2864,21 @@
       "exampleTokens": [
         {
           "text": "The",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "team",
-          "translation": "раз"
+          "translation": "команда"
         },
         {
           "text": " "
         },
         {
           "text": "meets",
-          "translation": "соответствует; встречает"
+          "translation": "встречается"
         },
         {
           "text": " "
@@ -2914,14 +2914,14 @@
         },
         {
           "text": "pay",
-          "translation": "дважды"
+          "translation": "платим"
         },
         {
           "text": " "
         },
         {
           "text": "rent",
-          "translation": "практикую"
+          "translation": "арендную плату"
         },
         {
           "text": " "
@@ -2957,7 +2957,7 @@
         },
         {
           "text": "annual",
-          "translation": "ежегодный"
+          "translation": "годовой"
         },
         {
           "text": " "
@@ -2971,14 +2971,14 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "ready",
-          "translation": "готовый"
+          "translation": "готов"
         },
         {
           "text": "."
@@ -3007,14 +3007,14 @@
         },
         {
           "text": "woke",
-          "translation": "проснулся"
+          "translation": "проснулся:"
         },
         {
           "text": " "
         },
         {
           "text": "up",
-          "translation": "вверх"
+          "translation": "часть проснулся"
         },
         {
           "text": " "
@@ -3050,7 +3050,7 @@
         },
         {
           "text": "arrived",
-          "translation": "приехал"
+          "translation": "приехали"
         },
         {
           "text": " "
@@ -3079,14 +3079,14 @@
       "exampleTokens": [
         {
           "text": "See",
-          "translation": "видеть"
+          "translation": "увидимся:"
         },
         {
           "text": " "
         },
         {
           "text": "you",
-          "translation": "ты"
+          "translation": "часть увидимся"
         },
         {
           "text": " "
@@ -3115,28 +3115,28 @@
       "exampleTokens": [
         {
           "text": "We",
-          "translation": "мы"
+          "translation": "нам"
         },
         {
           "text": " "
         },
         {
           "text": "need",
-          "translation": "нужен"
+          "translation": "нужно"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "частица инфинитива"
+          "translation": "частица перед инфинитивом"
         },
         {
           "text": " "
         },
         {
           "text": "leave",
-          "translation": "уезжать"
+          "translation": "уйти"
         },
         {
           "text": " "
@@ -3172,14 +3172,14 @@
         },
         {
           "text": "moved",
-          "translation": "контрольная"
+          "translation": "переехал"
         },
         {
           "text": " "
         },
         {
           "text": "here",
-          "translation": "пришёл"
+          "translation": "сюда"
         },
         {
           "text": " "
@@ -3215,7 +3215,7 @@
         },
         {
           "text": "have",
-          "translation": "иметь"
+          "translation": "вспомогательный глагол перфекта"
         },
         {
           "text": " "
@@ -3236,7 +3236,7 @@
         },
         {
           "text": "my",
-          "translation": "мой"
+          "translation": "моё"
         },
         {
           "text": " "
@@ -3265,7 +3265,7 @@
       "exampleTokens": [
         {
           "text": "Are",
-          "translation": "есть; являются; глагол-связка"
+          "translation": "вспомогательный глагол: действие сейчас"
         },
         {
           "text": " "
@@ -3286,14 +3286,14 @@
         },
         {
           "text": "waiting",
-          "translation": "ждёт"
+          "translation": "ждёте"
         },
         {
           "text": " "
         },
         {
           "text": "for",
-          "translation": "для"
+          "translation": "часть ждать"
         },
         {
           "text": " "
@@ -3329,28 +3329,28 @@
       "exampleTokens": [
         {
           "text": "Call",
-          "translation": "звонить"
+          "translation": "позвони"
         },
         {
           "text": " "
         },
         {
           "text": "me",
-          "translation": "буду"
+          "translation": "мне"
         },
         {
           "text": " "
         },
         {
           "text": "before",
-          "translation": "до; раньше"
+          "translation": "до"
         },
         {
           "text": " "
         },
         {
           "text": "Friday",
-          "translation": "пятница"
+          "translation": "пятницы"
         },
         {
           "text": "."
@@ -3379,7 +3379,7 @@
         },
         {
           "text": "meet",
-          "translation": "посмотри"
+          "translation": "встречаемся"
         },
         {
           "text": " "
@@ -3393,7 +3393,7 @@
         },
         {
           "text": "lunch",
-          "translation": "сплю"
+          "translation": "обеда"
         },
         {
           "text": "."
@@ -3422,7 +3422,7 @@
         },
         {
           "text": "read",
-          "translation": "английский"
+          "translation": "читаю"
         },
         {
           "text": " "
@@ -3436,14 +3436,14 @@
         },
         {
           "text": "the",
-          "translation": "определённый"
+          "translation": "определённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "break",
-          "translation": "после"
+          "translation": "перерыва"
         },
         {
           "text": "."
@@ -3472,21 +3472,21 @@
         },
         {
           "text": "work",
-          "translation": "хороший"
+          "translation": "работаю"
         },
         {
           "text": " "
         },
         {
           "text": "until",
-          "translation": "до (какого-то времени)"
+          "translation": "до"
         },
         {
           "text": " "
         },
         {
           "text": "Friday",
-          "translation": "пятница"
+          "translation": "пятницы"
         },
         {
           "text": "."
@@ -3515,35 +3515,35 @@
         },
         {
           "text": "work",
-          "translation": "хороший"
+          "translation": "работаю"
         },
         {
           "text": " "
         },
         {
           "text": "from",
-          "translation": "в"
+          "translation": "с"
         },
         {
           "text": " "
         },
         {
           "text": "Monday",
-          "translation": "понедельник"
+          "translation": "понедельника"
         },
         {
           "text": " "
         },
         {
           "text": "to",
-          "translation": "в"
+          "translation": "до"
         },
         {
           "text": " "
         },
         {
           "text": "Friday",
-          "translation": "пятница"
+          "translation": "пятницы"
         },
         {
           "text": "."
@@ -3572,7 +3572,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
@@ -3586,14 +3586,14 @@
         },
         {
           "text": "day",
-          "translation": "двенадцать"
+          "translation": "часть выходной"
         },
         {
           "text": " "
         },
         {
           "text": "off",
-          "translation": "прочь; выключено"
+          "translation": "часть выходной"
         },
         {
           "text": "."
@@ -3622,28 +3622,28 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
         },
         {
           "text": "a",
-          "translation": "артикль"
+          "translation": "неопределённый артикль"
         },
         {
           "text": " "
         },
         {
           "text": "public",
-          "translation": "перерыв"
+          "translation": "государственный"
         },
         {
           "text": " "
         },
         {
           "text": "holiday",
-          "translation": "до"
+          "translation": "праздник"
         },
         {
           "text": "."
@@ -3679,7 +3679,7 @@
         },
         {
           "text": "is",
-          "translation": "есть; является; глагол-связка"
+          "translation": "связка; в русском опускается"
         },
         {
           "text": " "
@@ -3693,7 +3693,7 @@
         },
         {
           "text": "May",
-          "translation": "можно, возможно"
+          "translation": "мае"
         },
         {
           "text": "."
