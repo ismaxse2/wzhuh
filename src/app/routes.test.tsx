@@ -1106,3 +1106,29 @@ it("shows the first six ordered sets on home and all ordered options in the dict
     ),
   ).toEqual(wordSets.map((set) => set.title));
 });
+
+it("keeps links and route navigation inside the GitHub Pages basename", async () => {
+  const router = createMemoryRouter(appRoutes, {
+    basename: "/wzhuh",
+    initialEntries: ["/wzhuh/dictionary"],
+  });
+  routers.push(router);
+  render(
+    <VocabularyProvider>
+      <RouterProvider router={router} />
+    </VocabularyProvider>,
+  );
+  const profile = screen.getByRole("link", { name: "Профиль" });
+  expect(profile.getAttribute("href")).toBe("/wzhuh/profile");
+  await userEvent.setup().click(profile);
+  expect(router.state.location.pathname).toBe("/wzhuh/profile");
+  await userEvent
+    .setup()
+    .click(screen.getByRole("link", { name: "Настройки" }));
+  expect(router.state.location.pathname).toBe("/wzhuh/profile/settings");
+  expect(
+    screen
+      .getByRole("link", { name: "Wzhuh — на главную" })
+      .getAttribute("href"),
+  ).toBe("/wzhuh");
+});

@@ -18,7 +18,7 @@ export const appRoutes: RouteObject[] = [
       <div className="empty-state">
         <h1>Не удалось открыть страницу</h1>
         <p>Попробуйте перезагрузить приложение.</p>
-        <a href="/" className="button primary">
+        <a href={import.meta.env.BASE_URL} className="button primary">
           На главную
         </a>
       </div>
