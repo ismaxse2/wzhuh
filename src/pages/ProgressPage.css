@@ -78,12 +78,12 @@
   gap: var(--space-2-5);
 }
 .accuracy-panel strong {
-  font-size: 31px;
+  font-size: 1.9375rem;
   font-weight: 500;
   color: #9a7aac;
 }
 .accuracy-panel strong small {
-  font-size: 17px;
+  font-size: 1.0625rem;
 }
 .accuracy-counts {
   display: flex;
@@ -184,7 +184,7 @@
 }
 @media (max-width: 520px) {
   .progress-stat strong {
-    font-size: 31px;
+    font-size: 1.9375rem;
   }
 }
 @media (max-width: 520px) {

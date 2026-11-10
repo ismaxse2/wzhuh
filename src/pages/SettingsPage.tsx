@@ -23,6 +23,31 @@ export function SettingsPage() {
       )}
       <div className="settings-stack">
         <section className="panel settings-panel">
+          <fieldset className="font-size-setting">
+            <legend>Размер шрифта</legend>
+            <div className="font-size-options">
+              {(
+                [
+                  ["normal", "Обычный"],
+                  ["large", "Крупный"],
+                  ["extra-large", "Очень крупный"],
+                ] as const
+              ).map(([value, label]) => (
+                <label key={value} className="font-size-option">
+                  <input
+                    type="radio"
+                    name="font-size"
+                    value={value}
+                    checked={data.settings.fontSize === value}
+                    onChange={() => change({ fontSize: value })}
+                  />
+                  <span>{label}</span>
+                </label>
+              ))}
+            </div>
+          </fieldset>
+        </section>
+        <section className="panel settings-panel">
           <div className="settings-title">
             <div>
               <h2>Сколько слов хотите учить в день</h2>

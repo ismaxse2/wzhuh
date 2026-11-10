@@ -44,6 +44,7 @@ export interface UserWordProgress {
   retentionIntervalIndex: number;
 }
 export interface Settings {
+  fontSize: "normal" | "large" | "extra-large";
   quickAddCount: number;
   speechEnabled: boolean;
   accent: "en-US" | "en-GB";

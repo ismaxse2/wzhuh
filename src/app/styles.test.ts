@@ -15,6 +15,21 @@ function styles(dir: string): string[] {
   );
 }
 describe("stylesheet ownership and tokens", () => {
+  it("scales all text independently of fixed layout dimensions", () => {
+    for (const file of styles(src))
+      postcss.parse(readFileSync(file, "utf8")).walkDecls((declaration) => {
+        if (declaration.prop.startsWith("--text-"))
+          expect(declaration.value, declaration.prop).toMatch(/^[\d.]+rem$/);
+        if (declaration.prop === "font-size" && /px/.test(declaration.value)) {
+          expect(file).toBe(join(src, "shared/styles/base.css"));
+          expect(declaration.value).toBe("16px");
+          expect(declaration.parent?.type).toBe("rule");
+          expect((declaration.parent as { selector?: string }).selector).toBe(
+            ":root",
+          );
+        }
+      });
+  });
   it("keeps the app style entry limited to imports and resolves local CSS imports", () => {
     const entry = postcss.parse(
       readFileSync(join(src, "app/styles/index.css"), "utf8"),
@@ -60,7 +75,7 @@ describe("stylesheet ownership and tokens", () => {
       expect(() => check(value), file).not.toThrow();
     }
     expect(definitions.get("--space-4")).toBe("16px");
-    expect(definitions.get("--text-base")).toBe("16px");
+    expect(definitions.get("--text-base")).toBe("1rem");
     expect(definitions.get("--content-max-width")).toBe("1100px");
     expect(definitions.get("--accent")).toBe("var(--color-accent)");
   });

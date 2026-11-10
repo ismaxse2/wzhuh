@@ -138,7 +138,7 @@
 }
 @media (max-width: 1200px) {
   .page-heading h1 {
-    font-size: 25px;
+    font-size: 1.5625rem;
   }
 }
 @media (max-width: 1200px) {
@@ -169,7 +169,7 @@
 }
 @media (max-width: 760px) {
   .page-heading h1 {
-    font-size: 26px;
+    font-size: 1.625rem;
   }
 }
 @media (max-width: 760px) {
@@ -185,7 +185,7 @@
 }
 @media (max-width: 760px) {
   .section-heading h2 {
-    font-size: 19px;
+    font-size: 1.1875rem;
   }
 }
 @media (max-width: 760px) {
@@ -200,7 +200,7 @@
 }
 @media (max-width: 520px) {
   .page-heading h1 {
-    font-size: 25px;
+    font-size: 1.5625rem;
     line-height: 1.3;
   }
 }

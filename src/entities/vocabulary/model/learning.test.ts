@@ -356,6 +356,7 @@ describe("persistence and migration", () => {
       const d = migrate(raw);
       expect(d.version).toBe(2);
       expect(d.settings).toEqual({
+        fontSize: "normal",
         quickAddCount: 20,
         speechEnabled: false,
         accent: "en-GB",

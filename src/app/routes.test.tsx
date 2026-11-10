@@ -362,6 +362,7 @@ describe("header and profile navigation", () => {
       "en-GB",
     );
     expect(storageService.load().settings).toEqual({
+      fontSize: "normal",
       quickAddCount: 5,
       speechEnabled: false,
       accent: "en-GB",

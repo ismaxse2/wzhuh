@@ -51,7 +51,7 @@
 }
 
 .context-sentence {
-  font-size: 23px;
+  font-size: 1.4375rem;
   line-height: 1.8;
   color: #755a85;
 }
@@ -63,6 +63,6 @@
 }
 @media (max-width: 520px) {
   .context-sentence {
-    font-size: 21px;
+    font-size: 1.3125rem;
   }
 }

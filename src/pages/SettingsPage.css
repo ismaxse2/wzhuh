@@ -14,7 +14,7 @@
   margin-bottom: 25px;
 }
 .settings-title h2 {
-  font-size: 17px;
+  font-size: 1.0625rem;
 }
 .settings-title p {
   font-size: var(--text-control);
@@ -39,7 +39,7 @@
   gap: 7px;
 }
 .limit-options strong {
-  font-size: 23px;
+  font-size: 1.4375rem;
   font-weight: 550;
 }
 .limit-options span {
@@ -201,7 +201,7 @@
 }
 @media (max-width: 520px) {
   .settings-title h2 {
-    font-size: 17px;
+    font-size: 1.0625rem;
   }
 }
 @media (max-width: 520px) {
@@ -253,4 +253,50 @@
 .settings-panel h2,
 .settings-panel h3 {
   font-style: normal;
+}
+.font-size-setting {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.font-size-setting legend {
+  padding: 0;
+  margin-bottom: 25px;
+  font-size: 1.0625rem;
+  font-weight: 650;
+  letter-spacing: -0.45px;
+}
+.font-size-options {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-2-5);
+}
+.font-size-option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-4);
+  border: 1px solid var(--color-border-control);
+  border-radius: var(--radius-md);
+  font-size: var(--text-base);
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+.font-size-option:has(input:checked) {
+  border-color: var(--accent);
+  background: var(--color-surface-accent);
+}
+.font-size-option:has(input:focus-visible) {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+.font-size-option input {
+  flex-shrink: 0;
+  accent-color: var(--accent);
+}
+@media (max-width: 760px) {
+  .font-size-options {
+    grid-template-columns: 1fr;
+  }
 }

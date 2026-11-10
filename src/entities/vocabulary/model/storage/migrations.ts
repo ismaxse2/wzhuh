@@ -156,6 +156,10 @@ export function migrate(raw: unknown): UserData {
   const amount =
     raw.version === 2 ? settings.quickAddCount : settings.dailyLimit;
   base.settings = {
+    fontSize:
+      settings.fontSize === "large" || settings.fontSize === "extra-large"
+        ? settings.fontSize
+        : "normal",
     quickAddCount: [5, 10, 15, 20, 30].includes(Number(amount))
       ? Number(amount)
       : 10,

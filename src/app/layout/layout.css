@@ -23,7 +23,7 @@
 }
 @media (max-width: 1000px) {
   .brand {
-    font-size: 27px;
+    font-size: 1.6875rem;
     margin-left: 9px;
   }
 }
@@ -36,7 +36,7 @@
 @media (max-width: 760px) {
   .brand {
     margin: 0;
-    font-size: 25px;
+    font-size: 1.5625rem;
     gap: 7px;
   }
 }
@@ -139,7 +139,7 @@
 }
 @media (max-width: 760px) {
   .site-brand {
-    font-size: 26px;
+    font-size: 1.625rem;
   }
 }
 @media (max-width: 520px) {

@@ -5,7 +5,12 @@ export const STORAGE_VERSION = 2;
 export const emptyData = (): UserData => ({
   version: 2,
   progress: {},
-  settings: { quickAddCount: 10, speechEnabled: true, accent: "en-US" },
+  settings: {
+    fontSize: "normal",
+    quickAddCount: 10,
+    speechEnabled: true,
+    accent: "en-US",
+  },
   answers: [],
   introducedAt: {},
   sessions: [],

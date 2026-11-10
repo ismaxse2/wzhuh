@@ -77,7 +77,7 @@
     padding: var(--space-7) 0 52px;
   }
   .lesson-brand {
-    font-size: 25px;
+    font-size: 1.5625rem;
   }
   .lesson-main .completion {
     padding: 30px var(--space-5);

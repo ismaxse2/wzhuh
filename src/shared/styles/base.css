@@ -18,6 +18,7 @@
   --font-sans: "Inter", "Segoe UI", Arial, sans-serif;
 }
 :root {
+  font-size: 16px;
   font-family: var(--font-sans);
   color: var(--color-text-primary);
   background: var(--color-page);
@@ -84,7 +85,7 @@ h1 {
   letter-spacing: -1.1px;
 }
 h2 {
-  font-size: 19px;
+  font-size: 1.1875rem;
   font-weight: 650;
   letter-spacing: -0.45px;
 }

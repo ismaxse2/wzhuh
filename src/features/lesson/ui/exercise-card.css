@@ -15,7 +15,9 @@
   gap: var(--space-4);
 }
 .intro-word h1 {
-  font-size: 48px;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-size: 3rem;
   font-weight: 600;
   letter-spacing: -1.5px;
 }
@@ -35,7 +37,7 @@
 }
 .translation {
   text-align: center;
-  font-size: 21px;
+  font-size: 1.3125rem;
   font-weight: 500;
   margin: 17px 0 29px;
   color: #766282;
@@ -73,7 +75,8 @@
   margin: 5px 0 27px;
 }
 .prompt h1 {
-  font-size: 34px;
+  overflow-wrap: anywhere;
+  font-size: 2.125rem;
   font-weight: 550;
   letter-spacing: -0.9px;
 }
@@ -83,6 +86,8 @@
   gap: var(--space-3);
 }
 .answer-choice {
+  min-width: 0;
+  overflow-wrap: anywhere;
   display: flex;
   align-items: center;
   gap: var(--space-2-5);
@@ -250,7 +255,7 @@
 }
 @media (max-width: 760px) {
   .intro-word h1 {
-    font-size: 43px;
+    font-size: 2.6875rem;
   }
 }
 @media (max-width: 520px) {
@@ -265,7 +270,7 @@
 }
 @media (max-width: 520px) {
   .intro-word h1 {
-    font-size: 39px;
+    font-size: 2.4375rem;
   }
 }
 @media (max-width: 520px) {
@@ -300,7 +305,7 @@
 }
 @media (max-width: 520px) {
   .prompt h1 {
-    font-size: 29px;
+    font-size: 1.8125rem;
   }
 }
 @media (max-width: 520px) {
@@ -330,7 +335,7 @@
   .letter-tile {
     width: 32px;
     height: 38px;
-    font-size: 17px;
+    font-size: 1.0625rem;
   }
 }
 @media (max-width: 520px) {
